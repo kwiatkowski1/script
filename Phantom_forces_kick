@@ -1,0 +1,109 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Home
+
+
+The Stoner 96 is a rank 196 American LMG. An evolution of the earlier Stoner 63 by Eugene Stoner, this LMG carries a lot of 5.56x45mm NATO rounds capable of laying suppressive fire and racking up kills without having to worry about reloading.
+
+ A - D  Adopt Me! • Anime Battle Arena • Apocalypse Rising • Arena Tower Defense • Arsenal • Bee Swarm Simulator • Blackhawk Rescue Mission 5 • Black Magic II • Black Hole Simulator • Blox Cards • Boku No Roblox • Booga Booga • Boss Fighting Stages Rebirth • Bubble Gum Simulator • Build A Boat For Treasure • Crown Academy • Dinosaur Simulator • DOORS • Dragon Ball Online Generations • Dragon Ball Z Final Stand • Driving Empire • Dungeon Quest  E - N  Eclipsis • Egg Simulator • Electric State DarkRP • Elemental Battlegrounds • Entry Point • Evolution Evade • Fantastic Frontier • Fishing Simulator • Flicker • Greenville • Horrific Housing • Ice Cream Simulator • Islands • Jailbreak • Juke's Towers of Hell • Loomian Legacy • Lumber Tycoon 2 • Mad City • Miner's Haven • Mining Simulator • Monster Islands • Monsters of Etheria • Murder Island • Murder Mystery 2 • My Hello Kitty Cafe • My Restaurant • Ninja Legends • Notoriety  O - S  Overlook RP • Parkour • Phantom Forces • Pilot Training Flight Simulator • Pinewood Builders • Quantum Science • RBLXWare • ROLVe • Race Around the World • Reason 2 Die: Awakening • Ro-Ghoul • RoBeats • RoCitizens • RoPets • Royale High • Rumble Quest • Science Simulator • Shindo Life • Site 76 • Snow Shoveling Simulator • Stepford County Railway • Sunshine Islands • Super Bomb Survival  T - Z  Theme Park Tycoon 2 • The Battle Bricks • Tower Battles • Tower Defense Simulator • Tower of Hell • Treasure Quest • TreeLands • Typical Colors 2 • Ultimate Driving • Vehicle Simulator • Vesteria • Welcome to Bloxburg • Whatever Floats Your Boat • World // Zero • Zombie Attack 
+
+The Phantom Forces Wiki reached 100,000 edits on July 29, 2018 and reached 200,000 edits on May 30, 2022.
+Here's to 100,000 more!
+
+
+We reached 1,000 pages on October 19, 2021.
+We've come a long way, haven't we?
+
+
+This wiki was founded on
+December 24, 2014.
+
+
+Our editors have made
+205,608 edits on 1,337 articles
+and have uploaded 10,137 files
+to the wiki!
+
+
+Welcome to 2023! There may not seem like there's much to do, but one of the pieces of information that languishes is the weapon pages. Oftentimes, the advanced information for each weapon may change in an update, and this can pass underneath the radar. Investigate weapons, ensure the information for the weapon is up to date, then move to the next weapon. There are a lot of weapons in Phantom Forces, but if you work with other editors, you can get the weapons up to date quickly and efficiently.
+
+
+
+  
+Check in on the list of outdated articles and help get them up to date.
+
+  
+Is being on the bleeding edge more your style? Have a look at articles under construction and get them ready for prime time.
+
+  
+Want to just write? Stub articles deserve your attention too.
+
+
+
+
+Mechanics/Recoil
+
+
+This sub-page is dedicated to the different types and effects of Recoil in Phantom Forces. Use the Table of Contents to easily navigate between the different types.
+
+
+Contents
+
+
+General Information
+
+
+Recoil is a physical effect of the gun pushing backwards or sideways, towards the player when a gun is being fired. This results in inaccuracies when being fired because the gun is thrusting towards the player, which results in the gun moving vertically or drifting horizontally.
+
+
+Each type of recoil has different categories. Min is the minimum amount of recoil a gun can have. Max is the maximum amount of recoil a gun can have. Both are calculated randomly. If a stat affects the horizontal recoil of a gun, then negative numbers will affect how left a gun's recoil will pull it, while positive is how right they will possibly go. There are several attachments that alter different types of recoil in Phantom Forces, primarily in the form of underbarrel grips and muzzle devices, though some specialty attachments in the Other category can provide dramatic recoil control changes for specific weapons.
+
+
+Recoil Types
+
+
+Camera Recoil
+
+
+Camera recoil can best be described as mouse recoil. It works by essentially making the player's mouse move all over the place. Because it simulates moving the mouse, it also moves the gun with the camera, so as the player's camera kicks upward, the gun will also kick up and follow the camera, so the player will still shoot where they are looking. The first value affects vertical kick, the second value affects horizontal kick, and the third value affects the rotation of one's camera. For weapons with more powerful cartridges, like the M60 and AK47, the strong camera recoil becomes a nuisance. The Stubby Grip and Folding Grip are commonly used to reduce camera recoil.
+
+
+Rotational Recoil
+
+
+Rotational recoil affects a gun on a rotational plane. The first value affects how the barrel rotates vertically, the second value affects how the barrel rotates horizontally, and the third value affects how the gun is rotated in the player's hands. A few examples of guns that have a lot of rotational kick are the G3, M231, and HK51B. The X-Ring, Hera CQR Grip, Sideways Grip, and Pistol Grip are effective at mitigating this type of recoil.
+
+
+Transitional Recoil/Recoil Displacement
+
+
+Transitional recoil moves the gun across the screen. Not through the use of rotation. The first value affects how the gun moves horizontally, the second value affects how the gun moves vertically, and the third value affects how much the weapon will move towards the camera. Some guns with this type of recoil are the MAC10 with Extended Stock and the G18C with G Stock. The Pistol Grip, Hera CQR Grip, and X-Ring are effective at reducing it.
+
+
+Weapon Recovery Damping (modelkickdamper)
+
+
+Weapon recovery damping is like a spring. It dictates how bouncy the gun model is. The higher the damping, the less bouncy the gun will be.
+
+
+Note: Weapon recovery damping doesn't affect camera recoil and only affects rotational and transitional recoil. It also alters both sight and hipfire recoil.
+
+
+The SCAR L with 0.1 damper
+
+
+Weapon Recovery Speed (modelkickspeed)
+
+
+Weapon recovery speed is how fast the actual model will kick to the recoil and recover to its default position. A Green Laser is used to speed up weapon recovery.
+
+
+Note: Weapon recovery speed doesn't affect camera recoil and only affects rotational and transitional recoil. It also alters both sight and hipfire recoil.
+
+
+Aim Camera Recovery Speed (aimcamkickspeed) and Hipfire Camera Recovery Speed (camkickspeed)
+
+
+Camera recovery speed is how fast the camera will kick and recover. Slower camera recovery speed can hinder a firearm's accuracy.
