@@ -1,0 +1,90 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Building tools
+
+
+Building tools (also known as Btools) are the default tools used to build in a place. Players can get new building tools from an owner or admin of a Personal Server, while the old building tools are currently obtainable from admin commands (usually obtained by using the command !btools or ;btools) or by adding them in a game from Roblox Studio. Building tools also work on ROBLOX Mobile, except for the Move tool. When a player goes into the (now discontinued [1] ) Build Mode on any of their places, they would be granted with building tools.
+
+
+Contents
+
+
+Old building tools
+
+
+Current building tools
+
+
+
+  
+Stamper - shows a list of bricks that can be placed into an in-game session and modified by the other building tools. It is now broken and will not work as intended.
+
+  
+Insert - shows a list of models from the Toolbox which can be placed into an in-game session. It is now broken and will not work as intended.
+
+  
+Delete - works as the old Delete tool.
+
+  
+Clone - works similarly to the old Copy tool.
+
+  
+Rotate - rotates bricks.
+
+  
+Configure Parts - configures properties of special bricks, such as the C4. It does not work on normal bricks.
+
+  
+Wiring Tool - wires bricks, such as light to trigger.
+
+  
+Classic Tool - contains 5 tools: Material, Move, Paint, Resize and Surface.
+
+
+
+
+F3X 
+
+
+A community-made Btools plugin/model. This is the most widely used building tools as of now due to its higher capabilities. Everything is stored in one tool as opposed to 3 or 5. It is much more advanced than regular building tools.
+
+
+Trivia
+
+
+This section is a trivia section. Please relocate any relevant information into other sections of the article. 
+
+
+Command script
+
+
+A command script is a script allowing certain users to perform certain actions in a game by using commands which are usually given through the chat or through a GUI text box usually toggled by a hotkey.
+
+
+Usually, command scripts will accept commands, some of which will also accept arguments, which will be separated from each other's and from the command using a separator character (the most commons are the space and the '/' characters). Some command scripts will also require commands to be prefixed by a symbol like the exclamation mark (!) to distinguish commands from normal chat (if the command script uses the chat to listen for commands, that is).
+
+
+History
+
+
+The original widespread admin script was Person299's admin command script, which was used by many games until 2012 when Kohl's Admin Commands V2 was released.
+
+
+Nowadays, HD Admin and Trusted command scripts 
+
+
+Some of the most known command scripts are listed and described below. Most command scripts have been associated with a username (the user that created them), and most command scripts give the creator of the command script administrative admin commands in the place that uses them. Frameworks for admin commands have become increasingly advance and cryptic as users attempt to hide their name and develop easier to modify frameworks.
+
+
+The most famous and well-known of all the command scripts, and, unfortunately, also one of the most outdated and inefficient ones. Despite many parts of it being broken, most of it still works.
+
+
+An advanced chat command script including the ability to insert gear and hats from the catalog and much more.
+
+
+It was made by the now-deleted Kohltastrophe. Some people tend to use this to replace the broken ban script from Person299's admin command script.
+
+
+There has been a controversy that the admin script was stolen from a RAT base.
