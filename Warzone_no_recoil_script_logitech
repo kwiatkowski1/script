@@ -1,0 +1,126 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+ MEaLooser / warzone recoil haxx logitech only 
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+  
+Open with Desktop
+
+  
+View raw
+
+  
+Copy raw contents Copy raw contents Copy raw contents
+
+
+
+This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters. Learn more about bidirectional Unicode characters 
+
+
+ 
+  --SETTINGsS AND VALUES   --Standard no recoil settings, setting min and max means, that you roll values inbetween the two values, and hopefully making the script seem at bit more legit.   --Please remember this is a simple no recoil script and can only move your mouse down vertically at a varying speed.   --if you want flat value delete="math.random(AltPressSpeedMin,AltPressSpeedMax)" and input value. Example: "Sleep(30)", this works for all of them.   --Please try out different settings to fit it to your sensitivity and feel, personally i keep the mp7 as my baseline for norecoil and Famas for my rapidfire. dpi=600, sens ca. 5,5   --heard something about keeping values local as sort of an etiquette for coders, velp sorry if all the global values hurts your eyes.   --NoRecoil   NoRecoilMin=1,6 --Change this   NoRecoilMax=3 --Change this   HorizontalRecoilModifier=0 --try this if your gun only moves to one side, I will not be making profiles for this script, but you can keep it open and change values for each gun when in game.   SleepNRMin=6 --Change this   SleepNRMax=17 --Change this   --Tagging settings(ms), this is also a recoil predelay, the longer this takes, the longer it takes for your no recoil to start   AltPressSpeedMin=20 --Change this   AltPressSpeedMax=30 --Change this   InBetweenSpeedMin=20 --Change this   InBetweenSpeedMax=50 --Change this   --Rapidfire   PressSpeedMin=10 --Change this   PressSpeedMax=30 --Change this   NoRecoilRFMin=14 --Change this   NoRecoilRFMax=26 --Change this   SleepNRFMin=35 --Change this   SleepNRFMax=125 --Change this   --BINDS   --Enable/Disable, only scrollock capslock and numlock work for this bind: "scrolllock", "capslock", "numlock", you canalso delete: " if IsKeyLockOn(LockKey)then ", if you want it all at all times.   LockKey="numlock"   --Norecoil bind Im too lazy to make an alternative bind to keyboard, if you ask nicely and i have time i might do it for you.   LC=1 --Left click 1 is the click type this means 3 will be right click(Only works for mousebuttons)   RC=3 --right click   --Tagbind, should work for all keyboard buttons, remember to use left or right for modifiers: "lalt", "lshift"   Autotagmfer="lalt"   --Rapidfirebind   LCRF=1 --just leftclick   Rapidfirebutton=4 -- tis my forward key for thumb use, tried to make arg events work to give more keybind possibilities, but i always found they had a weird delay/rythm to them making them unreliable.   --FUNCTIONS don't see any reason why wou should touch anything below this point but be my guest.   function RapidFire()   repeat   PressMouseButton(LCRF)   Sleep(math.random(PressSpeedMin,PressSpeedMax))   ReleaseMouseButton(LCRF)   Sleep(math.random(PressSpeedMin,PressSpeedMax))   ReleaseKey(Autotagmfer)   MoveMouseRelative(0,math.random(NoRecoilRFMin,NoRecoilRFMax))   Sleep(math.random(SleepNRFMin,SleepNRFMax))   until not IsMouseButtonPressed(Rapidfirebutton)   end   function Autotag()   PressKey(Autotagmfer)   Sleep(math.random(AltPressSpeedMin,AltPressSpeedMax))   ReleaseKey(Autotagmfer)   Sleep(math.random(InBetweenSpeedMin,InBetweenSpeedMax))   PressKey(Autotagmfer)   Sleep(math.random(AltPressSpeedMin,AltPressSpeedMax))   ReleaseKey(Autotagmfer)   end   function NoRecoil()   repeat   MoveMouseRelative(HorizontalRecoilModifier,math.random(NoRecoilMin,NoRecoilMax))   Sleep(math.random(SleepNRMin,SleepNRMax))   until not IsMouseButtonPressed(LC)   end   --MAGIC AND WOODOO   function OnEvent(event, arg)   if IsKeyLockOn(LockKey) then   OutputLogMessage("event = %s, arg = %s\n", event, arg)   EnablePrimaryMouseButtonEvents(true)   end   if IsKeyLockOn(LockKey)then   if IsMouseButtonPressed(RC)then   repeat   if IsMouseButtonPressed(LC) then   OutputLogMessage("Autotag NoRecoil ")   Autotag()   NoRecoil()   elseif IsMouseButtonPressed(Rapidfirebutton) then   OutputLogMessage("Autotag & RapidFire ")   Autotag()   RapidFire()   end   until not IsMouseButtonPressed(RC)   end   end   end   
+
+
+
+J-Yaghoubi/Anti-Recoil
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Logitech mouse Anti-recoil script for shooting games like Warzone and Battlefield
+
+
+To use this script you need to have Logitech G-Hub software installed on your pc and a Logitech mouse that supports the scripting. You can download Logitech G-Hub software from here: 
+https://www.logitechg.com/en-us/innovation/g-hub.html
+
+
+After installing G-Hub you should follow this guide to active Anti-Recoil script on your favorite profile: 
+1- Open Logitech G-Hub software 
+2- Click on the this section as shown in the picture below
+
+
+3- Select the application that you want to active script on it and then click on scripting
+
+
+4- Go to script menu and then import Anti-Recoil.lua
+
+
+5- Go to script menu again and then click on Save and Run 
+6- If everything is ok you should see a welcome message on console
+
+
+The script has some simple setting that has been explained in code. So read it to get the necessary information.
+
+
+About
+
+
+Logitech mouse Anti-recoil script for shooting games like Warzone and Battlefield
