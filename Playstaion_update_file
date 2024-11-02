@@ -1,0 +1,312 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Sony PlayStation 4 Firmware 10.50
+
+
+For the best PlayStation experience, make sure your PlayStation 4 console system software is always updated to the latest version.
+
+
+Overview
+
+
+What's New
+
+
+Specs
+
+
+Related Drivers 7
+
+
+
+  
+You can now access your authorized apps in Settings.
+
+  
+Authorized apps are third-party apps and services that you've linked your account for PlayStation Network to. When using an authorized app, you give permission to share your account data with that app.
+
+  
+To view and manage your authorized apps, go to Settings > Account Management > Authorized Apps, and then scan the QR code with your mobile device.
+
+  
+Friends that are active on PlayStation App will now show up as online on your friends list.
+
+  
+Unicode 15.0 emoji can now be displayed.
+
+  
+You can see which of the players in your game session are on other platforms for games that support this feature.
+
+
+
+
+How to update the PS4 console system software
+
+
+
+  
+Using a PC or Mac, create a folder named "PS4" on a USB drive formatted as FAT32. Inside that folder, create another folder named "UPDATE".
+
+  
+Download the update file (button below) and save it in the "UPDATE" folder. Save the file as "PS4UPDATE.PUP".
+
+  
+Plug the USB drive containing the file into your PS4 console.
+
+  
+Start the PS4 console in Safe Mode: press and hold the power button, releasing after the second beep.
+
+  
+Select Safe Mode option 3: Update System Software.
+
+  
+Select Update from USB Storage Device > OK.
+
+
+
+
+If your PS4 console does not recognize the file, check that the folder names and file name are correct. Enter the folder names and file name using uppercase letters.
+
+
+How to reinstall the PS4 console system software
+
+
+Reinstalling the system software on your PS4 console will delete all of the data on your PS4 console. This process is often referred to as a "factory" reset, or "hard" reset.
+
+
+
+  
+Using a PC or Mac, create a folder named "PS4" on a USB drive formatted as FAT32. Inside that folder, create another folder named "UPDATE".
+
+  
+Download the reinstallation file (button below) and save it in the "UPDATE" folder. Save the file as "PS4UPDATE.PUP".
+
+  
+Plug the USB drive containing the file into the PS4 console.
+
+  
+Start the PS4 console in Safe Mode: press and hold the power button, releasing after the second beep.
+
+  
+Select Safe Mode option 7: Reinstall System Software.
+
+  
+Select Update from USB Storage Device > OK.
+
+
+
+
+If your PS4 console does not recognize the file, check that the folder names and file name are correct. Enter the folder names and file name using uppercase letters.
+
+
+Previous versions:
+
+
+
+  
+Sony PlayStation 4 Firmware 7.02 Re-Install
+
+  
+Sony PlayStation 4 Firmware 7.02 Upgrade
+
+  
+Sony PlayStation 4 Firmware 6.72 Re-Install
+
+  
+Sony PlayStation 4 Firmware 6.72 Upgrade
+
+  
+Sony PlayStation 4 Firmware 6.71 Re-Install
+
+  
+Sony PlayStation 4 Firmware 6.71 Upgrade
+
+  
+Sony PlayStation 4 Firmware 6.20 Re-Install
+
+  
+Sony PlayStation 4 Firmware 6.20 Upgrade
+
+  
+Sony PlayStation 4 Firmware 6.02 Re-install
+
+  
+Sony PlayStation 4 Firmware 6.02 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.56 Re-Install
+
+  
+Sony PlayStation 4 Firmware 5.56 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.55 Re-Install
+
+  
+Sony PlayStation 4 Firmware 5.55 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.53 Re-install
+
+  
+Sony PlayStation 4 Firmware 5.53 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.05 Re-install
+
+  
+Sony PlayStation 4 Firmware 5.05 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.03 Re-install
+
+  
+Sony PlayStation 4 Firmware 5.03 Upgrade
+
+  
+Sony PlayStation 4 Firmware 5.00
+
+  
+Sony PlayStation 4 Firmware 4.74 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.74 Upgrade
+
+  
+Sony PlayStation 4 Firmware 4.73 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.73 Upgrade
+
+  
+Sony PlayStation 4 Firmware 4.71 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.71 Upgrade
+
+  
+Sony PlayStation 4 Firmware 4.70 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.70 Upgrade
+
+  
+Sony PlayStation 4 Firmware 4.55 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.55 Upgrade
+
+  
+Sony PlayStation 4 Firmware 4.50 Reinstall
+
+  
+Sony PlayStation 4 Firmware 4.50 Upgrade
+
+
+
+
+Here's other similar drivers that are different versions or releases for different operating systems:
+
+
+How to Manually Update the PlayStation 4 or Pro
+
+
+Cameron Summerson is ex-Editor-in-Chief of Review Geek and served as an Editorial Advisor for How-To Geek and LifeSavvy. He covered technology for a decade and wrote over 4,000 articles and hundreds of product reviews in that time. He’s been published in print magazines and quoted as a smartphone expert in the New York Times. Read more. 
+
+
+Sony does a good job of pushing regular updates to the PlayStation 4 family, most of which install without a hitch. If you’re having issues getting an update to download or install, however, it’s time to do it manually.
+
+
+Why You Might Need to Manually Install an Update
+
+
+The majority of the time, you can count on your PlayStation to download any system updates automatically, which is nice. But if an update ever fails—and it does happen—then you’ll need to grab the download and flash it yourself. You might also find yourself in a situation where your PS4 doesn’t have access to Wi-Fi—maybe you’ve carried it with you on vacation. Again, this is a time when you’ll want to manually install an update.
+
+
+The good news is that manual installation is a breeze. There are a two ways of doing it: through the system menu and in safe mode. You’ll want to start with the system menu, and if that doesn’t work, move on to Safe Mode. Naturally, we’re going to cover both here.
+
+
+
+  
+Access to an internet connection on some other device—phone, computer, etc.
+
+  
+A USB flash drive with enough space to download the update (8 GB should be more than enough).
+
+  
+The latest update file.
+
+  
+A micro-USB cable (only if you need to install the update in Safe Mode)
+
+
+
+
+Note: If you’ll be downloading the update file with your phone, you’ll need a flash drive that’s compatible with your handset. We have guides on how to use a flash drive with both iPhone and Android.
+
+
+If you have everything you need, let’s get started.
+
+
+How to Install an Update from the System Menu
+
+
+First things first—grab the latest download from the Playstation website. Sony does an excellent job of providing manual downloads for users who may be experiencing issues.
+
+
+Next, you need to move the update to your flash drive. You can’t just copy it straight over, though—it has to fall into a certain file structure. So, you’ll need to create a couple of folders on your flash drive before you copy the file over.
+
+
+First, create a folder named PS4 , then create another folder inside your new PS4 folder named UPDATE . Use all caps for the names of both folders. Finally, copy the update file you downloaded into the UPDATE folder.
+
+
+When you have the update in the right folder structure, plug the flash drive into one of the PS4’s USB ports, and then open the Settings menu. Scroll down a bit, and select the “System Software Update” entry. When you do this, your PS4 should automatically find the update file on your flash drive and install it.
+
+
+If all goes well, you’re done. The PS4 will handle this update just like it would if it had been automatically downloaded.
+
+
+If installing the update through the system menu still doesn’t work, you’ll need to try installing it from Safe Mode.
+
+
+How to Install an Update using Safe Mode
+
+
+If updating automatically and manually through the system menu have both failed, updating through Safe Mode should essentially “force” the installation.
+
+
+You’ll need to set up your flash drive the same way we described in the previous section. Download the update file, create the PS4/UPDATE folder structure on your flash drive, and then move the update file into the UPDATE folder.
+
+
+Next, you’ll need to unmount any external storage you have attached to your PS4. If you have more than one drive attached, the PS4 will get confused and won’t know where to check for the update. Just make sure you unmount external storage using the System > Storage menu—don’t just unplug it. Once the update is finished, you can remount the drive.
+
+
+With all other external drives unmounted, go ahead and completely shut down your PS4.
+
+
+When the power light is off (indicating the system is totally shut down), insert your flash drive, and then press the PS4 power button and hold it down. The unit will beep once when the system turns on, but continue holding the button until it beeps again—it takes about seven seconds. This second beep means the system is entering Safe Mode.
+
+
+When the system turns on, connect a DualShock controller over USB, and then press the PS button.
+
+
+When the Safe Mode menu loads, select “Update System Software” to launch the update menu.
+
+
+On the next screen, choose the “Update from USB Storage Device” option. If you haven’t already connected your flash drive, you’ll have a chance to do so now. Just select “OK” to continue when your drive is connected.
+
+
+Your PS4 will take a few minutes to search for the update file, and then it should tell you there’s a system update available. Click “Next” to install the update.
+
+
+The PS4 will take a few seconds to copy the update file from the flash drive. When that’s done, click the “Update” button to restart the system and install the update.
+
+
+After the PS4 restarts, it begins the update. Just let it do its thing while you chill out. When it’s finished, the PS4 will restart again, and you should be running the newest version.
+
+
+Cameron Summerson 
+Cameron Summerson is ex-Editor-in-Chief of Review Geek and served as an Editorial Advisor for How-To Geek and LifeSavvy. He covered technology for a decade and wrote over 4,000 articles and hundreds of product reviews in that time. He’s been published in print magazines and quoted as a smartphone expert in the New York Times. 
+Read Full Bio »
