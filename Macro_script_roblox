@@ -1,0 +1,387 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+ FL-Hub-Scripts / Fake Macro (Z) 
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+  
+Open with Desktop
+
+  
+View raw
+
+  
+Copy raw contents Copy raw contents Copy raw contents
+
+
+
+This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters. Learn more about bidirectional Unicode characters 
+
+
+ 
+ Key = Enum.KeyCode.Z -- If you want to change the keybind, change "Z" with something else  loadstring(game:HttpGet("https://pastebin.com/raw/YkYju5rm", true))()   
+
+
+
+What is the difference between a macro and a script?
+
+
+Aren't both just a set of instructions that get executed by some interpreter? (contrary to a full-fledged program, which runs (gets executed) at some computer system?
+
+
+3 Answers 3
+
+
+Basically the difference is just one of degree. A script tends to be a lot more formally defined, with a well-defined scripting language behind it, while a macro is usually something more simple and ad-hoc. Macros are frequently "recorded" by telling a program "watch everything that I do" and then performing the action, whereas scripts are generally entered as text in the scripting language.
+
+
+Macros come in different flavors.
+
+
+The original kind was macros in assembly language, where a group of instructions could be named and each time the name was used the instructions were substituted for the name.
+
+
+C and C++ also have macros that work this way.
+
+
+But as with most things in IT, why have one term or one meaning when we can make things more confusing? So some environments (starting with MS Word, I believe) introduced "macros" that were a recorded set of actions.
+
+
+So there are two kinds of macro. The first gets substituted for the name and then compiled. The second is usually interpreted at runtime by the environment.
+
+
+Macro
+
+
+The common usage of macros is in software applications, and they originated as a tool to map user input to a different set of user output. The key aspect here is the changing of user input/output at the application level. Since user input tends to be related to keyboards, mouse and other devices. The output changed by the macro was often previously recorded by one of those devices. There are also macros that can be written by the user but the goal is often to yield a desired output.
+
+
+Script
+
+
+If macros are to application output, then scripts are to application automation. Scripts are often an application specific programming language that automate tasks for the user. The key here is the role of the user as a programmer, and the fact that users are not programmers. If you categorize scripting languages as those that don't compile, are parsed and easy to use then there are many languages that fit those requirements. I argue that scripting languages are the ones easiest for application users to automate the software with the least amount of programming knowledge. That is how they should be categorized as scripts. Anything that requires specialized knowledge outside the domain of the application is just programming tool.
+
+
+TG Macro - #1 Gaming Macro Tool for Windows PC
+
+
+TG Macro is one of the finest gaming macro tools for windows based pcs. It will make you feel that you have a macro mouse and macro keyboard even though you don’t have them physically. It is made for gamers and it has the capability of creating hundrends of macros with customized settings for each game that you play.
+
+
+TG Macro is also known as TGM Gaming Macro. On this page, we are going to help you Download TG Macro for PC on Windows 10, Windows 11, 8.1, 7. We will also help you in all the aspects such as how to create macros, how to bind macros to a hotkey, etc
+
+
+What Is TG Macro?
+
+
+TG Macro is a gaming automation macro tool developed by “trksyln”. It is one of the most trustworthy software which can record your mouse and keyboard events.
+
+
+Create Triggers and Loop Macros by using the Mouse and Keyboard key combinations easily. The best part is that you can also create triggers and loop macros by on-screen color changes.
+
+
+Create multiple macros and there are no restrictions at all. It is an open source software so, you can expect different versions of it going forward. On the other hand, it is a completely free software with no annoying advertisements. Since it is one of the finest mouse and keyboard automation tool, you can easily import amc recoil scripts.
+
+  NameTG Macro    Also Known AsTGM Macro  Versionv2.1  SupportsOnly Windows PCs  CategoryGaming  Official Websitetmacro.sourceforge.io  Last Updated21, January, 2023   
+
+Download TG Macro for PC Free [TGM Gaming Macro]
+
+
+TGMacro is available for windows personal computers only. Mac users cannot install it on their devices because it is not yet made for mac. So, all the windows users can install it and start creating macros with their keyboard and mouse or touchpad.
+
+
+Whenever you donwnload tg macro for pc from any other website, you will get the file in (.7z) format. Do you know what it is? I say you don’t need to know about all that. You can download tgmacro.exe file from our website and start installing it directly without wasting any further time with file formats and all.
+
+
+Check Out Similar Software:
+
+
+TG Macro Alternatives
+
+
+TG Macro too has some issues such as lags and crashes. Sometimes, it may not work as properly as you expect it to work. If you are experiencing the same, check out the best alternative software to tg macro. We have created a list wherein, you will get all the basic information about each alternative software.
+
+
+Requirements To Install & Use TGM Macro on Windows
+
+
+There are certain requirements that you must have on your pc. That will help you directly and indirectly to get the best output peformance from the TGMacro Latest Version.
+
+
+
+  
+Operating System: Windows 10, Windows 11, Windows 8.1, Windows 7, Windows Vista / Xp
+
+  
+System Architecture: 32-Bit, 64-Bit, 86-Bit
+
+  
+RAM (Recommended): 4 GB but works with 2GB also
+
+  
+Drivers: No special drivers needed for the software to run
+
+  
+Storage: At least 100 MB free space on your personal computer
+
+  
+Active Internet Connection: Not required
+
+
+
+
+How To Install TGMacro on PC Windows 11 / 10 / 8.1 / 7
+
+
+It is a standalone type of a software which doesn’t require any installation on pc. Some software don’t require to be installed on your pc, they just work like that. All you have to do is, double click the exe file and start using it. One more reason is that it is a very small in size (just about 832 kb).
+
+
+
+  
+Download TGMacro.exe on pc from the above download page link.
+
+  
+Drag that exe file to the desktop of your personal computer.
+
+  
+Double click the sofware to launch it on your pc. This step will work only if you have double clicked the exe file. In case if you have downloaded tgmacro.7z file from any other website, you will have to install 7 zip softwareand extract the contents of tgmmacro.7z file to desktop. Then only, you can start running the tgmacro software.
+
+  
+I hope you will see the user interface of the software now.
+
+
+
+
+Don’t know how to create macros using tgm gaming macro on pc? don’t worry, we are here to help you in every which way possible. Still not able to install it? check out the simple guide to Fix TG Macro Not Working issue.
+
+
+How To Use TG Macro on PC (Windows)?
+
+
+We are more than happy to share the instructions and tips for you regarding the usage of the tgmacro on pc. Let’s go ahead one by one and understand the process behind that. Questions and doubts are appreciated, you can post them in the comments below this page.
+
+
+How To Create Macros Manually on TG Macro ?
+
+
+You have two options for creating the macros. We are going to discuss the very first one that is, creating macros manually. Let’s check out the instructions for the same. Import TG Macro Settings to the software and start playing.
+
+
+
+  
+Launch TGMacro on Windows PC first of all.
+
+  
+Click on “Add New Macro +” option. You can find this option at the bottom right corner of the window.
+
+  
+Name the macro; for example tgmacro.org.
+
+  
+Select the Triggering; choose Key Events for Trigger Actions By option.
+
+  
+Select Key Pressed, Key Hold or Key Toggle for When Option.
+
+  
+Now, select the key; let’s say for example “D”.
+
+  
+Select the Recording options now; Mouse Movements, Mouse Buttons, Keyboard Keys, Delays.
+
+  
+Press the “+” button to select the macro action options.
+
+  
+Select the Action Type from the available action types such as Mouse Key, Mouse Move, Keyboard Key and Wait Action .
+
+  
+Select the Mouse Positioning from the two available options namely Absolute and Relative.
+
+  
+Now Select Mouse Position for clicks or key presses. Press Alt + X key combination to select the current location of the cursor (mouse).
+
+  
+Select the Keys now; tap “Click Here To Set Key” button and select the Individual Key or Key Combination.
+
+  
+Now, configure the key status with any one of the options; Press, Down or Up.
+
+  
+Finally, hit “Save” option to save the macro on tgm macro app.
+
+
+
+
+How To Add An Action on TGM Gaming Macro?
+
+
+Actions are nothing but what the TGM Gaming Macro has to perform when pressed a hotkey. There are actually 4 different types of actions available currently. In order to add the actions or edit the actions, follow the below instructions.
+
+
+
+  
+Launch the software and click on “+” plus icon on the macro editor window.
+
+  
+Otherwise, you can also tap “Edit” option under macros to edit the actions.
+
+  
+Select “Mouse Move Action” for move the cursor from current position from the desired position on the screen.
+
+  
+Mouse Key Action allows you send the clicks with your mouse keys (left or right or center).
+
+  
+Keyboard Key Action is for sending key strokes to active window.
+
+  
+Wait Action will make the macro wait for desired amount of milliseconds or seconds or even minutes and hours.
+
+
+
+
+How To Configure Key Statuses On TGM Macro?
+
+
+Open the action editor to set or change the key statuses. Let’s check out what are the different types of key statuses that you can set.
+
+
+
+  
+Press Key Status will press the selected key and releases within 1millisecond delay.
+
+  
+Down Key Status will press the selected key and hold until release.
+
+  
+Up Key Status will release the selected key.
+
+
+
+
+How To Set Keys For Key Statuses?
+
+
+We have discussed about the key statuses. Let’s now see how to set the keys for the Press or Down or Up key statuses.
+
+
+
+  
+Click on the “+” icon on the macro editor or “Edit” option under the desired macro.
+
+  
+Action Editor will be opened up now.
+
+  
+You will see something like “Keys: Click here to set key” option.
+
+  
+Click on that option and select the key from your mouse or from your keyboard.
+
+
+
+
+How To Record Mouse And Keyboard Events?
+
+
+It is not a difficult part of this guide. So, you don’t need to worry about it even though you are newbie. Let’s check out the simple steps that you may have to follow.
+
+
+
+  
+In order to Record Mouse and Keyboard events using TGMacro on pc, you will have tocreate a macro first.
+
+  
+Once macro creation is started, look out for the Record Settings at the bottom right corner of the screen.
+
+  
+Select and configure all the actions that you want to capture.
+
+  
+Finally, hit “Record” option or press the hotkey; for example Control + F10 key combination.
+
+  
+Once recording is over, you have to press the same hotkey combination or the Record button.
+
+
+
+
+How To Loop Macros By Mouse Or Keyboard Key Combinations?
+
+
+In general, you can set the key combination to start and stop the macro. If you want to loop a macro, you will have to configure few options explained below.
+
+
+
+  
+Select the Macro that you want to loop, from the home screen of the tg macro on windows pc.
+
+  
+Now, Hit “Edit” option which is available on the right side of the macro.
+
+  
+Under Triggering Options, put Key Events for Trigger Actions By and select “Key Toggle” option for “When” settings.
+
+  
+Hit “Save” button to save the macro settings.
+
+
+
+
+Once the macro settings are saved, you can run the macro by pressing the hotkey combination. Since you have selected Key Toggle option, the macro will be in a loop and it will run until you stop it with the same key.
+
+
+How To Import AMC Recoil Scripts on TG Macro?
+
+
+Amc recoil scripts are nothing but the scripts with all the settings for the mouse events and keyboard events created outside of the TG Macro. Moreover, those scripts are available in .amc format. That’s the reason why we call them “Amc recoil scripts”. Now, you can add the scrits to this software and use them as your macros for playing the games.
+
+
+
+  
+Launch TG Macro on windows 10 or windows 11, 8.1, 7 pc.
+
+  
+Now, go to “File” section of the window.
+
+  
+You will see various options as shown in the above image.
+
+  
+Select the last option “Import Script”.
+
+  
+Now, a window will open up with the folders on your pc.
+
+  
+Go to the path where the amc recoil scripts are saved on your pc.
+
+
+
+
+This is how you can actually load the .amc recoil scripts to the TMacro software. Comment below if you have any doubts and questions regarding adding the scripts.
+
+
+11 Comments
+
+
+Hello, James here. 
+I have doubt regarding the macro creation i.e., can i include only the clicks and be able to use it as a dedicated auto clicker? Please answer…
+
+
+Hey James! 
+Yeah you can do that. For that, start macro creation using the Record option and start clicking on the screen wherever you want the clicks. 
+Now you will get the clicks and mouse moves and delays in the script. Modify the delays, mouse moves and clicks if you want and save it. Run the script and enjoy clicks alone. Is there anything that you would like to know about?
