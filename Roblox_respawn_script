@@ -1,0 +1,86 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Activate respawn after character death (lua scripting roblox engine)
+
+
+how should I make this code work, after the character is dead, activate the respawn function when I press the button. At this moment the button works, but it does not take into account whether the character is dead or not, and I want to put the condition to operate the button only when the character is dead. eventually, I can post an error message or something, let the man know why the button doesn't work.
+
+
+ model = game.Workspace.MyModelName -- Replace with your model name messageText = "Regenerating MyModelName. " message = Instance.new("Message") message.Text = messageText backup = model:clone() enabled = true function regenerate() message.Parent = game.Workspace model:remove() wait(4) -- display regen message for 4 seconds model = backup:clone() model.Parent = game.Workspace model:makeJoints() message.Parent = nil enabled = false wait(30) enabled = true end function onHit(hit) if (hit.Parent:FindFirstChild("Humanoid") ~= nil) and enabled then regenerate() end end script.Parent.Touched:connect(onHit) script.Parent.ClickDetector.MouseClick:connect(onTouched) 
+
+
+1 Answer 1
+
+
+Add the following to your code.
+
+
+game.Players.PlayerAdded:Connect(function(plr) plr.CharacterAdded:Connect(function(char) Char.Humanoid.Died:Connect(regenerate) end) end) 
+
+
+Related
+
+
+ Hot Network Questions 
+
+
+Subscribe to RSS
+
+
+To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+Site design / logo © 2023 Stack Exchange Inc; user contributions licensed under CC BY-SA . rev 2023.4.5.43379
+
+
+By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+
+
+Respawn Script
+
+
+I need a standalone respawn script so I can put it inside a gui.
+
+
+game.Players.LocalPlayer.Character.Head:Destroy() if game.Players.LocalPlayer.Character.Humanoid.Health < 5 then local deathmanok = game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").position wait(1.5) game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(deathmanok) end 
+
+
+Just make it press end, r, enter
+
+
+Some games don't let you reset
+
+
+can u make an anti respawn so that you dont respawn ?
+
+
+About Community
+
+
+Reddit's #1 ROBLOX Exploiting community. Whether it's scripts, tutorials, memes or anything else - we've got it!
+
+
+Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform. For more information, please see our Cookie Notice and our Privacy Policy .
+
+
+Lua Roblox respawn character dead
+
+
+How should I make this code work? The Judoon character must regenerate, (respawn) when I click on the wall but only when he is dead.[![Regenerate][1]][1] When I click on the wall, my Judoon character has to respawn but only when he is dead. Also how can I introduce Regen Button, the script, be separate from the Judoon model, but it should work. If you put the script Regen into Workspace, separate from the Judoon folder, it will not work.
+
+
+ local box = script.Parent local debounce = false -- DO NOT GROUP THIS WITH YOUR MODEL! local everything = local names = local children = game.Workspace:children() for i=1,#children do if (children[i].Name == "Judoon") then -- Replace the name with your models's name. table.insert(everything, children[i]:clone()) table.insert(names, children[i].Name) end end function regen() for i=1,#everything do game.Workspace:findFirstChild(names[i]):remove() -- Dont mess with this stuff. new_thing = everything[i]:clone() new_thing.Parent = game.Workspace new_thing:makeJoints() end end function onClicked() if Judoon:FindFirstChild("Judoon"):GetState() == Enum.HumanoidStateType.Dead then regen() end end wait(15)-- This is how long it takes untill the regen button will work again. script.Parent.BrickColor = BrickColor.new(104) debounce = false end script.Parent.ClickDetector.MouseClick:connect(onClicked) --This regen button was made by andymewborn,hope you like(d) it! [1]: https://i.stack.imgur.com/HhLo3.png 
+
+
+1 Answer 1
+
+
+You can do something like this, if the humanoid is dead then regenerate.
+
+
+function onClicked() if Judoon:FindFirstChild("Judoon"):GetState() == Enum.HumanoidStateType.Dead then regen() end end 
+
+
+--[[ 1. Put this script inside the button 2. Rename the modelname 3. The model must be a child of Workspace --]] button = script.Parent modelname = "Pk" -- Model name model = game.Workspace:FindFirstChild(modelname) backup = model:Clone() function Regen() local Old =game.Workspace:FindFirstChild(modelname) Old:Destroy() local New = backup:Clone() model = New -- new changes made here New.Parent = workspace New:MakeJoints() end function onClicked() if button.BrickColor == BrickColor.new("Bright violet") then if model:FindFirstChild("Humanoid") ~= nil then if model.Humanoid:GetState() == Enum.HumanoidStateType.Dead then Regen() print("removed and added") end end button.Regen:Play() button.BrickColor = BrickColor.new("Really black") wait(3) button.BrickColor = BrickColor.new("Bright violet") end end button.ClickDetector.MouseClick:Connect(onClicked) 
