@@ -1,0 +1,277 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+iOS / tvOS Installation Guide
+
+
+The following is a non-developer guide to install RetroArch on non-jailbroken iOS devices. We're going to try to improve the process and possibly include the iOS cores in a download, but until then, here is a way to build RetroArch to get it running on your iPhone, iPad, or Apple TV.
+
+
+Building From Source using Xcode
+
+
+This is probably the most straightforward way to install RetroArch without having to resort to 3rd party tools. It does however require:
+
+
+Download Xcode from the Mac App Store.
+
+
+Clone the RetroArch repository
+
+
+Open Terminal (it's in Applications/Utilities) and run the following command:
+
+
+Download the Emulator Cores
+
+
+Emulator cores are needed to use RetroArch as they contain the code that drives the emulation of the system of the game you want to play.
+
+
+Normally you'd compile the cores, but since you're not a developer, I'll provide a link to my personal set of precompiled cores for iOS: Download Cores from Mega.nz
+
+
+Unzip the above archive of cores into the following directory in the RetroArch project: pkg/apple/iOS/modules. The core files should have the extension of .dylib.
+
+
+Open RetroArch in Xcode
+
+
+Open the Xcode project located at pkg/apple/iOS/RetroArch_iOS11.xcodeproj
+
+
+Sign in with your Apple ID
+
+
+
+  
+Open Xcode Preferences (Xcode -> Preferences)
+
+  
+Click the "Accounts" tab
+
+  
+Hit the "+" at the bottom left and choose "Apple ID" and sign in with your Apple ID
+
+  
+Once you’ve successfully logged in, a new "Personal Team" with the role "Free" will appear beneath your Apple ID.
+
+
+
+
+You'll need to assign the Developer credentials you just created above to the RetroArch project before you can run it on your device.
+
+
+Click on the project name, select the target you're interested in (RetroArchiOS11 for iOS, RetroArch TV) and change the "Team" to the role you created above.
+
+
+Then choose your run target (RetroArch iOS Release for iOS, RetroArch tvOS for AppleTV) and build and run:
+
+
+On the iPhone and iPad, you'll be presented with a touch interface. If you have an mFi controller, you can control the interface that way as well.
+
+
+On the Apple TV, you'll be shown the "XMB" (PS3-like) interface. You need to use an mFi controller with an Apple TV. The Siri Remote is not supported yet.
+
+
+When you first start RetroArch, you'll notice that you're missing images. You'll want to run the Online Updater:
+
+
+
+  
+From the main menu, choose "Online Updater"
+
+  
+Choose:
+
+  
+Update Core Info Files
+
+  
+Update Assets
+
+  
+Update Databases
+
+  
+Update Overlays
+
+  
+Update GLSL Shaders
+
+
+
+
+Changing the Menu Interface
+
+
+If you want more visual flair in the interface, you can change it by going to "Settings" -> "Driver" -> "Menu Driver". You might need to restart to see it take effect.
+
+
+Transferring ROMS 
+ 
+iOS 
+Use a 3rd party utility like iFunBox or iExplorer to transfer ROM files to the RetroArch app directory.
+
+
+When you start RetroArch, you'll be presented with a screen with a web address that you can access on your computer to transfer files to the RetroArch app directory on your Apple TV.
+
+
+RetroArch: Step by step guide to install & Play Retro games emulator on iPhone without Jailbreak
+
+
+RetroArch is one of the best multiple retro console games emulator out there. There’s no doubt about it, however at the same time, RetroArch is also known for its complex and difficult to navigate menus and interface – especially if you are new to RetroArch. That’s the main reason I’m writing this article (and future article related to RetroArch), to share the step by step setup and configuration as well as tips and tricks that do not exist on RetroArch documentations so that you can maximize your RetroArch experience.
+
+
+This time, in this article, I’m going to share detail step by step on how to install RetroArch on iPhone (iPad and iPod Touch should works too) running latest iOS without requiring any jailbreak, so you can enjoy one of the best multiple retro game console right from your hands anywhere anytime you like to play them.
+
+
+SNES Super Nintendo is one of the supported retro game console on RetroArch. Image courtesy of Evan-Amos Wikipedia.org
+
+
+Installing RetroArch on iPhone – Play PS1, Sega Saturn, Genesis, NES, SNES, N64, GBA and more
+
+
+The steps written here are tested on latest iOS – at the time this article is written is iOS 14.5 and using the iPhone that I currently have – iPhone XR. Should you are using different version of iOS or iPadOS, the steps may be slightly different but should not deviate too much. Anyway, in case you have questions / issues, feel free to put them down on the comment section down below, I’ll be more than happy to help you.
+
+
+Some of the steps mentioned here you can skip them if you have done it before. In summary, here they are.
+
+
+
+  
+Install iTunes on Computer.
+
+  
+Register for Apple FREE Developer Account.
+
+  
+Generate App Specific Password.
+
+  
+Install AltStore to Computer.
+
+  
+Connect your iPhone.
+
+  
+Install AltStore to iPhone.
+
+  
+Get the latest RetroArch build for iPhone.
+
+  
+Install RetroArch to iPhone.
+
+  
+Run RetroArch on iPhone.
+
+
+
+
+Step 1) to Step 6) Read here.
+
+
+For details of step 1) to step 6) – including all download links, I have detailed and provided them here on this link: Complete guide how to sideload apps/games into iPhone/iPad without jailbreak at JILAXZONE. You need about 15-30 minutes, depends on your internet connection to complete everything – since mostly are either downloading software or registering account.
+
+
+Once you have done all the first 6 steps, then continue on subsequent steps below.
+
+
+Popular on JILAXZONE today:
+
+
+Step 7) Get the latest RetroArch build for iPhone.
+
+
+Step 7a) Get RetroArch. Due to the reason stated above, unfortunately we can’t really use the latest built for RetroArch, but instead to use any newer build that has size 
+
+
+RetroArch v1.9.1 (310.7MB) (tested working)https://buildbot.libretro.com/stable/1.9.1/apple/ios-arm64/RetroArch v1.9.2 (393.8MB) (latest version)https://buildbot.libretro.com/stable/1.9.2/apple/ios-arm64/ 
+
+
+
+Step 7b) Download the RetroArch.ipa file directly using your iPhone. Click the link above from Safari browser. Once downloaded, the file shall be stored under your Files app. In case you don’t know, IPA (.ipa) is short for iOS Application Package (iOS app/game file – it’s like EXE file for Windows or APK file for Android). In case you don’t know where Safari put the downloaded file, configure it here: Configure Safari default download folder for iOS at JILAXZONE.
+
+
+Step 8) Install RetroArch to iPhone.
+
+Prerequisites:
+Before proceeding to the steps below, ensure you have done Step 1) until Step 7) and ensure you have AltServer running on your Computer and your iPhone plugged in to the same Computer that AltServer is running.
+
+With iPhone connected to your computer with AltServer running, follow these steps:
+
+
+Step 8a) Run AltStore app.
+
+
+Step 8b) Inside AltStore, go to “My Apps” tab.
+
+
+Step 8c) Tap on “+” button located on the top left of AltStore screen.
+
+
+Step 8d) Navigate to the download folder where you have downloaded RetroArch.ipa file. Tap on the file to begin installing. In case prompted, key-in your Apple ID and password – this is required for code signing.
+
+
+RetroArch should now in-progress being installed to your iPhone, you just need to wait until it finished installing. Once finished installing, it will appear on “My Apps” tab under “Active” section.
+
+
+Just to be sure, you can go back to your iPhone Home screen and check whether you can see “RetroArch” app icon on the Home screen. If you can see “RetroArch” app on your Home screen, that means you have successfully installed it. Congrats! At this point, you can safely remove your iPhone from your computer.
+
+
+Step 9) Run RetroArch on iPhone.
+
+
+Running RetroArch on iPhone is as simple as tapping the icon. If this is your first time opening RetroArch, you won’t see any retro games on it. You need to get your own games for it.
+
+
+My iPhone with SteelSeries Nimbus – ready to play any retro games!
+
+
+For legal reasons and for respecting game developers and publishers out there, I won’t detail the steps here, but you can google for it easily. Ensure to transfer your retro games into the iPhone.
+
+
+That’s it! Congrats to you for your hard work installing RetroArch on your iPhone. Now it’s the time for you to enjoy playing all those retro games straight from your iPhone, anywhere anytime you like.
+
+
+Play better with Controller!
+
+
+While you can always use the touchscreen of the iPhone, but for greater fun and enjoyment, I would recommend you to play the games with the Controller using physical buttons – so the experience is (almost) the same like the original. Just in case you need recommendation, here they are. I am personally using Nimbus and DualShock 4 to play the games.
+
+
+Note: If you buy anything from Amazon / AliExpress using links above, I will earn a small commission at no extra cost charged on your purchases.
+
+
+Other retro game emulators available on iPhone (and iPad and iPod Touch)
+
+
+These are other retro game emulators available on iPhone, none of them requires jailbreak.
+
+
+
+EmulatorDescriptionInstallation guide LinkCEMUNintendo Wii U emulator, workaround for iOSCEMU workaround for iOS at JILAXZONEDeltaMultiple Nintendo console emulator for iOSDelta for iOS at JILAXZONEeNGEPS1 emulator for iOSeNGE for iOS at JILAXZONEiNDSNDS emulator for iOSiNDS for iOS at JILAXZONEPPSSPPPSP emulator for iOSPPSSPP for iOS at JILAXZONEProvenanceMultiple game console emulator for iOSProvenance for iOS at JILAXZONERetroArchMultiple game console emulator for iOSRetroArch for iOS at JILAXZONERetroGameBotMultiple game console emulator runs on Safari for iOSRetroGamesBot for iOS at JILAXZONEYuzuNintendo Switch emulator, workaround for iOSYuzu workaround for iOS at JILAXZONE 
+
+
+
+Do you have anything you want me to cover on my next article? Write them down on the comment section down below.
+
+
+Alternatively, find more interesting topics on JILAXZONE:
+
+
+JILAXZONE – Jon’s Interesting Life & Amazing eXperience ZONE.
+
+
+Hi, thanks for reading my curated article. Since you are here and if you find this article is good and helping you in anyway, help me to spread the words by sharing this article to your family, friends, acquaintances so the benefits do not just stop at you, they will also get the same goodness and benefit from it.
+
+
+Or if you wish, you can also buy me a coffee:
+
+
+Live to Share. Share to Live. This blog is my life-long term project, for me to share my experiences and knowledge to the world which hopefully can be fruitful to those who read them and in the end hoping to become my life-long (passive) income.
+
+
+My apologies. If you see ads appearing on this site and getting annoyed or disturb by them. As much as I want to share everything for free, unfortunately the domain and hosting used to host all these articles are not free. That’s the reason I need the ads running to offset the cost. While I won’t force you to see the ads, but it will be great and helpful if you are willing to turn off the ad-blocker while seeing this site.
