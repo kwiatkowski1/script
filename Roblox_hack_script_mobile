@@ -1,0 +1,222 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Free Football Fusion Script (Auto Catch, Mag, Speed and More)
+
+
+I would definitely recommend Football Fusion Script to you.
+
+
+Every football club’s beating heart is the manager. Football Fusion 2023 renews the focus on you, the manager, by providing you with all of the tools you need to achieve elite status through dynamic, true-to-life management experiences and next-level detail. Create tactical strategies, formations, and styles of play for each occasion in order to increase your club’s chances of winning football matches and obtaining those three points.
+
+
+The possibilities are limitless, with more than 70 nations and 7,500 clubs at every level of the football pyramid to choose from. It’s up to you now, boss. Choose your colors and the challenge that best suits your goals, then collaborate with your club’s hierarchy to ensure you meet theirs… or face the consequences. Before entering the transfer market, collaborate with your backroom staff to assess the strength and depth of your playing squad.
+
+
+Football Fusion Script Features 
+
+
+Football fusion hacks features include:
+
+
+
+  
+Teleport to any selected position
+
+  
+Mid Air Catch
+
+  
+Tackle
+
+  
+Auto Catch,
+
+  
+Mag,
+
+  
+Speed
+
+  
+and more
+
+
+
+
+Football Fusion Hacks Script 
+
+
+the best Football Fusion Scripts;
+
+
+local screen = Instance.new(“ScreenGui”,game.CoreGui) 
+local frame = Instance.new(“Frame”, screen) 
+local frame2 = Instance.new(“Frame”, frame) 
+local creds = Instance.new(“TextLabel”,frame2) 
+local controls = Instance.new(“TextLabel”,frame) 
+local qq = Instance.new(“TextLabel”,frame) 
+local rr = Instance.new(“TextLabel”,frame) 
+local ff = Instance.new(“TextLabel”,frame) 
+local closer = Instance.new(“TextLabel”,frame) 
+local closegui = Instance.new(“TextButton”, frame)
+
+
+frame.Size = UDim2.new(0.15,0,0.18,0) 
+frame.AnchorPoint = Vector2.new(0.5,0.5) 
+frame.Position = UDim2.new(0.5,0,0.5,0) 
+frame.BackgroundColor3 = Color3.new(0/255,0/255,110/255) 
+frame.BorderSizePixel = 0
+
+
+frame2.Size = UDim2.new(1,0,0.2,0) 
+frame2.Position = UDim2.new(0,0,0,0) 
+frame2.BackgroundColor3 = Color3.new(150/255,0/255,0/255) 
+frame2.BorderSizePixel = 0
+
+
+creds.Size = UDim2.new(0.6,0,0.6,0) 
+creds.AnchorPoint = Vector2.new(0.5,0.5) 
+creds.Position = UDim2.new(0.5,0,0.5,0) 
+creds.BackgroundTransparency = 1 
+creds.BorderSizePixel = 0 
+creds.TextColor3 = Color3.new(1,1,1) 
+creds.TextScaled = true 
+creds.Font = “GothamSemibold” 
+creds.Text = “PatriotsHax by RelentlessRaptor”
+
+
+controls.Size = UDim2.new(0.4,0,0.4,0) 
+controls.AnchorPoint = Vector2.new(0.5,0) 
+controls.Position = UDim2.new(0.5,0,0.11,0) 
+controls.BackgroundTransparency = 1 
+controls.BorderSizePixel = 0 
+controls.TextColor3 = Color3.new(1,1,1) 
+controls.TextScaled = true 
+controls.Font = “ArialBold” 
+controls.Text = “Controls:”
+
+
+qq.Size = UDim2.new(1,0,0.1,0) 
+qq.AnchorPoint = Vector2.new(0.5,0) 
+qq.Position = UDim2.new(0.5,0,0.45,0) 
+qq.BackgroundTransparency = 1 
+qq.BorderSizePixel = 0 
+qq.TextColor3 = Color3.new(1,1,1) 
+qq.TextScaled = true 
+qq.Font = “ArialBold” 
+qq.Text = “Q – Boost Forward”
+
+
+rr.Size = UDim2.new(1,0,0.1,0) 
+rr.AnchorPoint = Vector2.new(0.5,0) 
+rr.Position = UDim2.new(0.5,0,0.6,0) 
+rr.BackgroundTransparency = 1 
+rr.BorderSizePixel = 0 
+rr.TextColor3 = Color3.new(1,1,1) 
+rr.TextScaled = true 
+rr.Font = “ArialBold” 
+rr.Text = “R – Boost Up”
+
+
+ff.Size = UDim2.new(1,0,0.1,0) 
+ff.AnchorPoint = Vector2.new(0.5,0) 
+ff.Position = UDim2.new(0.5,0,0.75,0) 
+ff.BackgroundTransparency = 1 
+ff.BorderSizePixel = 0 
+ff.TextColor3 = Color3.new(1,1,1) 
+ff.TextScaled = true 
+ff.Font = “ArialBold” 
+ff.Text = “F – Sky Run”
+
+
+closer.Size = UDim2.new(1,0,0.07,0) 
+closer.AnchorPoint = Vector2.new(0.5,0) 
+closer.Position = UDim2.new(0.5,0,0.89,0) 
+closer.BackgroundTransparency = 1 
+closer.BorderSizePixel = 0 
+closer.TextColor3 = Color3.new(1,0,0) 
+closer.TextScaled = true 
+closer.Font = “Arial” 
+closer.Text = “- click anywhere to close -”
+
+
+closegui.Size = UDim2.new(1,0,1,0) 
+closegui.Text = “” 
+closegui.BackgroundTransparency = 1
+
+
+local mouse = game.Players.LocalPlayer:GetMouse() 
+local parted = false
+
+
+local part = Instance.new(“Part”,game.Lighting) 
+part.Anchored = true 
+part.Size = Vector3.new(700,1,700) 
+part.Transparency = 0.9 
+part.TopSurface = “Smooth”
+
+
+mouse.KeyDown:connect(function(key) 
+if key == “f” then 
+if parted == false then 
+part.Parent = game.Workspace 
+part.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0,10,0) 
+game.Players.LocalPlayer.Character:MoveTo(game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0,18,0)) 
+parted = true 
+else 
+part.Parent = game.Lighting 
+parted = false 
+end 
+end 
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+if key == “q” then 
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()*CFrame.new(0, 0, -5)) 
+end 
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+if key == “r” then 
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()*CFrame.new(0, 5, 0)) 
+end 
+end)
+
+
+closegui.MouseButton1Up:connect(function() 
+screen:Destroy() 
+end)
+
+
+[ Hack Roblox ] 50 Bản Script Cho Máy Yếu - Auto Farm Lever, Auto Trái Ác Quỷ. More Hack 2023
+
+
+★ ĐẤU TRƯỜNG SINH TỒN - SỐNG SÓT ĐẾN CUỐI CÙNG
+Chế độ siêu HOT đã có mặt tại game Truy Kích Mobile
+★ ĐỒ HỌA MƯỢT MÀ - ĐỘT PHÁ TRẢI NGHIỆM.
+Độ phân giải 4K với khung hình lên đến 60 fps tạo ra nền tảng đồ họa đẹp mắt tới từng chi tiết. Thao tác điều khiễn dễ dàng cũng mang đến trải nghiệm tuyệt vời. 
+★ Game không cần nạp tiền, trâu cầy là có tất cả
+
+
+Truy Kích Mod
+
+
+How to install Truy Kích Mod
+
+
+Step 1. Download Truy Kích Mod () APK file on HappyMod.com. 
+Step 2. Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted. 
+Step 3.Truy Kích Mod () APK will begin installing on your device. Simple.
+
+
+How to install Truy Kích Mod from HappyMod app?
+
+
+Step 1. Download HappyMod APK file on HappyMod.com. 
+Step 2. Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted. 
+Step 3.Search Truy Kích Mod, click Download. 
+Step 4: You can download 100% working mods on HappyMod with one click.
