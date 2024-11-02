@@ -1,0 +1,207 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+sefinek24/Genshin-Impact-ReShade
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+✨ Genshin Impact Stella Mod Pack - 2023 ✨ 
+
+
+🌠 » If you want Ray Tracing in game, become my Patron « 🌠 
+⭐ » Star the repo if you liked it « ⭐ 
+
+
+
+  
+🌠 Genshin Impact Stella Mod Pack
+
+  
+📃 Changelog
+
+  
+⚠️ Important
+
+  
+📂 Includes
+
+  
+📥 How to install
+
+  
+✨ Requirements
+
+  
+🔧 Supported systems
+
+  
+🛠️ Tested game versions
+
+  
+⚙️ Recommended settings for game
+
+  
+🧀 Legend
+
+  
+📷 Other screenshots
+
+  
+🧶 Sources
+
+
+
+
+Please note that sharing any game screenshots that display your UID, visible shaders or ReShade overlay can lead to a ban in the game. If you intend to record a video of the game for purposes such as uploading to YouTube or other platforms, make sure to hide or censor your UID and username to avoid a ban.
+
+
+Additionally, we strongly recommend updating your graphics card and chipset drivers to ensure smooth gameplay and minimize any graphics-related issues or potential crashes. Please also familiarize yourself with the system requirements.
+
+
+If you need further assistance, feel free to join our Discord server. Also, if you wish to contribute to the project, please create a new Pull Request. 
+You can also check out the latest screenshots on our website and watch our videos on YouTube for more information. Our main server of sefinek.net is located in Poland, and Cloudflare servers are located in Warsaw and Frankfurt.
+
+
+By using this software, you agree to the terms of the license agreement. In addition, we are not responsible for any potential bans in the game. Although the chances of this happening are negligible.
+ 
+
+   🔍 Name 📃 More information 🌍 URL address 📑 License    Own launcher Always the latest releases. Repository CC BY-NC-SA 4.0  Unlocked ReShade No depth buffer detection.  Repository  BSD 3-Clause License  Easy installation wizard Safe and automatic installation. Repository CC BY-NC-SA 4.0  FPS Unlocker Click here for more information. Repository  Always the latest shaders The best experience. Folder  Own presets for game Best graphics quality. Folder CC BY-SA 4.0  Community presets Presets created by our community. Folder CC BY-SA 4.0  Preset with Ray Tracing Only available for Patrons. Patreon  Crosire's DLL injector Just an injector. Download file   
+
+
+  
+Download the latest setup from my official website.
+
+  
+Extract the downloaded file to a convenient location on your computer.
+
+  
+Run the setup file Genshin Impact Mod Setup.exe and follow the on-screen instructions to install the mod.
+
+  
+Once the installation is complete, launch Genshin Impact and enjoy the enhanced graphics and visual effects.
+
+
+
+
+ 
+🤔 Suggestion: It is recommended to use the installer to automatically install all the required dependencies, which is suitable for most cases.
+ 
+📝 Note: Make sure your PC meets the following requirements before installing the mod:
+ 
+
+   💻 Your PC & Network Requirements 📂 Dependencies    OS: Windows 10/11 (build > 19041) Visual C++ 2015-2022 Redistributable  CPU: 64-bit processor and system .NET Framework 4.8  GPU: DirectX 11 support .NET 7.0 (Only for patrons)  Disk: At least 1 GB of free disk space Windows Terminal  Network: Good internet connection Microsoft VCLibs (For Windows Terminal)  BIOS: UEFI mode enabled Microsoft Edge WebView2 Runtime (Optional)   
+   💻 System 🔖 Version 📝 OS Build 🙀 Status 🤔 Recommended?    Windows 11 22H2 22621.900  ✔️   ❌   Windows 10 21H2, 22H2 19045.2673  ✔️  ️ ✔️   Windows 8 / 8.1  ❓   🎯️   ❌   Windows 7  ❓   🎯️   ❌   Android / Linux  ❓   ❌   ❌   iOS / macOS  ❓ ️  ❌   ❌    
+   🎮 Game version 😅 Works with mod? 📆 Date tested    v3.5.0  ✔️  March 01, 2023  v3.4.0  ✔️  January 18, 2023  v3.3.0  ✔️  November 9, 2022  v3.2.0  ✔️  November 2, 2022  v3.1.0  ✔️  November 1, 2022   
+   🔧 Settings 📄 Value 🔧 Settings 📄 Value    Graphics Quality Custom Anti-Aliasing SMAA (Use FSR 2 if you have low FPS)  Display Mode 1920x1080 (or higher) Fullscreen Volumetric Fog On  Brightness Default Reflections On  FPS 60 (Do not change if you using unlock) Motion Blur Low or Off  Render Resolution 1.1 or higher Bloom On  Shadow Quality High Crowd Density High  Visual Effects High Co-Op Teammates Effects On  SFX Quality High Subsurface Scattering High  Environment Detail Highest Anisotropic Filtering 16x   
+
+ 
+📝 Note: 
+These recommended settings are provided as a general guideline and may vary based on individual player preferences and system specifications. It is recommended that players adjust the settings accordingly to optimize their own experience.
+ 
+
+   🐈 Emoji 🤔 Meaning 🐈 Emoji 🤔 Meaning 🐈 Emoji 🤔 Meaning     ✔️  Yes / Supported  ❌  No / Not supported  ❓  I don't know   🎯️  Default not supported  🤔  Not tested   
+
+ 
+⚠️ Warning: 
+It is worth noting that relying solely on the screenshots or videos provided may not necessarily provide the most accurate or up-to-date representation of the software or application. This is because the presets, or default settings, are constantly being reviewed and refined by the developers to ensure optimal user experience and address any issues or bugs that may arise.
+ 
+
+
+Please note that the icons and stickers used in this project were obtained from different sources.
+
+
+
+  
+The icons were sourced from Icons8 and FlatIcon, which offer a variety of high-quality icons in formats including PNG, SVG, and EPS.
+
+  
+The stickers used in the project were obtained from stickers.wiki, a website that provides a large collection of digital stickers.
+
+
+
+
+About
+
+
+The best Genshin Impact ReShade mod pack with custom graphics presets and FPS Unlocker. 2023
+
+
+Would it be possible to mod characters by changing their models or textures
+
+
+It depend on how often the game check the file, you might be able to do it, but you have a good chance of getting banned for tempering with game files.
+
+
+Such a shame, I'm really not interested in playing a bunch of preteens and 14 year old girls. Would be amazing if the characters could be aged up
+
+
+Why dont you ask them directly yourself
+
+
+Not many devs openly allow their games to be modded without some kind of drawback or if it's offline only so I'm not entirely sure.
+
+
+About Community
+
+
+This is the official community for Genshin Impact (原神), the latest open-world action RPG from HoYoverse. The game features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline & characters, co-op game mode, soothing soundtrack, and much more for you to explore!
+
+
+Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform. For more information, please see our Cookie Notice and our Privacy Policy .
