@@ -1,0 +1,679 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Tools and extensions
+
+
+This page lists all the tools for the game and extensions for browsers related to Summertime Saga.
+
+
+Contents
+
+
+Debug menu
+
+
+The debug menu is a special list of operations unlocked by setting the game in developer mode. It provides a lot of useful features to cheat on Summertime Saga, or get out of bugs and softlocks. Using the menu can block the game so proceed at your own risk!
+
+
+How to access the menu
+
+
+
+  
+Download this file and place it in the Summertime Saga game folder \game folder if you’re on Windows or Linux, or the SummertimeSaga.app/Contents/Resources/autorun/game folder if you’re on macOS.
+
+  
+Or write the following code in a text file, and place it in the same folder, after changing the file extension to .rpy :
+
+
+
+
+init 100 python: config.console = True config.developer = True persistent.enable_save_locking = False
+
+
+
+  
+Restart the game, and press the keys ⇧ Shift + O to open the console.
+
+
+
+  
+Open the phone menu and click on the wifi network signal icon to display the developer menu.
+
+
+
+
+
+  
+Click on the network signal icon in the phone menu to display the blue developer menu.
+
+  
+Dismiss the text field by hitting the Android Back button a couple of times.
+
+  
+Click on the black icon on the top right, next to the exit button.
+
+  
+The console is now open and you can type in your commands.
+
+  
+Once completed, type exit to close the console screen.
+
+
+
+
+Description
+
+
+The debug menu contains 6 main tabs – General, Time, Machines, Locations, Player and Items – and 3 buttons: the first one displays the console history, the second opens the console screen and the last one closes the debug menu.
+
+
+General
+
+
+This tab is dedicated to general options.
+
+
+
+  
+Unlock/Lock the user interface.
+
+  
+Unlock all cookie jar scenes.
+
+  
+Set the Mayor Rump’s scene at Hillside Mall.
+
+  
+Skip the first day of the game.
+
+  
+Unlock all locations.
+
+  
+Force/Unforce the map lock, forcing it unlocked will make the map available from any screen in the game.
+
+  
+Lock/Unlock the sleep lock, allowing you to sleep through anything.
+
+  
+Enable/Disable the cheat mode.
+
+  
+Display/Hide any python expression.
+
+  
+Enable/Disable notifications for label names on the top left corner whenever you enter a new label.
+
+  
+Enable/Disable the first‐day skip, starting you on the second day.
+
+
+
+
+Time
+
+
+This tab is dedicated to all the time manipulation functionalities.
+
+
+
+  
+Tick timer: advance time by one tick.
+
+  
+Set day to: set the current day to whatever you want, advancing the time until that day.
+
+  
+Set time to: set the time to whatever you choose, moving forward or backward in time if necessary.
+
+  
+Skip forward: allow to skip ahead a day, week, month, or year.
+
+  
+Toggle debug period: allow to force Christmas or Halloween decorations even if it is not the right time of year yet.
+
+
+
+
+Machines
+
+
+This tab is dedicated to Finite State Machines and gives info about where the machine is located and in which state it is. For each one you can:
+
+
+
+  
+Advance: advance the FSM by one state. This action can result in bugs though.
+
+  
+Show vars: open a separate window that shows all the variables for that FSM.
+
+  
+Pregnancy: open a separate window with all the variables for that machine’s pregnancy manager.
+
+
+
+
+Locations
+
+
+This tab is dedicated to locations. For each location you can:
+
+
+
+  
+Lock/Unlock the location.
+
+  
+Visit/Unvisit the location.
+
+  
+Set the can_leave flag for the location.
+
+  
+Move the main character to the location.
+
+
+
+
+Player
+
+
+This tab is dedicated to the main character. Its purpose is to be able to change his stats and money.
+
+
+Items
+
+
+This tab is dedicated to the items in‐game management. From there you can add or remove any item in the inventory. It has a convenient search box to filter out the 150 game items. You can also use this to print the full item list to the console.
+
+
+Browser extensions
+
+
+Summertime Saga also has browser extensions!
+
+
+Notifications and progress bars
+
+
+Get notifications when DarkCookie’s stream goes online, and follow the development of the next update one‐click away:
+
+
+
+  
+Dynamic progress bars
+
+  
+Development roadmap
+
+  
+DarkCookie’s stream link and notifications
+
+  
+Links to Patreon, Discord and the official wiki
+
+  
+Link to the download page
+
+
+
+
+Better Picarto.tv
+
+
+Add additional features and tweak to Picarto.tv:
+
+
+
+  
+Nickname completion with Tab ↹ hotkey
+
+  
+Emote completion with Tab ↹ hotkey
+
+  
+Last whisper hotkey with ⇧ Shift + ↑ hotkeys
+
+  
+Previous message history with ↑ and ↓ hotkeys
+
+  
+Notify on moderator actions (ban/SB, kick, unban, clearuser)
+
+  
+Optionally limit history
+
+  
+Username highlighting
+
+  
+Show deleted messages
+
+  
+Disable chat clears, and see which moderator issued it
+
+  
+User helper modal to aid moderator tasks
+
+  
+“Mimi” emote name rollover
+
+  
+Some small CSS tweaks
+
+
+
+
+Auto‐clicking
+
+
+There is a way to increase the main character’s strength without killing your fingers:
+
+
+
+  
+Download AutoHotkey here.
+
+  
+Download this script.
+
+  
+Double‐click on the script to open and activate it.
+
+  
+Now, all you have to do is hold down ⇪ Caps Lock key during the weightlifting minigame.
+
+
+
+
+Modding
+
+
+The modding of the game is based on the Summertime Saga API. It is recommended to read the corresponding article beforehand in order to familiarize yourself with the specificities of the code.
+
+
+Contents
+
+
+
+  
+1 Hooking into the game
+
+  
+1.1 Registration and enabling of the mod
+
+  
+1.2 Manifest file
+
+  
+1.2.1 Preferred mod load order
+
+  
+1.2.2 Main function name
+
+  
+1.2.3 Init label name
+
+  
+1.2.4 Adding to the game’s json files
+
+
+
+  
+2.1 Third‐party modules
+
+  
+2.1.1 Platform agnostic
+
+  
+2.1.2 Desktop builds
+
+  
+2.1.3 Mobile builds
+
+
+
+  
+3.1 Label calling in the game
+
+  
+3.2 Cutscenes and minigame instructions
+
+  
+3.3 Location names
+
+
+
+
+Hooking into the game
+
+
+Registration and enabling of the mod
+
+
+In an init -9 python or later, use the class method "register" of the ModManager class to register your mod to the game. This registration makes the mod show up in the (upcoming) Mods menu on the main menu so the players have the choice to enable or disable the mod for the game.
+
+
+init python: ModManager.register("ikarumod")
+
+
+A manifest file named modname_manifest.json must be added in the scripts/data folder.
+
+
+Manifest file
+
+
+The manifest file details in which labels the mod should hook into the game, and which screens. It also defines the name of the main function you wish to use to hook into the game.main() function, if any.
+
+
+Preferred mod load order
+
+
+Adding a key named load_order to the manifest will allow your mod to be loaded after a specific amount of mods, or before.
+
+
+Main function name
+
+
+This key should be a string containing the name of the main function of your mod. The function is searched for ini the globals() of the game (global namespace)
+
+
+Init label name
+
+
+This key should give the name of a label your mod uses at init time, which means after the game is fully initialized, either at the start of the game or after the load of the game. 
+This label is called in a new context, and it must return, otherwise other mods won’t be loaded
+
+
+Adding to the game’s json files
+
+
+Keys in the manifest named items , achievements and text_messages can be used to add data to the game json files. Each of these keys expects a full json dictionary formatted in the same way as their respective models.
+
+
+< "name":"ikarumod", "version": "0.1.0", "load_order": ">3", "main_function_name": "ikarumod_main", "init_label_name":"ikarumod_init_label", "text_filter":"ikarumod_text_filter", "items": < "item1":< . >, "item2": < . >>, "text_messages": < "text_message1":< . >>, "screen_hooks":< "upstairs_bedroom":"upstairs_bedroom_ikarumod", "bedroom":"bedroom_ikarumod" >, "label_hooks":< "bedroom":"bedroom_ikarumod" >, "achievements": < "angler-2"< . >> >
+
+
+Mod init order
+
+
+For every mod that is enabled, create a Mod instance with that mod’s name, parse the load order from the manifest, then insert that mod in the ModManager.mods list in the proper position. Then, for every mod in the ModManager.mods list, call their init label, if defined. Finally, update the game stores (i.e. achievements, items and text_messages) with every data of the mod. Updates overwrite the keys, so the load order can be used to overwrite the game’s (although ill‐advised) or another mod’s items/text_messages/achievements.
+
+
+Text filter
+
+
+The text filter key in the manifest allows you to create your own filter function without overwriting other mods. If undefined, this defaults to lambda text:text , otherwise the value of this key should be a string of the name of the function you wish to pass in as a text filter. If the function cannot be found in the global namespace (i.e. the globals() dictionary), then a ModLoaderError("No Function named found in the global namespace. Is it defined properly?") exception will be raised.
+
+
+Screens
+
+
+Create your screens with the following convention: modname + _ + in‐game screen name (the Ren’Py definition name). Screens are being included into the main game screens with the use statement. If you wish to add new locations, you have to define a screen for it, in which case, you can inspire yourself with the existing screens in the game. 
+To ensure proper game progression, you shoul only add imagebuttons. Please refer to Summertime Saga API § User-defined screen actions for more information on which screen actions the game defines.
+
+
+The mod screen hook is quite simple as it uses RenPy’s use statement for every modded screen. The screen hook is called at the end of each screen, so background set up and imagebuttons for the game are already properly shown and defined. You can then add your own imagebuttons, and other screen features to it.
+
+
+Hookable screens are, at least for now, only the location screens, and do not include the user interface.
+
+
+init python: ModManager.register_main(ikarumod_main)
+
+
+In this example, ikarumod_main is assumed to be a callable, which should be a python function. The function is called with no arguments at the end of game.main() method.
+
+
+Hooking into the main function is usually useful for code you want executed every time the game returns to a main screen, i.e. at the end of location labels for instance. This is where you can repeatedly check if the condition for an achievement has been fulfilled. If the provided function is not a callable, a ModLoaderError exception will be raised.
+
+
+Imported modules and directory structure
+
+
+Third‐party modules
+
+
+Platform agnostic
+
+
+
+  
+os
+
+  
+pygame
+
+  
+sys
+
+  
+from time : time, clock
+
+  
+from copy : copy, deepcopy
+
+  
+datetime
+
+  
+re
+
+  
+random
+
+  
+math
+
+  
+from collections : defaultdict, OrderedDict and Counter
+
+  
+weakref
+
+  
+codecs
+
+  
+hashlib
+
+  
+json
+
+  
+itertools
+
+  
+operator
+
+  
+textwrap
+
+  
+deuces
+
+
+
+
+Desktop builds
+
+
+Mobile builds
+
+
+Directory structure
+
+
+
+  
+game 
+
+  
+audio : SFX and musics
+
+  
+fonts : fonts for the game.
+
+  
+images 
+
+  
+achievements : achievement‐related images.
+
+  
+cookie_jar : cookie jar buttons, popups and thumbnails.
+
+  
+backgrounds : backgrounds and close‐ups.
+
+  
+boxes : popups and general purpose buttons (like the go back button).
+
+  
+buttons : most minigame assets, and menu buttons.
+
+  
+cellphone : cellphone images assets.
+
+  
+characters : character poses. One folder per character.
+
+  
+map : map locations and map background.
+
+  
+objects : character buttons, item buttons, doors, etc.
+
+  
+vfx : special visual effects (like the rain in Roxxy’s trailing scene).
+
+
+
+  
+characters : one folder for each character, containing an fsm file, a character.rpy file for miscellaneous stuff, and a layeredimage definition file. May contain a file for the character’s button and the according dialogues.
+
+  
+core : core files are put there, mostly what has been documented in the Modding API section of this manifesto.
+
+  
+data : JSON files that contain data about the game. Items, achievements, keymap or text messages are defined here.
+
+  
+defines : general image definitions, transforms, etc.
+
+  
+locations : one folder for every location, sorted in a tree‐like structure. Each location has a main file, a screen file and a dialogues file.
+
+  
+minigames : one folder for every minigame, the minigame dialogues and screen files are in that folder.
+
+  
+script.rpy
+
+  
+pregnancy_announcements.rpy
+
+
+
+
+Translating the game
+
+
+Label calling in the game
+
+
+The game offers a function in the Game class to select different dialogues based on the language class attribute defined there. To change that attribute, it’s just a matter of writing this piece of code in a separate ".rpy" file.
+
+
+init 1 python: Game.language = "es" # for Spanish for instance, "fr" for French, etc
+
+
+Every time a dialogue is called, the game looks for the label name and the language string at the end. For instance, the label bank_liu_account_info has the English version in; and to overwrite that dialogue, you’d have bank_liu_account_info_fr or bank_liu_account_info_es depending on the value of the language string.
+
+
+Any dialogue can be translated with this method. Keeping a consistent directory structure is recommended, because of the large number of dialogues in the game. You also have to copy over the posing. For your convenience, every dialogue label is stored in a dialogues.rpy file for that location. Just copy the file and edit the dialogue and the label name.
+
+
+Cutscenes and minigame instructions
+
+
+You can’t edit the cutscenes directly. Well, you could, but you shouldn’t! Using the config.say_menu_text_filter variable is the best way. Just register a function to that variable with one argument, text , which contains the text of the displayable. Then edit the text how you see fit.
+
+
+Example of translation: 
+
+
+init 10 python: fr_translations = [deb_name] and dad had stashed away.": "En utilisant la clé et le tabouret, je pus aller dans le grenier.\nJe n'y avais jamais été auparavant.\nUn sentiment d'excitation m'envahissait alors que je me demandais quels trésors [deb_name] et papa avaient caché là-haut."> def fr_text_filter(text): if text in fr_translations.keys(): return fr_translations[text] else: return text config.say_menu_text_filter = fr_text_filter
+
+
+Keep in mind however that Ren’Py engine doesn’t handle large dictionaries. elif statements can be used to split the content into several dictionaries if necessary.
+
+
+def fr_text_filter(text): if text in fr_translations_1.keys(): return fr_translations_1[text] elif text in fr_translations_2.keys(): return fr_translations_2[text] else: return text
+
+
+Location names
+
+
+In an init 1 python (or later) block, you can set the display name of any location object in the game. This allows renaming and translation of any game location, thus displaying that name in relevant parts of the user interface.
+
+
+init -1 python: L_map.display_name = "New Map Name"
+
+
+Summertime Saga MOD APK 0.23.00 Pre-tech (Cheat Menu & Unlock All)
+
+
+Opens each scene in the game, very much like, all things considered. Your objective is to gather dollars in the Summertime Saga Mod APK game. You need cash to live and you need work to bring in cash. Notwithstanding reality, this game offers a decent $999,999 beginning reward, all things considered. In any case, in the event that you need more than that, the game is finished. Isn’t it exhausting to attempt to bring in cash? Gather dollars, cover charges, educational cost, and then some, and mess around.
+
+
+You can live like a mogul without stressing over cash any longer. You can download Saga MOD APK for Android and iOS gadgets free of charge. Try not to work for over 1 moment. All things considered, utilize this 100% protected and free mod to work on your equilibrium.
+
+
+In the event that you’ve any time played a substitute sort of age game, you can without an entirely amazing stretch change yourself with the knowledge. You proceed with a standard way of life, truly like some other individual, at any rate, there are different things that will happen to you that are not ordinary in the normal individual.
+
+
+About Game Story
+
+
+Right when you start the Summertime Saga APK, you will mix the essential scene in your room. A bed, a destroyed PC, a telescope, and some other tremendous things are on your hold. Other than your room, you meet your relative Jenny. She has an extraordinary attitude that you should direct later, and the ground floor is your mom’s room, where she is dependably occupied with cooking items and different things.
+
+
+It will request that you several situations for some cash and go on your Summertime excursion. She requests that you help her sister’s nursery actually a piece of town. In the upper right corner is the “Guide” button, which shows an associate of your city, your home, and your school. Tapping on unequivocal locales will take you to that space. You need to get more grounded by going to the rec center and karate classes.
+
+
+Game Features
+
+
+Designs
+
+
+The astounding plan of this game is what makes it stick out. From the coastline town, the designs, the trees, the blooms, the schools, are depicte faultlessly in a grouping of tones. In particular, appealing young ladies are extremely brilliant and boggling. Thusly, that people can experience various hours without getting exhausted.
+
+
+Limitless Money
+
+
+The game also boasts energy to the players as they give cash and critical gifts to what exactly’s to come. For this money and significant gifts, you should win and complete the task available in the game. This game is reflecting reality. Using it, you will have Unlimited Money, so you can live like an extremely rich person.
+
+
+Simple to utilize
+
+
+The game offers a simple to-utilize interface for players to see the value in games easily. In the game, you will not stand up to any intricacies and you will have heaps of fun. Game pages are expected to simply plan game tasks. The application can be run on different devices without any issues.
+
+
+Opened All Characters and Area
+
+
+There is a wide scope of characters(70) in the Summertime Saga APK game, for the most part, female characters who are opened in the wake of playing certain levels. There are around 30 particular regions, these regions additionally will be open definitely. If you download a changed interpretation of the game, you don’t have to hold on to anything; you can essentially go wherever and chat with someone. How novel is it that this game as of now gives you all of the features opened? In any case it.
+
+
+How to Download Summertime Saga?
+
+
+You can download the Summertime Saga APK for Android and iOS from here. Do not work for more than 1 minute. Make sure you find your balance with these free 100 protected mods.
