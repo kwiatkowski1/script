@@ -1,0 +1,540 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+How To Bypass HWID/Hardware Ban in any Game – 2023
+
+
+HWID (hardware) bans are the hardest to get around since, apart from your IP address being banned, there are also one or multiple hardware parts with unique identifiers(IDs) blocked by games. Game developers and Anti-cheat companies are looking for better and more effective ways to ban cheaters in-game that’s why a lot of them have started HWID banning players based on their hardware parts permanently in the last few years.
+
+
+While as I said above, the hardware id ban mainly applies to cheaters in-game and people who break the rules. But there are some cases when users get hardware banned without an obvious reason.
+
+
+Whatever your case may be, in this article, you will find all the information you need to spoof and change your hardware IDs to bypass an HWID ban in any game. You will get un hardware banned in any game. This process will take some time, so you have to be patient and careful with the instructions below.
+
+
+This method will not unban your account from the game you got banned from, but it will allow you to play again on your PC permanently.
+
+
+While reading this information, it might seem unlikely to you to bypass the HWID ban, but the truth is it’s not that hard to do so. Below you’ll find a step-by-step guide on exactly what you have to do to bypass the hardware ban on any game.
+
+
+SLOTHYTECH DOESN’T TAKE ANY RESPONSIBILITY FOR YOUR ACTIONS.
+
+
+The content you will find in this post is for educational and research purposes only.
+
+
+You are not encouraged to use these methods or techniques.
+
+
+I’ve collected into a folder all the files and tools you will need to change your HWIDs, IP / MAC addresses, and bypass the HWID ban on any game.
+
+
+HWID Bypass Files
+
+
+YOU CAN FOLLOW THIS GUIDE WITHOUT DOWNLOADING MY FILES IF YOU WANTED TO.
+
+
+I made this folder + scripts, to make it possible for everyone to follow the guide. Because not everyone knows how to use commands on CMD, edit the registry, etc.
+
+
+All files & scripts are clean and virus free, you can check by yourself on Virus Total or with any antivirus software.
+
+
+SO PLEASE DON’T MESSAGE ME ASKING IF THEY ARE SAFE TO DOWNLOAD
+
+
+YOU CAN FIND ALL THE OFFICIAL SOURCES IN EACH STEP OF THE ARTICLE AND DOWNLOAD EVERYTHING BY YOURSELF AND DO EVERYTHING MANUALLY IF YOU WISH TO.
+
+
+The files were updated in March 2023 to keep up with the latest Updates.
+
+
+OR
+
+
+Receive the files on your E-mail
+
+
+(You will also receive emails when there is a new patch/update)
+
+
+Download the files, extract them, and move the HWID Bypass folder to your C: drive.
+
+
+How To Get Unbanned From Any HWID Ban
+
+
+To get unbanned from the hardware ban with 100% success, you should do every step of this guide in the same order as shown below and not skip a single one. If you miss anything, you’ll most likely fail to get unbanned, and you will have to redo everything.
+
+
+Step 1 – Uninstall the game and clear all traces.
+
+
+The first and most important thing you’ll have to do when you are hardware banned on any game is to completely uninstall the game and make sure to clear every single file related to it. We want to ensure that no files are left on the PC that could link you back to the hardware id ban.
+
+
+Navigate to the Control Panel and choose the option Programs.
+
+
+Next, click on Programs & Features option.
+
+
+Locate the game, right-click on them, and choose Uninstall.
+
+
+Now let’s start clearing up any trace files left on your PC.
+
+
+Double-click on each shortcut on the first folder of the files and look for Folders/Files related to the game and delete it.
+
+
+
+  
+C:\Program Files (x86)
+
+  
+C:\Program Files
+
+  
+C:\%userprofile%\Documents\
+
+  
+C:\%localappdata%
+
+  
+C:\%programdata%
+
+  
+C:\Users\%username%\AppData\Local
+
+  
++ more every time they get updated.
+
+
+
+
+Once you delete everything related to the game from all these locations, the next thing you will have to do is to delete some leftovers in the registry.
+
+
+Press Windows Key + R, and type Regedit.
+
+
+
+  
+HKEY_CURRENT_USER\Software\
+
+  
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\
+
+  
+HKLM\Software\WOW6432Node\
+
+  
++ more locations on the files.
+
+
+
+
+At each location, you will see a lot of folders on the left side.
+
+
+Right-click on any folder related to the game & launcher and choose Delete.
+
+
+Step 2 – Edit HWID Registry keys
+
+
+Next, you will need to edit a few registry keys that could link you back to the HWID(hardware) ban.
+
+
+Below you can find step-by-step instructions on how to edit all registry keys that could link you back to the hardware id ban.
+
+
+Press Win Key + R on your keyboard, and a small window on the bottom left should appear. Type “Regedit” and hit enter.
+
+
+Now copy this path -> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography and paste it into the search bar on the top side.
+
+
+Go to the GUID Generator website, click on the button to generate a new GUID, and copy it.
+
+
+On the right side of the registry window, you should see the “MachineGuid” key. Double-click on it, replace the GUID with the generated one, and click OK.
+
+
+Again, copy this path -> Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001 and paste it into the search bar on the top side.
+
+
+Go to the GUID Generator website, click on the button to generate a new GUID, and copy it.
+
+
+On the right side of the registry window, you should see the “HwProfileGuid” key. Double click on it, replace the id with the generated one, and click OK.
+
+
+Now let’s move on to the next step!
+
+
+Step 3 – Mask & Setup your IP Address
+
+
+We see this all the time in the comments and on the emails we receive that people don’t want to pay for a VPN or want to make this work with a free VPN. Unfortunately, that will not be sustainable, and you will actually spend more money on new accounts and countless hours thinking about why you are getting banned again than just getting a good VPN now.
+
+
+Even HWID Spoofers will require you to buy a VPN. If you were to buy a working HWID Spoofer, you would have to pay around 500$-1000$ per year for the spoofer + VPN. By following this guide, you only need the VPN(3$-4$ per month) and 15 minutes of your time to follow the steps.
+
+
+I recommend using NordVPN because they have high-quality VPN servers, ensuring the best gaming experience and the lowest ping possible.
+
+
+I can’t find a completely free working method to go around the ban, but this is the cheapest it can get.
+
+
+How to correctly set up the VPN to protect you from getting your actual IP address seen: 
+
+
+Step 4 – Change your Disk’s Serial Number/ID.
+
+
+VolumeID by Microsoft is used to change the disk’s serial number/ID.
+
+
+Hard drives are one of the most common hardware parts that get blacklisted on any hardware id(HWID) ban. Luckily, changing your hard drives’ unique identifier is effortless to bypass, and it won’t cause any issues on your hard drives or files.
+
+
+Below you can find how to change the serial number ids of all of your hard drives.
+
+
+Navigate to the folder with the previously downloaded files and go to “Step 4 – Change your Disk’s Serial Number/ID. Folder“. You should see a file named “Change Disk IDs“. Right-click on it, and choose “Run as administrator“.
+
+
+It will open a command prompt with all your drives, and it will ask you which drive ID you would like to change. Type just the letter of the Drive and hit enter.
+
+
+Press any key to continue, and your HDD/SSD SN should be changed(you will see the confirmation message).
+
+
+Do the same thing for the other drives once you get a message that the drive ID has been changed successfully. Once you’ve changed all your HDD/SSD IDs, move on to the next step of the guide.
+
+
+If you want to change the Drive ID manually or revert the changes, follow the steps below:
+
+
+Run the “Change Disk IDs.cmd” file as administrator and close it directly. We are doing this only to move the required files on the C drive.
+
+
+Run CMD as administrator and type the following commands:
+
+
+
+  
+cd c:/
+
+  
+Now for every disk that you have, type ->vol (Disk letter): for example, if you have two disks, let’s say, C & D. You will have to type the following commands: 
+
+  
+vol c:
+
+  
+vol d:
+
+
+
+  
+Copy the Volume Serial Number of your disks in a separate text file and save it.
+
+
+
+  
+volumeid c: (type the Volume Serial Number you saved before, and change the last two digits to whatever you want) Example: If the previous Volume Serial Number was AB98-1233 , type the command ->volumeid c: AB98-1211
+
+  
+Do the same for the rest of the disks(if you have any)
+
+  
+You should get a message the volume id is updated.
+
+
+
+
+Okay, that’s it, you’ve successfully changed the hard drives’ serial numbers IDs, and you are one step closer to getting unbanned from your favorite game.
+
+
+Step 5 – Change HWIDs of everything.
+
+
+In this step, you will learn how to change your hardware ID(HWID) on every hardware part of your PC that games mostly HWID ban.
+
+
+AMIWIN64 is used in this step.
+
+
+If you didn’t download the files, these are the commands you need to use when you run AMIWIN64:
+
+
+Run each command to see the current ID of each hardware part, and then type the command with the same number of characters as the default ID. (Make sure they are different.)
+
+
+AMIDEWINx64.EXE /CS
+AMIDEWINx64.EXE /BS
+AMIDEWINx64.EXE /PSN
+AMIDEWINx64.EXE /SS
+AMIDEWINx64.EXE /SU
+
+
+If you downloaded the files, do the following:
+
+
+We will change every hardware ID that gets flagged on an HWID ban.
+
+
+Navigate to “STEP 5 – Change HWIDs of everything.” folder, right-click on the “Change ALL HWIDs.cmd” file and choose “Run as administrator“.
+
+
+Then you will be asked to press any key to continue changing your hardware parts IDs, and the command prompt will show you upfront your new hardware IDs for every hardware part that was permanently banned.
+
+
+Once you press any button to continue, your Command Prompt should look something like the one below.
+
+
+You’ve successfully changed all your system’s HWIDs, and you are ready to move on to the next step.
+
+
+Step 6 – Change your MAC address.
+
+
+The next thing that immediately gets banned by any game after the IP address on any HWID Ban is the MAC address, so you have to make sure you have a different one.
+
+
+Below you can find step-by-step instructions on how to change your MAC address on any Windows machine.
+
+
+Navigate to Settings.
+
+
+Click on Network & Internet.
+
+
+Click on “Change adapter options“.
+
+
+Right-click on your primary internet adapter and click on “Properties“.
+
+
+Choose Client for Microsoft Networks, and click Configure.
+
+
+Navigate to the Advanced tab and choose Network Address.
+
+
+Now go to this website, generate a new mac address, copy it, and paste it to the Network address box.
+
+
+Click OK, and you will be disconnected for a few seconds/minutes from the internet. No worries, it will get back up.
+
+
+Now do the same thing for the NordVPN adapter. Right-Click on the NordVPN adapter and choose Properties.
+
+
+Choose “Client for Microsoft Networks” and click “Configure“. Navigate to the Advanced tab, choose MAC Address, and paste a newly generated MAC address from the generator.
+
+
+Once you’ve changed your ethernet/wifi adapter and the NordVPN’s adapter, MAC Address, proceed to the next step.
+
+
+If the above method didn’t work for you
+
+
+You will easily find a program to change your MAC address in the previously downloaded files. Select your Network Connections, click on the “Random MAC Address” button, and click on “Change Now!“.
+
+
+Step 7 – Create or buy a new game account.
+
+
+Now that you got everything ready, it’s time to create a new account or buy a cheap one from one of these websites: MMOGA, MMOGAH.
+
+
+
+  
+Use the most commonly used email providers ( Gmail, Hotmail, Yahoo, Protonmail, etc.) Avoid temporary emails.
+
+  
+The same goes for the phone number. Don’t use the free numbers you’ll find on websites on the internet. Instead, use a phone number you never used before, and get a cheap one from Tossable Digits, Hushed or TextVerified(One-time verification).
+
+  
+Don’t use Russian Numbers until further notice.
+
+
+
+
+Step 8 – Change Monitor HWID(Optional)
+
+
+In some rare cases, your monitor serial might get banned as well. I would say that it’s worth changing it since the process is straightforward and quick. To change your Monitors ID Serial, follow the steps below:
+
+
+Navigate to the folder -> STEP 8 – Change Monitor HWID, right-click on CRU.exe, and choose “Run as Administrator“.
+
+
+On the top side of the Custom Resolution Utility app, choose your Monitor/s and click on the “Edit” button.
+
+
+Change the value of the ID Serial and click OK.
+
+
+Step 9 – Hide Mouse, Keyboard, and Controller serial numbers. (Optional)
+
+
+Getting your mouse, keyboard, controller, and other peripherals banned or flagged is rare, and it mostly happens in manual HWID bans. Since it will only take one to two minutes to hide all your peripheral serial numbers, I recommend doing it to be safe.
+
+
+Below you can find step-by-step instructions on how to spoof and change your mouse, keyboard, controller, and any computer peripheral ID/Serial Number:
+
+
+Navigate to the “STEP 9 – Hide Mouse, Keyboard, and Controller serial numbers.” folder or download USBDeview, right-click on USBDeview.exe , and choose “Run as administrator“.
+
+
+Locate your Mouse, right-click on it, and select “Open In RegEdit“.
+
+
+Right-click on the marked folder on Registry Editor and choose “Permissions“. A window will pop up, and you should find the “Read” column and tick the “Deny” option. Once you do that, click Apply and OK.
+
+
+Repeat the same steps for your keyboard and controller(if you have one).
+
+
+Step 10 – Download and Install the game.
+
+
+
+  
+Open NordVPN, go to “Settings” and make sure “Kill Switch” is enabled.
+
+  
+Connect to a server in your preferred country. (Servers closer to you will get you better ping)
+
+  
+Run the game and log in with your new account.
+
+  
+Enjoy the game, and leave a comment below to let me know if it worked for you!
+
+
+
+
+WHENEVER YOU WANT TO PLAY THE GAME, YOU WILL HAVE TO ACTIVATE THE VPN!
+
+
+Bypass HWID Bans: Frequently Asked Questions
+
+
+To remove the HWID ban, what parts do I need to replace?
+
+
+If you were to replace the hardware parts instead of spoofing or changing the IDs, you would have to change the following:
+– Motherboard
+– SSD/HDD
+– Network Card
+– CPU (in some cases)
++ others depending on the game.
+
+
+How long does the HWID ban last?
+
+
+The duration of a hardware(HWID) ban in most games is usually unknown. Your ban’s appeal chance and time also depend on the follow-up actions you take and the reason you got banned in the first place.
+
+
+Can you play games with VPN?
+
+
+Yes, playing games while connected to a VPN is perfectly fine! Thousands of people worldwide use VPNs to play games without any issues.
+
+
+How to know if you are hardware banned?
+
+
+If your account was disabled and you are hardware banned, you’ll see a message telling you when you try to log in. When you try to create a new account or use your alt, you will notice that you will get banned on that account in under 24 hours. That’s how you understand that you’ve been hardware banned.
+
+
+What is a hardware(HWID) ban?
+
+
+A hardware ban or HWID ban on games is a punishment for people who break the rules and are usually caught using cheats or abusing bugs. Being hardware banned means that one or more of your computer hardware parts have been blocked, and any account linked to those hardware parts will be instantly banned as well.
+
+
+Every computer part has a unique identifier bound to it. So to bypass the hardware ban on any game, ultimately, you must buy new PC parts.
+
+
+Comments
+
+
+I did not even format my pc. I just followed all the steps, got nordvpn running, got a new alt account and boom. BACK TO WARZONE :))))
+
+
+THANK YOU VERY MUCH FOR THIS GUIDE! MUCH MUCH LOVE 
+
+Did you delete the game and downloaded it or just made new Acc
+
+
+are u always using vpn now to play=? Was you HWID banned?
+
+
+Yes i was HWID banned and yes since then i am using the VPN and everything is working perfectly fine!
+
+
+you delete the game or not
+
+
+Did you reinstall Windows with a new user first?
+
+
+Thank you so much! At first i thought it will be a virus but the files are clean and actually this method works unlike anything else you can find on the internet.
+slothy the man!!
+
+
+When i run “Change ALL HWIDs.cmd” it says “‘AMIDEWINx64.EXE’ is not recognized as an internal or external command, operable program or batch file.” Can someone help me with this? idk what to do…
+Edit: Moved files to C: like shown in the video and now everything works.
+
+
+Hello, I made a lot of choosing your tutorial except windows the router and VPN and I made myself Ban again. My question is as I had already put my bios in the latest version. Is it a black list file in the hwid? Do I need to reset and reinstall the latest version?
+
+
+Which of these steps do I have to do every single time I boot my computer and open the game? Other than the VPN ofc
+
+
+does this work for valorant
+
+
+HWID Ban Bypass EAC
+
+
+I am writing this thread after having informed myself enough on the subject (at least I think that's enough). I have been HWID banned from fortnite for using cheats (I am completely aware that I deserve it).
+
+
+The ban is not linked to the account but simply to my computer. When I was still using hacks when they banned me, I used a cleaner and changed the serial of the Harddisk and SSD. Everything worked and I could play again.
+
+
+I wanted to leave the cheats alone, so I repeated the procedure described, used the cleaner, changed the values ​​in the regedit etc. (usual working procedure that I always carried out). I removed all traces of the hacks and trying after the reboot to enter fortnite with my main account (which was always out of cheating), entering a game I am kicked out after 2 minutes.
+
+
+I repeated the procedure but nothing to do.
+
+
+Now I have inquired a little and I have seen that the ban is mainly based on the motherboard serial, the GPU UUID (if it's nvidia) and the motherboard UUID.
+
+
+Trying with another computer, connected to the same network (I have static ip), and above all with my main account, I can play safely.
+
+
+I had an idea about the possible unban, let me know your opinion.
+
+
+I wanted to switch the slots where I put the ram, do a complete format of the C: drive and install WINDOWS 11 (already tested on a partition). Then install fortnite with epicgames on an internal SSD where it has never been installed (This obviously by changing all the serial and mac address again first).
+
+
+This will allow me to have a slightly different HWID from the previous one but still different and to play theoretically again.
