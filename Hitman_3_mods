@@ -1,0 +1,1006 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+HITMAN 3 Mod Framework
+
+
+If you are a modder and want to use the framework, download the modder tools below and read its readme. For offline content, it mostly boils down to placing your resources in the right folders and using the framework's tools when referencing other resources in the content pack.
+
+
+Translations 
+
+
+The framework has translation support. Bundled content currently comes with the following translations:
+
+
+If you want to translate bundled content to a different language or want to improve existing translations, edit the files in Framework\2 Offline Content\translations and send me the resulting file.
+
+
+Credits: The mod framework includes rpkg-cli from the amazing rpkg project that enables HITMAN modding in the first place, ResourceTool from the equally amazing ZHMTools project that gives modders access to large parts of the engine and a copy of Python to permit you to run it without installing anything.
+
+
+THIS MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MOD OR THE USE OR OTHER DEALINGS IN THE MOD.
+
+
+Mods
+
+
+You can filter your search by including or excluding tags. To add tags, simply start typing the tag you're after. Separate new tags with spaces.
+
+
+A new way of developing and playing with mods - one-click installation without worrying about updates or compatibility!
+
+
+A new way of developing and playing with mods - one-click installation without worrying about updates or compatibility!
+
+
+Sniper Assassin, Seasonal Content and Custom Missions
+
+
+Sniper Assassin, Seasonal Content and Custom Missions
+
+
+Hitman's offline experience made better - more starting suits, planning pages unlocked, destructive physics, doubled breaching charges, unused items, previously online-only missions and other quality-of-life changes that improve the experience.
+
+
+Hitman's offline experience made better - more starting suits, planning pages unlocked, destructive physics, doubled breaching charges, unused items, previously online-only missions and other quality-of-life changes that improve the experience.
+
+
+Adds an "Elusive Targets' button to the dashboard, from where you can play all elusive targets as often as you like!
+
+
+Adds an "Elusive Targets' button to the dashboard, from where you can play all elusive targets as often as you like!
+
+
+UP TO DATE MOD, DON'T USE "OFFLINE MISSIONS" or "OFFLINE EXPERIENCE REFINED". Improves offline mode with more features, adds existing content that isn't available offline (eg. Seasonal missions/escalations) and modded/custom missions (incl Solo Ghost Mode, Choose Your Adventure mode)
+
+
+UP TO DATE MOD, DON'T USE "OFFLINE MISSIONS" or "OFFLINE EXPERIENCE REFINED". Improves offline mode with more features, adds existing content that isn't available offline (eg. Seasonal missions/escalations) and modded/custom missions (incl Solo Ghost Mode, Choose Your Adventure mode)
+
+
+The DEFINITIVE lighting mod for HITMAN III. This mod significantly improves visual clarity, accessibility, and aesthetic choices. Eliminates arbitrary effects and filters, significantly reduces bloom, and makes critical changes to skyboxes and color correction.
+
+
+The DEFINITIVE lighting mod for HITMAN III. This mod significantly improves visual clarity, accessibility, and aesthetic choices. Eliminates arbitrary effects and filters, significantly reduces bloom, and makes critical changes to skyboxes and color correction.
+
+
+Get X100 your loadout items and equip your fiber wire to start with one of every single item
+
+
+Get X100 your loadout items and equip your fiber wire to start with one of every single item
+
+
+Custom scoring for missions started in offline mode, including tracking of camera recordings (+ in-game notification) and more statistics displayed on the objective screen. It also enables custom scoring for modded missions. If you ever wanted to play offline while still having the game track how well you performed, this is the mod for you.
+
+
+Hitman 3 mods
+
+
+The Simple Mod Framework provides users an easy way to create and install mods to the game with a simple tool that does all the work of handling the files of the game and the mods.
+Think of it as your typical mod loader. This method is also the only way you could merge mods together that would otherwise be incompatible due to conflicting files or whatever.
+Some mods might even require this framework to be installed instead of the old traditional method.
+
+
+To set it up, download it first and then extract the files of the zip archive to where HITMAN 3 is installed. Steam users should be able to find it on an address exactly like this or similar to this:
+
+
+You can find it easily by right clicking on the game on your Steam Games Library and click on "Manage > Browse local files".
+
+
+Once you've moved the files to the game's directory, you can start the tool by running the "Mod Manager.cmd" file inside the "Simple Mod Framework" folder.
+
+
+When you're ready and you have a mod that requires the framework, have the tool running, use the "Import Framework Zip" option and select the downloaded zip of the mod.
+If the mod is in a ".rpkg" format, use the "Import RPKG Mod" option instead and select the .rpkg file. Enable the mods you want to use and then select "Deploy Mods" to apply them to the game.
+
+
+This framework also comes with an option to skip the intro splash screen that plays every time you start up the game, isn't that neat?
+
+
+NOTE: The mod needs to be released or updated for SMF 2.0 in order to work with it. 
+Mods that were made for SMF 1.0 won't work with SMF 2, although you could manually edit their manifest JSON file to make them compatible with SMF 2 and it might still work just fine.
+
+
+Before the Simple Mod Framework, we had to follow this method of modding the game.
+I recommend you use the method above instead since it is supposed to make modding easier, it solves the incompatibility problem of multiple mods that overwrites files rather than adding on to them, non-RPKG mods need the framework while RPKG mods can still be used by the framework anyway. But if you insist though, continue reading this section of the guide.
+
+
+First of all, you need to patch the "packagedefinition.txt" file so the game can load up these mods.
+
+
+You can either use Hardware's Package Definition Patcher [www.nexusmods.com] to automatically patch the file or this online editor [notex.app] to edit the encrypted "packagedefinition" file.
+
+
+If you're using the online editor: just click on "Set Patch Levels", save it as a .txt file then replace the original "packagedefinition.txt" file with the edited one.
+
+
+The reason why we have to do this, is so we can tell the game to load up more than the initial number of patches for the base game's chunks (assets) and mods are the patches (addons).
+You only have to patch that file once unless the game updates itself or it's been reinstalled. 
+Take note that some mods may already come with their own "packagedefinition.txt" files which if they do, it might be best to use them instead by having it overwrite the previous existing ".txt" file to ensure the mod fully works.
+
+
+The "packagedefinition.txt" file should be located in an address like this:
+
+
+Once you got your "packagedefinition.txt" file patched/replaced, mods should now be able to load in the game.
+
+
+The "Runtime" folder will be the location where you place the mods, which is where the game's assets and patches are as the game's been programmed to load up assets and patches from that particular folder.
+
+
+Most mods are usually named "chunk0patchX" in ".rpkg" format with the "X" being a number.
+It could be any number as long as it doesn't already exist so if there's already a "chunk0patch4.rpkg", "chunk0patch5.rpkg" or so on, then be sure to change the number of the latest RPKG file to the next consecutive number. 
+DO NOT rename it to just "chunk27" or whatever, it must be "chunkXpatchX".
+
+
+If you follow either of the two methods correctly, you could have your game look like this if the mod(s) edits the logo, menu backgrounds and the text to not be UPPERCASED: 
+Keep in mind that some mods like the ones that affect gameplay, missions and locations may only work in Offline Mode as they will be overridden by files from IO Interactive's online servers. 
+When you start up the game while you're online on Steam, you may have the option of cancelling the connection to IOI's servers. Do that to play the game in Offline Mode.
+Alternatively, you could just start Steam in offline mode and play the game that way. 
+
+
+Mods that I recommend you should have to improve the Hitman experience.
+The paragraph written in italics is me explaining why I think these mods are essential.
+Admittedly, some of them are preferential but there's also some that really enhances the game.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Improves offline mode with more features, adds existing content that isn't available offline (eg. Seasonal missions/escalations) and modded/custom missions (incl Solo Ghost Mode, Choose Your Adventure mode).
+
+
+This mod enables the main content that is not in vanilla offline mode, and improves upon content by adding more features/choice such as more spawns in some missions, difficulties, VR and unrestricted loadouts. It also ports over most of the custom missions I made for H2, they are only playable in offline mode or Peacock. 
+You will require the H1 and H2 Access Passes to access the missions.
+
+
+Not only do you have additional custom content that you can play around with in offline mode, some of the official content from IOI that are arbitrarily unavailable in offline mode can now be accessed without needing an internet connection. I mean come on, there's no good reason why Sniper Assassin and some missions like the holiday ones shouldn't be available offline.
+Lastly, the offline experience has been improved with more items, difficulty options and VR for bonus missions, added starting locations for some missions, unrestricted loadout, and more.
+
+
+DOWNLOAD [www.nexusmods.com] 
+You may have heard of The Brothers - Renzo and Orlando Caruso - a cut Elusive Target from Season 1 set at night time Marrakesh. A mod restores them in Hitman 2, and one briefly did in H3 before IO went out of their way to make it hard to restore.
+
+
+Well, for the first time on Nexus and SMF since IO put this content on their deletion lists, they're back! And they're better than ever!
+
+
+You hear that right, this is restored official content made by IO Interactive that never got to see the light of day (or night rather). 
+Not only is this mission restored, it's also been further enhanced.
+This mod might not actually be essential but I put it here because if you're craving for more official Hitman content, you should check out the lost Elusive Target mission that would've appeared in HITMAN (2016).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Nope! No need to pinch yourself, you're not dreaming. 
+The Sarajevo Six can now be played on Hitman 3 on PC!
+
+
+The Sarajevo Six was originally exclusive content for the PlayStation 4 version of HITMAN 2016.
+It's a mini campaign where 47 does his usual job of assassinating the target in each location of the first game. It's just a nice additional content to have but unfortunately for some reason, IOI didn't bring this content over to the later two games and they have no plans in doing so.
+Considering this is official content ported to the PC version of HITMAN 3, I say this is essential. 
+Not necessarily essential to have but essential to enhance the experience if you want official content.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds an "Elusive Targets' button to the dashboard, from where you can play all elusive targets as often as you like!
+
+
+Do I even have to say why this is essential? It's a bunch of official content no longer being arbitrarily locked after being available for a short period of real time, meaning you can finally play them anytime you want, more than once, and they're available in offline mode. 
+Comes with its own menu of selecting Elusive Targets to play too.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod significantly improves visual clarity, accessibility, and aesthetic choices.
+Eliminates arbitrary effects and filters, significantly reduces bloom, and makes critical changes to skyboxes and color correction.
+
+
+I believe this mod truly improves the lighting and post-filtering that IOI could've done themselves but wouldn't. Lighting Ultimate comes with options for each location so if you want certain maps to look nicer while keeping the rest the same, you can do that. The 2016 maps in particular have options to resemble its original lighting from the first game or improve upon the vanilla lighting from HITMAN 3. It also fixes the very glaring issues regarding the excessive bloom in the game which I'm not trying to make a pun, it's really glaring that hurts the visual clarity of the game. 
+I highly recommend this mod.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the US/UK accents of many international NPCs with ones that sound *slightly* more fitting.
+
+
+If I'm playing a game where I travel around the world, I expect a level of immersion where people speaks with an accent if they're not speaking in their native language. It's a real missed opportunity for HITMAN 2016 where everyone sounds American/British instead regardless of the location. This mod is the closest thing we'll ever get to have NPCs sound a little closer to where they're actually from, even if it's not exactly accurate.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes the objective text more readable, improves minimap clarity and removes ALL CAPS from almost all UI text. Works online.
+
+
+Have you ever wanted the H2016 HUD back? Well too bad, but this is the next best thing! Increases the objective text size, makes most of the UI proper case and removes the vignette and colour bleed from the minimap. Also makes the NPC dots more visible by adding an outline.
+
+
+I don't know about you but I don't think almost every UI text needs to be all UPPERCASE and the minimap shouldn't have a vignette effect unless you're hidden.
+This mod does what I want to make the UI neater and more readable.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows starting contracts by their metadata ID. Allows PC players to play cross-platform contracts. 
+(e.g. Steam <> Epic, Steam <> PS4)
+
+
+If you ask me, being able to play contracts from other platforms would've been great. 
+If there's an unique and creative contract you wanted to play but you can't simply because it was made on a different platform, this mod is for you.
+And considering there's more than one PC version of the game where the playerbases are segregated for some reason, this mod makes accessing PC contracts less of a hassle. 
+
+
+Mods that edits or changes the game's mechanics, items and weapons globally. 
+Basically anything that affects gameplay. Most of them may not work on Online Mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod enables VR for all of the main bonus missions and special assignments in Hitman.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Provides the necessary data to enjoy Ghost Mode, a retired game mode from HITMAN 2, directly in HITMAN 3 for Steam.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes the AI smarter, more realistic and more attentive in Master mode - now for Hitman 3!
+
+
+The AI in Hitman 3 is stupid. Even on the highest difficulty, people sometimes just ignore things like footsteps behind them, the sound of choking or a man in a flamingo outfit crouched down running across a hallway. This mod aims to fix some of this. 
+There are three versions: Normal, Manhunt and Extreme.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes all surveillance cameras hackable with 47's own camera.
+Ever wanted to play Watch Dogs instead of Hitman? No? Too bad, this makes all surveillance cameras hackable so you can destroy them with your camera.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Enables the Marksman perk on all weapons, allowing you to hold Shift to slow down time.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Autosaves to the first manual slot every 30 seconds (from when you first change disguise) and loads whenever 47 dies. Does not replace the game's usual autosave system - you can still manually save and load, as well as load "every-5-minute" autosaves.﻿
+
+
+DOWNLOAD [www.nexusmods.com] 
+Pacified NPCs now wake themselves up after 6-8 minutes. It's that simple.
+What happens if they're in a box? I don't know, find out!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Equips every NPC in the entire game with guns and grenades.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod makes all NPCs follow Agent 47 on all maps!
+
+
+DOWNLOAD [www.nexusmods.com] 
+The DEFINITIVE inventory mod for HITMAN™ 3™ by Eye-Oh Interactive™
+Adds the fiber wire to the default item slot so you don't need to waste an item slot to bring it in. Also works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows 47 to pull the pin of a grenade before throwing it, aka "cooking" it, allowing for more control of your explosions. 
+Works just like a detonator, pull the pin and throw whenever you feel like it. Be aware though, priming a grenade is sure to catch attention, so try to do it when unspotted. Works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds back in the Agency Cases for 2016 locations.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod adds a First Person Perspective to the game.
+Works on every mission in the game, including bonus missions, special assignments, Patient Zero, seasonal missions from Hitman 2.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds (as of yet) unreleased items to Hitman 3 offline mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Get X100 your loadout items and equip your fiber wire to start with one of every single item/
+
+
+This mod causes every loadout item to give 100 of themselves. This even includes items like guns, briefcases, poisons, and so on. In addition, the fiber wire will give you one of every item.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Hitman 3 will no longer freeze while the inventory selection is open.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Start with all permanent shortcuts unlocked in offline mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Persistent shortcut doors have been stripped of their shortcut properties.
+They now look and work like regular doors. 
+Available in two different versions: Always unlocked or locked
+
+
+DOWNLOAD [www.nexusmods.com] 
+Gives Goldbrick Mine and Chloroform Flask extremly large sphere of influence. Allows you to sedate everyone in the map at once. Very effective way to summon all knights on Isle of Sgail (and also to make Jiao lose her mind). And please don't use this to cheat.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Tired of being spotted halfway across the map on Haven? Annoyed that it has double vision range for guards? Well look no further! This mod returns viewcones on Haven to what it is on all other maps.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Fixes the invisible remote emetic gas device issue that occurs when its detonated inside the briefcase where guard NPCs would disarm an invisible gas device that was already detonated.
+
+
+I reached the character limit in the previous page before I even get to add a description for my own mod. It just adds an additional Breaching Charge so you can bring in 2 instead of 1.
+
+
+Anyway, 2kpr made so many gameplay mods recently that Steam won't let me fit them in the previous page due to the dumb character limit so here's the second page of gameplay mods.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns all suits into fire suits and burns nearby NPCs.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns all suits electric and electrocutes nearby NPCs.
+
+
+Fire DOWNLOAD [www.nexusmods.com] 
+Electric DOWNLOAD [www.nexusmods.com] 
+Poison DOWNLOAD [www.nexusmods.com] 
+Turns the Kalmer 1/2, Sieker 1, and Taunton Dart Guns into Fire/Electric/Poison Dart Guns.
+
+
+Pacify DOWNLOAD [www.nexusmods.com] 
+Sick DOWNLOAD [www.nexusmods.com] 
+Lethal Poison DOWNLOAD [www.nexusmods.com] 
+Make NPCs pacified, feel sick or die near 47's suit.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns any ammo type into explosive ammo.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns All Emetic Grenades into Poison Grenades.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows any keypad code to be entered on all access doors and safes.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows unlimited body storage in body containers.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows any maps' time of day settings to be used on any other map (1,056 possibilities).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows time of day changes in real time while playing in-game (1,056 possibilities).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes all NPCs into zombies.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes all ragdoll NPCs and items have zero gravity.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows Agent 47 to jump.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Gives Agent 47 infinite ammo for those long Kill Everyone sessions.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns the Flash Phone into a Warp Phone that allows 47 to warp to wherever the phone is.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes any NPC wounded by gunshots limp the rest of the game.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows all cameras and recorders to be locked onto and destroyed by throwable melee weapons.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Modifies the stun duration of "The Serpent's Tongue", a reward crossbow that you get for completing the "The Lust Assignation" DLC Escalation.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Gunfights are more deadly; one or two bullets to the torso are enough to kill (both npcs and player).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Disables health regen for all difficulties.
+No more easy gunfights, 47 is not Terminator anymore.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds an exit location for the starting car in Mendoza.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Disables evacuation in Berlin so ICA Agents don't escape after 5 of them die.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Several interesting weapon modifications (because it's more fun). 
+This includes (for a total of 5): weapons can be holstered, can be marked as non-weapons, always (almost?) have high precision, bullets do not instantly hit targets, or do minimum damage.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod replaces 47's movement animations with Hitman 2's. For some reason, IOI decided to make basically all of 47's movement speeds faster for Hitman 3. Some animations are clearly the same ones sped up, and others are new and (in my opinion) very poor quality.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces 47's movement animations/speeds with Hitman 2016's more realistic versions.
+﻿For some reason, IOI decided to make 47's movement speeds and animations much faster for Hitman 3. Hitman 2 had already started down this path, but it didn't go nearly as far. Compared to how things were when the trilogy started in 2016, Hitman 3's animations/speeds are incredibly unrealistic, as though realism stopped even being a consideration.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns the Explosive Phone into an Air Strike Phone.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns the Explosive Phone into a UFO Phone that abducts, burns, and electrocutes NPCs
+
+
+DOWNLOAD [www.nexusmods.com] 
+Enables the Patient Zero Virus Spreading Mode on all maps.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds a revolver to the game, either replacing the striker or as an add-on.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Currently replaces Master difficulty with a new difficulty named Expert, that is a combination of Master and Professional modes.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes the hacking requirement for doors in Chongqing, but you still need to have the dongles.
+Works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes NPC viewcones, making them in effect blind - they won't notice anything unless it makes a sound, and even in combat they can't shoot!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Ask NPCs to follow you around and wake up sleeping NPCs - tools for playing with the AI.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes all crowd NPCs from the game.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Blinds all cameras, preventing them from doing pretty much anything.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod gives syringes the ability to poison food and drinks, restoring the functionality they had in some previous entries in the series.
+It works both online and offline - the only difference is an additional, cosmetic "Consumable Poison" tag in the inventory when in offline mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes the molotov never do non-accidental kills. Still illegal to throw or hold. 
+Works mostly in online mode, but in offline mode also makes it not lock-on to NPCs.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod utilizes Cheat Engine to slowdown the game by a single press of a button, that you can customize!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Mendoza cave exit can now be activated through Guerilla Wetsuit from Ambrose Island.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes all briefcases lethal if thrown.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows non-gun item to be thrown with respective effects (Death/Pacification/Knockdown).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces guards' grenades with lethal ones. Works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Amazing! Elegant! Graceful! Guards will no longer throw flash grenades at your face. Works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds the items from the Blood Money default loadout to the Hitman 3 default loadout.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Offline shortcuts, unlocked loadouts, expedited acquisition of the RFID card, and more! 
+Pick and choose which tweaks to apply with the Simple Mod Framework (required).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Have you ever wanted to be immortal? Well medical science isn't there yet. But 47 can be!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Enter a world of exploitable software - makes a (fully customisable) range of objects hackable with 47's own camera!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes health regeneration.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Brings back the 2016 Instinct slow-motion effect (still lets you use guns and things though).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Quintuples the game speed when you use Instinct.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Brings back the Absolution mechanic where headshots and explosions slow down time briefly.
+
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows guards to track you down, even when you hide in a box, for a longer period of time after trying to arrest you or entering combat. AKA the guards aren't complete idiots any more.
+
+
+Friendly reminder that gameplay mods will likely not work online unless stated otherwise.
+
+
+DOWNLOAD [www.nexusmods.com] 
+An attempt to make the game more immersive and realistic.
+Provides several changes to weapons, UI, audio, gameplay, and other effects.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Gives you the choice to kill or spare your targets.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Are you a bad shot? Lmao couldn't be me. Pauses time when aiming your weapon, like point-shooting but not as good.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows you to holster/stack every single item. Also contains an option for every illegal item to pass frisks.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Did you wish you could shoot precisely without aiming before? Now you can!
+
+
+Mods that adds, edits or replaces missions, and mods that edits or potentially even adds locations. They may not work on Online Mode unless stated otherwise.
+
+
+DOWNLOAD [www.nexusmods.com] 
+A remake of The Seafood Massacre from Hitman: Contracts/Codename 47, set on Chongqing.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod allows you to experience your favorite Hitman S1 maps straight from the 2015 alpha.
+Everything* included inside the mod is directly ported from the alpha.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod edits Paris by removing almost everything about the fashion show event, and makes changes to the map such as making some doors interactable, turning on lights, removing crowds, etc…
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces "The Showstopper" mission with Dalia Margolis and Viktor Novikov in the Holiday Hoarders map with Marv Gonif and Harry Bagnato as optional targets.
+
+
+DOWNLOAD [www.nexusmods.com] 
+A mod that removes the blockade stopping you from exploring the entirety of Sapienza.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes the clue objective of Another Life optional, you may exit without doing it. 
+Only works in OFFLINE mode and PEACOCK.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Get up 47, it looks like you'll need to get closer. 
+This mod adds free-roam to the sniper maps which means you can freely explore the maps from Sniper Assassin mode on foot.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Converts Patient Zero sniper mission "The Vector" in Colorado to a fully functional sandbox map. Playable online, offline and in Peacock. It is very different to the sniperPlus mod.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes the envy escalation use the envy suit instead of the white tuxedo.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Whittleton Creek has been invaded by commies and is now a hostile area. Works online, and for all versions of Whittleton Creek. So you might wanna take it off if you're playing Contracts mode lel.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod lets you take on the Rocco Renegades in Siberia in 6 difficulty levels! Can you defeat them in each? This mod also works in VR.
+
+
+DOWNLOAD [www.nexusmods.com] 
+A remake of one of the very first Hitman contracts: The Lee Hong Assassination! For the nostalgic people.
+
+
+DOWNLOAD [www.nexusmods.com] 
+An example custom level that sends 47 straight to hell when he dies :) 
+Created as both a joke and also an example of using custom levels with zlevelcontrolentity.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds Hawke's Bay as a playable location in Ghost Mode. Add-on to Ghost Mode mod.
+
+
+Mods that changes the aesthetics of the game by editing or replacing textures (e.g. suit cloth), imagery (e.g. menu background) or models (e.g. Agent 47, NPCs, weapons) for example. 
+Can be used in Online Mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Ever wanted to infiltrate the Swedish Embassy at night? Have a bright sunny day while you kill Erich Soders? How about kill The Prince in the evening? Or see Chongqing in the middle of the day? Well now you can do these things and more! Simply load up the mod, pick which maps you want to experience at a different time of day, and hit Deploy!
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod toggles rain on every HITMAN map.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes the explosion effect added to all bullet impacts by Hitman 2.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod removes the immersion-killing colored smoke clouds for poisoned food/drink that were added in Hitman 3.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Brings over the map enhancements from the benchmark over to the game. 
+Only Dubai and Dartmoor though. Now works online!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds new face texture variations from previous HITMAN entries (Absolution, 2015 Alpha, 2016, HITMAN 2) to 47's new model for HITMAN 3.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Updates 47's barcode and adds the numbers "640509-040147" below it for HITMAN III.
+Face Variations has included versions with the numbered barcode based on this mod’s texture.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Fixes the head mesh and bone rig used for Season 1 disguises.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Various mesh and texture fixes of 47 and NPC outfits.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Fixes plenty of issues related to firearms, including white clips and improperly positioned muzzleflashes.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Makes Agent 47 have blood stains and splatters wherever he's shot at.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the new signature suit with the original one from 2016, which is better modeled and textured than the signature suits from the following two games.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the Futo Suit and/or Sniper Assassin suit with the jacket-less outfit used in Hitman: Absolution Sniper Challenge, a standalone pre-order bonus for Hitman: Absolution.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod changes 47's suit on the Hantu Port and Himmelstein Sniper Assassin maps. 
+5 different suits are included: Ashen Suit with Gloves, Imperial Classic with Gloves, Raven Suit, Blood Money Suit, and Classic All-Black Suit.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Ever wanted to use the Tactical Gear on a mission besides Colorado, but didn't like how the Hunter's Hat looked? Well now you can! 
+This mod replaces the "Tactical Gear with Hunter's Hat" suit to just the Tactical Gear!
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod edits many NPC Models from Dubai and highly reduces recurring NPC faces. 
+It's also fully compatible with disguises and works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod edits many NPC Models from Dartmoor and highly reduces recurring NPC faces. 
+It's also fully compatible with disguises and works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod highly reduces the amount of clones (reused NPC models) in the streets of Chongqing, using models from other maps and even edited ones.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod edits many NPC Models from Mendoza and highly reduces recurring NPC faces. 
+It's also fully compatible with disguises and works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Reveal everyone's secret identities by taking away their face covers. No Illuminati-like society exists anymore. Removes all masks, glasses and blindfolds from NPC's outfits and 47's disguises. 
+Except for knight armors.
+
+
+Ditto, except this one has the signature Mk II look. Damn that character limit.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds gloves to suits that don't include them, and removes gloves from suits that do. Some suits include additional options, typically different colored gloves and accessory modifications.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Here are a lot of suits replacements, all in a single pack, to give a vintage feel to 47.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Custom outfit pack for HITMAN 3, featuring outfits from Splinter Cell and the old Hitman: Codename 47. I love customization in videogames so once I saw that mods like these were possible for HITMAN I started to look into how they were made.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Contains a few swaps and modifications for both the Winter Suit and Black Winter Suit. You can remove the leather gloves, remove the crosshair pin, and/or add a flat cap.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds a french beret to the summer suit, a beanie to the snow festival suit, a bandana for the black dragon suit, and a flat cap to the classic cut long coat suit with gloves.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Look stylish with the hat from the Noir easter egg on The New Yorker with Gloves suit.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the flamingo suit with a duck suit.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the Signature Suit, Lynch Suit, Futo Suit, or Freedom Phantom Suit with Subject 47. Optionally, you can also remove the EKG (the medical device attached to 47's chest).
+
+
+DOWNLOAD [www.nexusmods.com] 
+Turns Agent 47 into Skeleton 47.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Adds 8 custom playable Knight suits to the game.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces all Biker, Bartender, Staff, and Tech NPCs with their Pig-Mask variants (includes female NPCs). Also added all Pig-Mask disguises.
+These were intended to be for the Butcher Deluxe Escalation, but that was scrapped.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This is a revamp of an old mod which replaces the guards of Santa Fortuna, Isle of Sgail, Chongqing, and Colorado with female NPCs. Outfits can be worn.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the models of Providence members with targets from every map in the game.
+The ghosts of targets from every map in the game join forces to kill Agent 47.
+Can Agent 47 survive the ghosts of his prey?
+
+
+DOWNLOAD [www.nexusmods.com] 
+47's dreams are plagued with Rocco.
+Replaces everybody in Untouchable with everyone's favorite character, Rocco.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This Hitman 3 mod will turn all NPCs into Agent 47. 
+Each character will be modelling a random selection of 47's outfits.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Roughly doubles the size of blood textures on the environment from gunshots.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes the camera filter effects for being detected.
+
+
+DOWNLOAD [www.nexusmods.com] 
+A modular mod designed to make instinct clearer and give more information about the environment at a glance. Features you don't like can be disabled to improve the readability of instinct.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes yellow braces from doors and ladders on the HITMAN 3 shortcuts.
+
+
+DOWNLOAD [www.nexusmods.com] 
+H1 Target Images Return.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replace unique NPC's grey background contract mode images with custom images. Some of them are in-game intel/challenge images.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Not a fan of red? Not a fan of roman numerals? Not a fan of sequels?
+Well . I can't help you with that last one, but this can hopefully provide a better experience for those who aren't a huge fan of the new logo. This mod adds different logo variations for the main menu.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Do you miss Hitman 2016's menu and music? Do you hate choral music? Well this is the mod for you. Yes, this mod is also an audio mod too.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replace Agent 47 (Signature Suit) with Knight with custom outfit and gear.
+
+
+DOWNLOAD [www.nexusmods.com] 
+The mod attached a light source to Jack-O-Lantern Suit's pumpkin head. 
+Also replaced the Sandman Suit with it so you can wear it anywhere in the WoA.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Mendoza Reswapped aims to make the World more alive by reducing the amount of reused Models in a Mission by throwing Custom Models into the mix.
+
+
+Mods that replaces (or silence) the sound effects of the game, and music if you're lucky.
+Can be used in Online Mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Mutes overdubbed Hitman 3 sound effects of your choosing, for a more realistic traditional Hitman audio experience.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod improves audio clarity in a way by disabling certain sound effects of your choice, making others far more audible.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes the vast majority of handler dialogue by Diana, Grey and Olivia. 
+Applies to all game modes and missions.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Removes Hitman 3's security camera noises to match Hitman 2016 and Hitman 2.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This basically turns off most of the parameters that carry the sound effects of Santa when he teleports around, including the godforesaken cowbell.
+
+
+DOWNLOAD [www.nexusmods.com] 
+No more dumb narration for the sloth sin.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Changes the Futo suit from using the "fallback" (generic) voice when going past people/ trying to enter restricted areas, to the "Ninja" AI voice lines (used by the White Ninja, actually dummied out lines from waaaaay back in 2016 for the Ninja suit in Hokkaido), so now that you look like a Ninja, people in the level will now recognise you as one!
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces Hitman 3's deflating sound with a fart sound. Hilarity ensures.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the same old Ave Maria phone ringtone with the Mixtape 47 songs, since Mixtape 47 got nerfed years ago but sounds much better.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Simple mod to use Hitman 2's neck break sounds that are still in Hitman 3's files just not used.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Fixes the generic combat music for S2/3 levels so that it properly starts at full intensity. 
+For some reason, initiating combat would start the music at the lowest intensity level (unlike 2016's) and would take over a minute or more to properly step up to level 3 intensity. 
+This mod fixes that issue, making it slightly more bearable.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the post-death ambient track with, "Ave Maria".
+
+
+DOWNLOAD [www.nexusmods.com] 
+Loops Ave Maria in the title menu in Hitman 3.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Disables the ticking pause music. That's literally it.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Simply replaces the HITMAN 3 "Death Awaits" main menu music with HITMAN 2's "Agent and Handler" main menu music. Nothing more, nothing less.
+
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod gives you the ability to replace the menu music with other tracks from the franchise, out some out of the franchise.
+
+
+Tools, add-ons and other stuff that enhances or optimises your experience with the game along with other things I don't think it'd fit in any of the previous categories.
+
+
+An alternative way to experience the game online by using a server emulator instead of connecting to IOI's official servers. Features includes having everything unlocked, playing custom and discontinued content including Ghost Mode, Legacy Escalations, Elusive Targets, etc., its own leaderboards for Peacock users, and a working rating system. Also supports the entire trilogy.
+LEARN MORE [thepeacockproject.org] 
+DOWNLOAD (Discord) [thepeacockproject.org]
+
+
+DOWNLOAD [www.nexusmods.com] 
+Improves various parts of the UI by looking to the past of the WOA trilogy while adding various QOL features.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This standalone mod adds the option to Quick Save and Quick Load to the pause menu. 
+Quick Save only works when you would be able to save normally, along with using a autosave.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod fully unrestricts most suit starts on missions, and partially unrestricts the rest. It also adds more spawns to choose from for Season 1 bonus missions and Dartmoor Garden Show. Intended for online use only.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Have you ever wanted to play the game in Master difficulty because you like the challenge of extra enforcers, cameras and such, but you think being able to save once is too much because you value saving your time or you like to experiment in this mode? 
+No worries, this is the mod for you. Only works in offline however.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This is just a very trivial mod that adds Ambrose Island's "Shadows in the Water" story mission to HITMAN 2's storyline in the campaign menu. This mod also allows the player to seamlessly play "Shadows in the Water" next instead of "The Ark Society" after the completion of "Another Life". Finishing "Shadows in the Water" will also display "The Ark Society" next. Only works offline.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod makes the starting suits (gloveless) from H2 and H3 maps usable in all maps (if you can somehow unlock them). Works online.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Enables the prompt for the cut selfie mode on the camera.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Allows you to zoom the camera up to 10x to truly experience those low resolution textures.
+
+
+DOWNLOAD [www.nexusmods.com] 
+The DEFINITIVE hitmarker removal mod for HITMAN 3. Increases immersion and COMPLETELY removes all ARBITRARY hitmarkers from the game.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Cheat table that makes GUI invisible. Can be toggled back on by holding the right or left mouse button.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod adds the suffix baller to everything because obviously "ICA 19 Classicballer" and "ICA 19 Black Lilyballer" sound extremely elegant and normal.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod makes all actor, outfit, elusive, and other images offline.
+Perfect for use with other mods.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Replaces the old HITMAN 2 styled images with custom ones in HITMAN 3's style for Ghost Mode.
+
+
+DOWNLOAD [www.nexusmods.com] 
+Every game has to have a snarky loading screen tips mod.
+
+
+DOWNLOAD [www.nexusmods.com] 
+This mod changes the Field of View to a wider one, or a narrower if you prefer that.
+
+
+There's more mods out there than just the ones listed on this "featured mods" guide.
+
+
+By “featured”, I mean mods that I find interesting that other people should check out, because there’s already so many mods on Nexus that I just want to highlight on the ones I like or at least noteworthy in my opinion. It makes it easier for me to update this guide whenever a interesting mod comes out as oppose to filling up this guide by adding almost every single one like I did with a previous guide.
+
+
+You can find most of these mods on Nexus Mods [www.nexusmods.com] while some are exclusively available on a certain modding discord server down below.
+
+
+If there's a mod you think it should be on the list, feel free to suggest it.
+Though I may not accept it if I don't find it substantial enough like if it's just another existing suit replacing the Signature Suit, I don't care. A mission mod that could be made with the game's own Contract Creator? Not interested. Reshade presets? Don't bother since we can literally edit the game's lighting and post-processing filters. 
+Also, I will not be accepting any mods, barring The Peacock Project, that unlocks any or all unlockables that aren't unused regardless of your progression from the official Online Mode.
+
+
+Another thing; if you made a bunch of mods (such as apparels) that could easily be part of a single mod collection (i.e. Gar0npeX Tailor Kit), please make that collection so I can save space for other mods before I reach the character limit and it also gives me less time-consuming work to deal with the next time I update this guide. Thank you.
