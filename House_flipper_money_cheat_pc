@@ -1,0 +1,112 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+House Flipper Cheats (Infinite Money & Max Perks)
+
+
+House Flipper is a unique chance to become a one-man renovation crew. Buy, repair and remodel devastated houses. Give them a second life and sell them at a profit!
+
+
+House Flipper Cheats
+
+
+If you want to get maximum perks and level up your abilities, then this guide shows you, how to do that!
+
+
+Infinite Money
+
+
+You can fill up your paint roller with any paint then switch to another color without using up anymore paint. This way you can use up your “old paint” before using the “new paint” when painting another room with a different color.
+
+
+You can also use most of the paint then sell it for a little less than you paid for it.
+
+
+Maximum Perks / Level Up
+
+
+Locating the file 
+You have to open the file “PlayerProgress.dat” with a texteditor in the following folder: C:\Users\*your name*\AppData\LocalLow\Empyrean\House Flipper Game\Saves\
+
+
+Editing the value 
+There you jump to the section called “skills” and type in the number “9” in the string called “numberOfPerksAvailable”
+
+
+Here is an example how it has to look for the perks of cleaning:
+
+
+“skills”: “cleaning”: “eyeOfTheMotherInLaw”: 0, 
+“fastHands”: 0, 
+“longDistance”: 0, 
+“numberOfPerksAvailable”: 9, 
+“isCertificated”: false 
+>,
+
+
+Now save and back in the game you have 9 ability points in the category Cleaning. 
+Repeat the step and type in the number 9 for all other categories like demolition, painting, building, design, negotiation and handyman!
+
+
+Another method 
+Or you can edit the number behind the single abilities to 3, because 3 is the highest single level you can reach, then it would look like this:
+
+
+“skills”: “cleaning”: “eyeOfTheMotherInLaw”: 3, 
+“fastHands”: 3, 
+“longDistance”: 3, 
+“numberOfPerksAvailable”: 0, 
+“isCertificated”: false 
+>,
+
+
+In this example all abilities in category Cleaning are at maximum level and you have none perks available. But I prefer cheating you 9 points and then you can choose yourself, for what you want to spend it.
+
+
+Don’t forget 
+But don`t forget, you have to edit it for all categories you want; like cleaning, demolition, painting, building, design, negotiation and handyman; I only showed you the example for cleaning.
+
+
+Editing files is on your own risk, so please create a copy of your files before you edit something!
+
+
+Note: Ah and… by the way… search for the string “money” in this file and guess what to do with it!
+
+
+More of this sort of thing:
+
+
+House Flipper Trainer
+
+
+Our House Flipper +7 trainer is now available for version 1.22324 and supports STEAM, XBOX GAMEPASS FOR WINDOWS. These House Flipper cheats are designed to enhance your experience with the game.
+
+
+Download Trainer
+
+
+You have chosen to download our House Flipper Trainer which supports the STEAM & XBOX GAMEPASS FOR WIN version(s) of the game. If this is not correct, please go back and choose the correct trainer for your distribution or the trainer will likely fail.
+
+
+Download Promo Trainer
+
+
+You are downloading a PREVIEW of the fully-functional PREMIUM TRAINER that can be obtained with the appropriate premium level membership. Many features will be disabled as it is meant for you to test the trainer to make sure it works with your version of the game before upgrading.
+
+
+• Change Money
+• Change Perk Points
+• Super Speed
+• Infinite Paint On Painter
+• Infinite Flame Thrower Fuel
+• Edit: Money
+• Edit: Perk Points 
+
+
+Updated: December 13, 2022 
+Game Version: 1.22324 
+Distribution(s): STEAM, XBOX GAMEPASS FOR WIN 
+Compatibility: Win 7 , Win 8.1, Win 10, Win 11+ 
+Contributor: 0x90 
+Downloaded: 2491 times 
