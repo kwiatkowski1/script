@@ -1,0 +1,196 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Cemu emulator android
+
+
+This is your best bet if you want to get up and running quickly without any issues. If you want the cutting edge, click the above tab for a development build.
+
+
+Download Development Builds
+
+
+Note that these are automated "bleeding-edge" versions - they are probably stable enough, but may break at any time! Recommended only if you want to try new features, and don't mind occasional bugs.
+
+
+For now, this is the version that has TI-Basic "debugging", "USB transfers" (i.e. being able to transfers files such as OSes and apps), etc.
+
+
+About CEmu
+
+
+CEmu is a third-party cross-platform TI-84 Plus CE / TI-83 Premium CE calculator emulator, focused on developer features. Any amount would help support and continue development on this project and is greatly appreciated.
+
+
+Support
+
+
+Blog
+
+
+Cemu emulator is an experimental software to emulate Wii U applications on Android OS (and also on Windows, iOS and MacOS).
+
+
+It is still relatively early in development but most games can now be run in a playable state and development has been progressing quickly.
+
+
+Cemu also now has additional functionality that the original Wii U hardware isn’t capable of such as higher resolution rendering and support for a wider variety of controllers.
+
+
+This emulator can run encrypted Wii U images (WUD) and RPX/RPL files.
+
+
+Internal resolution is 1920×1080 (if supported by device), contains only some optimizations, expect slow framerates and long load times.
+
+
+Features
+
+
+Cemu for Android is not intended for general use yet. It is stil in experimental step and some games can run with graphic glitch.
+
+
+Currently the DRC (GamePad), Pro Controller and Classic Controller is emulated.
+
+
+Wiimotes are emulated as well (including native support).
+
+
+Keyboard input + USB controllers as input devices are supported.
+
+
+GamePad touch input can be controlled via left mouse click.
+
+
+Gyro functionality is emulated with limitations and can be controlled via right mouse button.
+
+
+System requirements
+
+OS versionAndroid 6.0 (or higher)CPUQuad core 1.5+ GhzRAM2 GB (4 GB recommended)Disk space50 MB The table lists the minimum system requirements for running Cemu emulator Android
+
+Update
+
+
+•Anisotropic filtering can now be controlled via graphic packs
+ 
+•Re-Added texture dumping support
+ 
+•New Graphics settings fixes in the main menu
+ 
+•Vulkan fixes
+ 
+•Various smaller optimizations (only for beta version)
+ 
+•UI improvements (for Android OS 6.0+)
+ 
+•Added game file verification to title manager
+ 
+•Graphic packs can now extend the amount of RAM available to games
+ 
+•Misc fixes
+ 
+•CPU Stability improvements (only for Android OS 7.0+)
+ 
+•Improved support for homebrew
+ 
+
+
+Install
+
+
+
+  
+Open this link on your browser and download BIOS file: https://apkod.com/download-category/bios/
+
+  
+Move the BIOS file (part 1 and part 2) on the following directory in your device: /android/data/com.cobesoft.build22/bios/ (if this folder doesn’t exist please create it)
+
+  
+Open this link on your browser and download Data file: https://apkod.com/download-category/data/
+
+  
+Move the Data .obb file (part 1 and part 2) on the following directory in your device: /android/data/com.cobesoft.build22/data/
+
+  
+Launch the app
+
+
+
+
+Cemu emulator for Android (Download APK) Nintendo Wii U
+
+
+Cemu for Android is a closed-source Wii U video game console emulator developed by Exzap who serves as the core and GPU developer, and Petergov as the core and audio emulation developer.
+
+
+Though it is still under development, it is able to run certain games smoothly.
+
+
+It was successful at booting and running The Legend of Zelda: Breath of the Wild soon after its release.
+
+
+Highlights
+
+
+Designed as a proof-of-concept, the initial release of Cemu could successfully boot Mario Kart 8 and The Legend of Zelda: The Wind Waker HD yet lacked Wii U GamePad support and audio and suffered from stutters and video glitches.
+
+
+Despite the Wii U sharing a similar name as its predecessor, the Wii, the emulator was built independently from Dolphin, a Wii emulator, as the systems only shared their CPU architecture in common.
+
+
+The emulator would rapidly progress from this state and increase its compatibility with the Wii U game library and add more features.
+
+
+System requirements
+
+
+The table lists the minimum system requirements for running this application on smartphone and tablet devices.
+
+
+
+OSAndroid 8 (or newer)CPUQuad core 2.0 GHz (or higher)RAM6 GB (8 GB recommended)Storage32+ MBDisplay720p+ 
+
+
+
+The app performance may vary depending on device hardware configuration.
+
+
+For the best experience, users should be running within the recommended requirements.
+
+
+New features
+
+
+The Cemu development team announced an update that included experimental features, and beta program is now closed.
+
+
+The last version is aviable on the link below.
+
+
+Install
+
+
+
+  
+Open this link on your browser and download BIOS file: https://www.yaxod.com/download-category/bios/
+
+  
+Move the BIOS file (part 1 and part 2) on the following directory in your device: /android/data/com.cobesoft.build22/bios/ (if this folder doesn’t exist please create it)
+
+  
+Open this link on your browser and download Data file: https://www.yaxod.com/download-category/data/
+
+  
+Move the Data .obb file (part 1 and part 2) on the following directory in your device: /android/data/com.cobesoft.build22/data/
+
+  
+Launch the app
+
+
+
+
+Download
+
+
+The latest version of this app is available on the button link below:
