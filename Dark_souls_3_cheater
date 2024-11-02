@@ -1,0 +1,141 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+PyreProtecc
+
+
+A tool to stop cheaters from crashing/Banning your account.
+
+
+Credits and distribution permission
+
+
+
+  
+Other user's assets All the assets in this file belong to the author, or are from free-to-use modder's resources
+
+  
+Upload permission You are not allowed to upload this file to other sites under any circumstances
+
+  
+Modification permission You must get permission from me before you are allowed to modify my files to improve it
+
+  
+Conversion permission You are not allowed to convert this file to work on other games under any circumstances
+
+  
+Asset use permission You must get permission from me before you are allowed to use any of the assets in this file
+
+  
+Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+
+  
+Asset use permission in mods/files that earn donation points You are not allowed to earn Donation Points for your mods if they use my assets
+
+
+
+
+Author notes
+
+
+This author has not provided any additional notes regarding file permissions
+
+
+File credits
+
+
+Thanks so much for everyone who helped test this tool along the way.
+Thank you Saucy, Viktor, Drastic, KamikazeRaptor, Snipz, and all else who tested the tool and gave input on how to improve it! 
+, 
+
+
+Donation Points system
+
+
+This mod is not opted-in to receive Donation Points
+
+
+Version 0.0.4 update.
+This tool aims to patch out most cheats and malicious actions from cheaters in Dark Souls III such as:
+
+
+* Forced items in inventory 
+* Forced Animations
+* Crashes from bullets
+* "Crash-Bow" / "Slayer Crossbow"
+* Malicious effects such as curse and freeze
+* A wide array of networking exploits
+
+
+V.4 Update:
+To all the people affected by the item inject cheat with my mod I'm terribly sorry. This was a huge oversight on my end. I identified the issue nearly the next day I was told about this and fixed it right away. The reason for the huge delay in this update was due to my PC crashing from hardware failure and I need to replace it. Upon doing so I lost all my personal files and such. But I managed to piece it all back together and re-worked quite a bit of code in this especially on items. You will not receive another hacked item such as a +21 stormruler again, I made sure of this. I also took a look into some new crashes and exploits people have found and patched those out as well. There may be coming but I'll keep up to date with this as much as I can! 
+Anyways lets get to the updates!
+
+
+*I have removed the console window that showed a few things and moved it to the GUI. Now when someone cheats they will have the symbol "(!)" in front of their name. This indicates that they are stat cheating. Player names will not show up unless they are in the session with you so don't be worried that the GUI isn't working! If you experience any issues with it try taking a look into the "Config" file, this provides detailed explanation of what to do ! 
+When a person cheats in a session with you the cheat will be moved to the "CheaterList" file along with the reason they were disconnected from you.
+
+
+*PyresNightmare will no longer be "turned on" by default. A lot of people had issues with it and didn't understand how to use it properly so I do apologize for any inconvenience there . If you did like it you can simply head to "Config" file and edit it as you liked before!
+
+
+*I have had so many people tell me that everyone was abusing the kick that my tool offers. I have removed it as it was getting too common, sadly a group of people had to ruin it for everyone. You can still disconnect from the session and the kick on cheating still functions the same! If you run into a cheater that uses NoDead or something just DC and block them. You can even send me their steamID so that they do not connect with PyreProtecc users again. I have plans in the future update to run a server with a cheaters database that will make everything automated! In the meantime im sorry for those who didn't abuse it but it has to go, hope you understand !
+
+
+*I have taken huge measure against people cheating with my tool as well. You can no longer use certain scripts while in a session and not at firelink shrine. You must be there to use anything like ItemGib, I understand that this is an inconvenience but I ran into a few people using exploits that PyreProtecc patches and I don't condone this. Other cheats are detected too but I'm looking into more methods and ways to stop people from cheating with PyreProtecc .
+
+
+*As always with new code new bugs can be introduced! Simply just report them here or on my discord and I will update it asap! Thanks so much for all the kind words and support even while I wasn't able to update things fast. You guys are the best!
+
+
+If you are to encounter a cheater this tool will not only stop them from using cheats on you it will log their actual Steam-ID in Hex and URL-form for easy posting. It will break the connection from you and then cheater to avoid any further exploits being attempted. This tool also has an error reporting service that logs crash info to the file so that you can contact me and I will work hard on improving this tool further! It will log every person you encounter in sessions with time-stamps.
+
+
+This tool is not meant to compete with the PVP Watchdog for Dark souls III, please use Watchdogs if you prefer it instead as the creators of that tool also put in hard work and no-one wants to take that away from them.
+
+
+Will I get banned? 
+You will not be banned for using this tool as portions of the anti-cheat have been modified to allow this tool to run undetected.
+
+
+How to contact me? 
+You may join my discord server if you have any questions or issues! 
+https://discord.gg/ZWA36YT
+
+
+Feel free but not obligated to donate to me, I appreciate anything very much! 
+https://www.patreon.com/PyreProtecc
+
+
+How to install?
+Drop the contents of the .zip into your Dark souls III game directory located here : 
+*Drive:\SteamLibrary\steamapps\common\DARK SOULS III\Game* 
+
+
+How to uninstall?
+Delete the contents of the .zip from your game directory!
+
+
+Credits:
+Thanks so much for everyone who helped test this tool along the way.
+Thank you Saucy, Viktor, Drastic, KamikazeRaptor, Snipz, and all else who tested the tool and gave input on how to improve it!
+
+
+Thanks to all the feedback from you guys and the huge support! It really means a lot to me. As always please report any issues and they will be looked at asap and fixed!
+
+
+For Chinese users, QQ group 224340687 may get latest updates!
+-Translation will be done soon!
+
+
+Can I report a cheater in Dark Souls 3?
+
+
+Yesterday I got invaded by some guy I could not deal any damage to him at all. He didn't even attempt to dodge or block my attacks. I think he could be a cheater. I understand that due to game mechanics and number of players, it's almost impossible to be invaded by the same player a second time, but I still want him to be punished. How can I report cheating? I'm playing on PC from Steam.
+
+
+Wiki says the following: "However, it is also possible to get invaded by a player that is of a lower soul level, but with much better gear (people transfer powerful gear to lower level characters just for this purpose)." Are you sure the guys was exactly cheating, or could it be explained by something like gear twinking?
+
+
+No, I'm not sure. I don't have any video of what happened. His gear really looked like some advanced stuff - set from knight with funny metal hat from trailer. But even in case of advanced gear I expect to deal some damage - like 1 or 10, but I did none at all - numbers with damage never appeared. Anyway, I'm in search for report system, where support guys will investigate case and make a decision.
