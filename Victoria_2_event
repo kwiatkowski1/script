@@ -1,0 +1,380 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+Victoria 2 console commands & how to use them on PC
+
+
+Despite releasing in 2010, the real-time strategy game Victoria 2 is still popular today. This means console commands in Victoria 2 are still very much in use and needed by those who play it. The game lets players channel their inner benevolent monarch and peacefully watch over their subjects, or it lets them become a vicious dictator, intent on world-domination and the subjugation of all they preside over.
+
+
+Regardless of play style, console commands in Victoria 2 help players progress and steer the game in the way they want. By using console commands, Victoria 2 players can make their population love them, or gain the support of political opponents and neighboring nations in their conquests. Here’s everything you need to know about using console commands in Victoria 2 and an comprehensive list of them all.
+
+
+Contents
+
+
+
+  
+How to enter console commands in Victoria 2
+
+  
+Victoria 2 all console commands
+
+  
+Victoria 2 events
+
+  
+Government events
+
+  
+Casus Beli events
+
+  
+Reform events
+
+  
+Election campaign events
+
+  
+Political events
+
+  
+Criminal events
+
+  
+Leadership events
+
+  
+Genocide events
+
+  
+Assimilation events
+
+  
+War events
+
+  
+Miscellaneous events
+
+
+
+
+How to enter Victoria 2 console commands
+
+
+To enter console commands in Victoria 2, press the ~ or ’tilde’ key. This will bring up the console in-game and allow the you to input any code from the below lists.
+
+
+It’s worth pointing out that the game continues running while the console is displayed and does not pause.
+
+
+Victoria 2 all console commands
+
+
+Here is a list of Victoria 2 console commands and Cheats:
+
+  Code Effect  addresearch(addr) [techname] Adds research at specified name  blockade Blockade province  changeowner Change the current owner of a province  conquerall All provinces will be under your control  debug allmoney Show all money transfer data  debug alwaysaddwargoal Removes wargoal limit  debug alwaysdiplo Infinite diplomats  debug alwaysreform Removes the 1-month wait between reforms  debug influence Every Great Power’s influence set to 100.  debug invent Unlock instant invention  debug market Toggles on/off price changes  debug researchpoints [add number] Add number of research points  debug yesmen AI accepts all deals  fow Toggles the fog of war  Goods [XXX] Awards XXX amount of goods  inc Instand construction  inr Instant research  leaderprestige [lprestige] [province] [value] Add set amounts of leadership prestige per province and set value  Leadership [XXX] Gives you XXX leadership  militancy [level] Set militancy level  militancy [province] [ideology] Set militancy per province and ideology  Money [XXX] Gives XXX money to player  Plurality [XXX] Set plurality level  Prestige [XXX] Set prestige level  reorg All your units get 100% organization and strength  researchpoints [rpoints] [num] Add a set number of research points  Revolt [province ID] Increase a province’s rebels  showprovinceid [Province ID] Toggles on/off ID visibility  spawnunit [unit] [Province ID] Spawn specified unit in the specified province  suppress [number] Add a select number of suppression points to your nation  tag[tag] Change country tag to another tag  teleportselectionto[provinceID] Teleports to the selected province  upperhouse Instant re-election   
+
+Victoria 2 events
+
+
+Events in Victoria 2 can also be triggered using console commands. These are specially constructed gameplay changes that the developers released in code form to let players tailor the gameplay at any given time. They were time sensitive at first, but now, all event console commands work just like regular console commands, letting players feel the benefit anytime.
+
+
+Here are all event console commands in Victoria 2:
+
+
+Government event
+
+
+You can find the Victoria 2 console command codes for Government events below:
+
+  Event 1000 Unlock socialist government  Event 1001 Unlock communist government  Event 1002 Unlock Anarcho-liberal government  Event 1003 Unlock fascist government   
+
+Casus Beli events
+
+
+You can find the Victoria 2 console command codes for Casus Beli events below:
+
+  Event code Effect  Event 2510 casus belli Cut size  Event 2520 casus belli Humility  Event 2530 casus belli Place in the sun  Event 2540 casus belli Cut size  Event 2550 casus belli Drum of war  Event 2560 casus belli Patrimony  Event 2570 casus belli Conquest   
+
+Reform events
+
+
+You can find the Victoria 2 console command codes for political reform events below:
+
+  Event code Effect  Event 3000 Health Care  Event 3100 Press rights  Event 3200 New political party  Event 3300 Pensions  Event 3400 Unemployment subsidies  Event 3401 Extend or cancel subsidies  Event 3402 Lower or higher subsidies  Event 3403 Minimum wage  Event 3404 Better subsidies  Event 3500 Trade unions  Event 3600 Safety regulations  Event 3700 Lower work hours reforms  Event 3750 Wage reform  Event 3800 Trade Union reform  Event 3900 Abolishment of slavery support  Event 4000 Upper House  Event 4100 New voting system  Event 4200 Voting reform  Event 12000 Extent safety regulations  Event 12010 Safety regulation reform  Event 60108 Extend or do not extend slavery   
+
+Election campaign events
+
+
+You can find the Victoria 2 console command codes for election campaign events below:
+
+
+Subscribe to our newsletter for the latest updates on Esports, Gaming and more.
+
+  Event code Effect  Event 14000 Trade policy  Event 14010 Economy  Event 14020 Religion  Event 14030 Citizen  Event 14040 War  Event 14050 Protectionism  Event 14060 Protectionism vs. Free Trade  Event 14070 Laissez Faire  Event 14080 Interventionism  Event 14090 State Capitalism  Event 14100 Planned economy  Event 14110 Atheism  Event 14120 Secularized  Event 14130 Pluralism  Event 14140 Moralism  Event 14150 Residency  Event 14160 Limited citizenship  Event 14170 Full citizenship  Event 14180 Jingoism  Event 14190 Pro-military  Event 14200 Anti-Military  Event 14210 Pacifism   
+
+Political events
+
+
+You can find the Victoria 2 console command codes for political events below:
+
+  Event code Effect  Event 17500 Add 20 to Socialists  Event 18000 Add 10 to Socialists  Event 18010 Add 5 to Liberals and 2 to Conservatives  Event 18020 Add 20 to Liberals  Event 18030 Add 10 to Liberals  Event 18040 Add 20 to Socialists  Event 18050 Add 20.00 to Liberals  Event 18060 Add 10 to Radicals  Event 18070 Add 30 to Liberals  Event 18080 Add 30 to Radicals  Event 18090 Add 45 to Liberals  Event 18100 20% in favor of healthcare reform  Event 18110 20% in favor of subsidies reform  Event 18120 Add 50 to Conservatives  Event 18130 Add 50 to Socialists  Event 18150 Add to Facists  Event 18160 Add 10 to Liberals  Event 18170 Add 30 to Socialists  Event 18180 Population lose 1 Consciousness or 1 Militancy  Event 18190 Population 10% in favor of Jingoism  Event 18200 Population 10% in favor of Laissez Faire  Event 18520 5% in favor of Jingoism & Lose 2 War Exhaustion or All Population 10% in favor of Jingoism  Event 18580 Population 20% in favor pacifism   
+
+Paradox Interactive Victoria 2 console commands can help players skip portions of the game or grinding.
+
+
+Criminal events
+
+
+You can find the Victoria 2 console command codes for criminal events below:
+
+
+Victoria 2 event
+
+
+© Valve Corporation. Все права защищены. Все торговые марки являются собственностью соответствующих владельцев в США и других странах. #footer_privacy_policy | #footer_legal | #footer_ssa | #footer_refunds
+
+
+Victoria II
+
+
+Эта публикация удалена, так как она нарушает рекомендации по поведению и контенту в Steam. Её можете видеть только вы. Если вы уверены, что публикацию удалили по ошибке, свяжитесь со службой поддержки Steam.
+
+
+Этот предмет несовместим с Victoria II. Пожалуйста, прочитайте справочную статью, почему этот предмет может не работать в Victoria II.
+
+
+Events and cheats for victoria 2 HOD
+
+
+addresearch(addr) [techname] - Adds research at specified name.
+blockade break - Breaks all alliances for you or for specific country.
+breakalliances(breakally) [] - Breaks country with first rebel faction in specified country.
+breakcountry(break) [] - Change the controller of specified location
+changecontroller [TAG] [province id] - Change the current controller of [province id] to the TAG specified. Unless there a war between original owner and TAG province will return to the original owner.
+changeowner [TAG] [province id] - Change the current owner of [province id] to the TAG specified.
+citysize [on/off] [(if on)] - Overrides the cities size.
+conquerall [country tag] - Set all enemy provinces under our control.
+copyprov - Copy selected provinces ids to clipboard
+cpaint - Changes date.
+date 31 дек. 1969 в 16:00[invention] - Discover specified invention. The names of all inventions are in the*inventions*folder. debug market - Turns on\of price changing log which is located in me documents\paradox interactive\logs\game.log. debug researchpoints [number] - rpoints [number] debug yesmen - The AI accepts any deal with the player or other AI players. election - Starts common elections right now. event [event id] [] - Executes an event event [id] [province id] - (Province events) Trigger events with the id specified, ignoring it requirements. You can specify the province affected, otherwise it default to the capital province. event [id] [TAG] - (Country events) Trigger events with the id specified, ignoring it requirements. You can specify the country affected, if no TAG it use the current country. fullscreen - Toggles full screen mode goods "XXX" - Gives XXX goods to player plus the same amount of money (Warning: large amount of goods lead to economical problems.) help [command name] - Print out all console commands or a specific command description. helplog - Print out all console commands to game.log file. inc - Short version of instantconstruction. Doesn't affect the AI. inr - Short version of instantresearch. Doesn't affect the AI. instantconstruction - Buildings finish in one day. Affects human and AI players. instantresearch - Research finishes in one day. Affects human and AI players. invention(invent) [name] - Triggers specified invention. leaderprestige(lprestige) [province] [value] - Adds prestige to leaders attached to units at specified location. Leadership "XXX" - Gives XXX leadership points to the player. lua [luacode] - Executes lua code typed instead of arguments. militancy [level] - Changes militancy level. Try positive and negative values. militancy [province] [ideology] - Sets high militancy for pops at location and specified ideology. minzoom - Controls max and minimum zoom. Money "XXX" - Gives XXX money to player morehumans(humans) [num] - Adds more humans newsfakegenerate(fakenews) [articlename] [] [] - Generates fake news for specified article name. newsfakegenerateall(fakenewsall) [] [] - Generates fake news for each possible fake defined. newsgenerate(news) [filename] [] [] - Generates news from file. newsgeneratefrompath(newsfrom) [path] [] [] - Generates news from specified folder. paint - Switch to map painting mode. Plurality "XXX" - Sets XXX Plurality Level from 1% to 100% popstat - Prints out amount of active pops. Prestige "XXX" - Gives XXX prestige to player provblockade(blockade) [province] - Toggles province blockade. randomlog - Toggles random logging reload [file name] - Reloads the gui or lua file reloadfx [Arguments: map or *.fx filename] - Reloads the shader reloadinterface - Reloads the entire interface reloadnewsdatabase(reloadnews) - Reloads the news databases and styles. reloadtexture [texture file name] - Reloads the specified texture reorg - All units in got 100% organization and full strength. researchpoints(rpoints) [num] - Adds specified amount of research points. revolt [ province id] - Rise all the valid rebels of the country that controls [province id] (use twice) rpaint - Switch to region painting mode. showprovinceid(provid) - Toggles province ID visibility in tooltips. showrails(rails) - Toggles the railroads visibility mode. spawnactor [actor name] [province id] [] [] [] - Spawns 3d object at location spawnunit [unit] [province id] - A [unit] appears in the province specified at 0 organization and full strength. In case of a land unit, the soldiers will come from a random province. suppress [num] - Adds suppression points to your country. tag [TAG] - Change th
+debug - Various debugging actions
+debug allmoney - Shows info for money transfers.
+debug alwaysaddwargoal - Removes limits for wargoal.
+debug alwaysdiplo - Makes diplomats endless.
+debug alwaysreform - Eliminates the 1 month wait between reforms. need +50% of the upper-house favorable of reforms. effect won't disappear till reset game, unknown if AI is effected.
+debug cb_use   - Show all the requirements for a certain CB and marks which ones are currently valid and invalid with the same syntax of a event manually triggered…
+debug fow - Turns on\of fog of war.
+debug invent [invention] - Discover specified invention. The names of all inventions are in the*inventions*folder.
+debug market - Turns on\of price changing log which is located in me documents\paradox interactive\logs\game.log.
+debug researchpoints [number] - rpoints [number]
+debug yesmen - The AI accepts any deal with the player or other AI players.
+election - Starts common elections right now.
+event [event id] [] - Executes an event
+event [id] [province id] - (Province events) Trigger events with the id specified, ignoring it requirements. You can specify the province affected, otherwise it default to the capital province.
+event [id] [TAG] - (Country events) Trigger events with the id specified, ignoring it requirements. You can specify the country affected, if no TAG it use the current country.
+fullscreen - Toggles full screen mode
+goods "XXX" - Gives XXX goods to player plus the same amount of money (Warning: large amount of goods lead to economical problems.)
+help [command name] - Print out all console commands or a specific command description.
+helplog - Print out all console commands to game.log file.
+inc - Short version of instantconstruction. Doesn't affect the AI.
+inr - Short version of instantresearch. Doesn't affect the AI.
+instantconstruction - Buildings finish in one day. Affects human and AI players.
+instantresearch - Research finishes in one day. Affects human and AI players.
+invention(invent) [name] - Triggers specified invention.
+leaderprestige(lprestige) [province] [value] - Adds prestige to leaders attached to units at specified location.
+Leadership "XXX" - Gives XXX leadership points to the player.
+lua [luacode] - Executes lua code typed instead of arguments.
+militancy [level] - Changes militancy level. Try positive and negative values.
+militancy [province] [ideology] - Sets high militancy for pops at location and specified ideology.
+minzoom - Controls max and minimum zoom.
+Money "XXX" - Gives XXX money to player
+morehumans(humans) [num] - Adds more humans
+newsfakegenerate(fakenews) [articlename] [] [] - Generates fake news for specified article name.
+newsfakegenerateall(fakenewsall) [] [] - Generates fake news for each possible fake defined.
+newsgenerate(news) [filename] [] [] - Generates news from file.
+newsgeneratefrompath(newsfrom) [path] [] [] - Generates news from specified folder.
+paint - Switch to map painting mode.
+Plurality "XXX" - Sets XXX Plurality Level from 1% to 100%
+popstat - Prints out amount of active pops.
+Prestige "XXX" - Gives XXX prestige to player
+provblockade(blockade) [province] - Toggles province blockade.
+randomlog - Toggles random logging
+reload [file name] - Reloads the gui or lua file
+reloadfx [Arguments: map or *.fx filename] - Reloads the shader
+reloadinterface - Reloads the entire interface
+reloadnewsdatabase(reloadnews) - Reloads the news databases and styles.
+reloadtexture [texture file name] - Reloads the specified texture
+reorg - All units in got 100% organization and full strength.
+researchpoints(rpoints) [num] - Adds specified amount of research points.
+revolt [] - Rise all the valid rebels of the country that controls [province id] (use twice)
+rpaint - Switch to region painting mode.
+showprovinceid(provid) - Toggles province ID visibility in tooltips.
+showrails(rails) - Toggles the railroads visibility mode.
+spawnactor [actor name] [province id] [] [] [] - Spawns 3d object at location
+spawnunit [unit] [province id] - A [unit] appears in the province specified at 0 organization and full strength. In case of a land unit, the soldiers will come from a random province.
+suppress [num] - Adds suppression points to your country.
+tag [TAG] - Change the player country to the one specified. The [TAG] part must be in caps, and more than 1 change "sleeps" the AI of the affected country until reload.
+technologylist(techs) - Prints out all technologies
+teleportselectionto(teleport) [province id] - Teleports currently selected unit to location
+togglepopupdate(popupdate) - Toggles ON/OFF updating pops.
+tutorial [chapter id] [] - Sets or reload tutorial
+upperhouse - Instant upper house reelection.
+window(wnd) [Arguments: open/close] [window gui name] - Opens or closes the specified window
+wireframe - Switches units 3D models to wireframe mode. 
+
+
+Events: 
+Event 1000 Make Socialist government available
+Event 1001 Make Communist government available
+Event 1002 Make Anarcho-liberal government available
+Event 1003 Make Fascist government available
+Event 1100 Gold Rush
+Event 2000 Assimilation Troubles
+Event 2510 casus belli - Cut Size
+Event 2520 casus belli - Humility
+Event 2530 casus belli - Place in the Sun
+Event 2540 casus belli - Cut Size
+Event 2550 casus belli - Drum of War
+Event 2560 casus belli - Patrimony
+Event 2570 casus belli - Conquest
+Event 3000 Health Care In favor of 30% Support in Provence
+Event 3100 Press Rights
+Event 3200 Forms a New Political Party
+Event 3300 Pensions In favor of 20% Support in Provence
+Event 3400 Unemployment Subsidies In favor of 30% Support in Provence
+Event 3401 Extend Subsidies or No Subsidies
+Event 3402 Lower Subsidies or Good Subsidies
+Event 3403 40% In favor of Acceptable Subsidies or In favor of 40% Acceptable Min. Wage
+Event 3404 20% In favor of Good Subsidies
+Event 3500 30% In favor of Trade Unions
+Event 3600 Safety Regulations
+Event 3700 40% In favor of Lower Work Hour Reform
+Event 3750 Public Meetings
+Event 3800 40% In favor of Increases Wage Reform
+Event 3900 40% In favor of Trade Unions Reform
+Event 4000 Slavery Abolishment Movement Support
+Event 4100 40% In favor of Upper House
+Event 4200 10% In favor of New Voting System Reform
+Event 4300 20% In favor of New Vote Franchise Reform
+Event 4305 Provence Lose 2 Militancy
+Event 4400 Trade Policy Rich and Middle or Middle and Lower Lose Militancy
+Event 4402 30.00 Improve Relations with Neighbor and gain 5.250 Prestige
+Event 5000 Introduce New Sport
+Event 10000 Liberal Revolutions Liberal Gain Militancy
+Event 12000 Safety Regulations
+Event 12010 Safety Regulation Reform
+Event 12060 Lose 1 War Exhaustion
+Event 13000 Enables Western Influence or Isolationism
+Event 14000 - 14210 Election Campaign Events
+Event 14000 Trade Policy
+Event 14010 Economy
+Event 14020 Religion
+Event 14030 Citizenship
+Event 14040 War
+Event 14050 Protectionism
+Event 14060 Protectionism vs. Free Trade
+Event 14070 Laissez Faire
+Event 14080 Interventionism
+Event 14090 State Capitalism
+Event 14100 Planned economy
+Event 14110 Atheism
+Event 14120 Secularized
+Event 14130 Pluralism
+Event 14140 Moralism
+Event 14150 Residency
+Event 14160 Limited Citizenship
+Event 14170 Full Citizenship
+Event 14180 Jingoism
+Event 14190 Pro-Military
+Event 14200 Anti-Military
+Event 14210 Pacifism
+Event 14500 Colonial Uprisings
+Event 15000 Nationalist movements Public Meeting/Police Brutality
+Event 16000 American Civil War (only work if your are playing as USA)
+Event 17000 Suffragette Movements
+Event 17500 20% In favor of Socialism
+Event 18000 - 18200 Upper House Events
+Event 18000 10.0 Socialist
+Event 18010 5 Liberals and 2 Conservatives add or 5 Conservatives and 2 Liberals add
+Event 18020 20.0 Liberals
+Event 18030 10.0 Liberals
+Event 18040 20.0 Socialists
+Event 18050 20.00 Liberals
+Event 18060 10.0 Radicals
+Event 18070 30.0 Liberals
+Event 18080 30.0 Radicals
+Event 18090 45.0 Liberals
+Event 18100 All Population 20% in Favor of Healthcare Reform
+Event 18110 All Population 20% in Favor of Subsides Reform
+Event 18120 50.0 Conservatives
+Event 18130 50.0 Socialists
+Event 18150 20.0 Fascist
+Event 18160 10.0 Liberals
+Event 18170 30.0 Socialists
+Event 18180 All Population Loses 1 Consciousness or Lose 1 Militancy
+Event 18190 All Population 10% in Favor of Jingoism
+Event 18200 All Population 10% in Favor of Laissez Fair
+Event 18500 All Population Lose 1 Militancy or Lose 1 Consciences and Gain 5.250 Prestige
+Event 18510 Gain 8.400 Prestige
+Event 18520 All Population 5% in Favor of Jingoism and Lose 2.0 War Exhaustion or All Population 10% in Favor of Jingoism
+Event 18530 Gain 1629.21 Research Points
+Event 18540 Lose 3 Infamy or 2 Infamy and Gain 5.250 Prestige "changes your national value"
+Event 18550 Gain 2 Militancy and 10.5 Prestige or Gain 1 Militancy
+Event 18560 All Population Lose 1 Militancy or Lose 1 Consciences
+Event 18570 Gain 10 Prestige and Lose 1 Militancy or Gain 814.61 Research Points
+Event 18580 All Population 20% in Favor of Pacifism
+Event 19000 Great Power Rivalries
+Event 19500 Boer War Gain casus belli on Zulu
+Event 21000 Diseases & Famines -4 Population in Provence
+Event 21500 Natural Disasters Lose 10 Life Rate and Gain -10% Population in Provence
+Event 22000 - 22080 Crimes & Punishments
+Event 22000 Enables Trusty System
+Event 22010 Establish a Penal Colony
+Event 22020 Penal Reform
+Event 22030 Foul Murder
+Event 22040 Chain Gang
+Event 22050 Wanted
+Event 22060 Life Without Parole
+Event 22070 Debtors Prison
+Event 22080 Capital Punishment
+Event 22500 Economical Events Enables Stock Market Crash
+Event 23200 Exploration the Nile River
+Event 23400 Host the Olympics
+Event 23450 Win a Nobel Prize
+Event 29900 50% Increases of Farmers Efficiency
+Event 30000 Host the World Fairs
+Event 31100 The Discovery of Troy
+Event 31300 All Population Gain 1 Connectionism
+Event 33000 Open a Theater in Berlin
+Event 35000 British Monarchy House Splits
+Event 37700 Order Church Property Sold
+Event 44000 Leper Colony Founded in Hawaii
+Event 60000 Country Becomes Communist Dictatorship
+Event 60010 Country Becomes Military Dictatorship
+Event 60020 Country Becomes Radical Dictatorship
+Event 60030 Country Becomes Fascist Dictatorship
+Event 60040 Country Becomes Absolute Monarchy
+Event 60050 Country Becomes Constitutional Republic
+Event 60060 Country Becomes Semi-Constitutional Monarchy
+Event 60070 Country Becomes Constitutional Monarchy
+Event 60080 Country Becomes Military Dictatorship
+Event 60090 Country Becomes Radical Dictatorship
+Event 60100 Country Becomes Communist Dictatorship
+Event 60110 Country Becomes Fascist Dictatorship
+Event 60120 Annexation Event
+Event 60140 Political Reform Appointed
+Event 60107 GET them BACK in the kitchen Ends Women Suffrage
+Event 60108 Extend Slavery or Not to Extend Slavery
+Event 96150 Lowers the Badboy to 25 and Gves 25 Prestige
+
+
+Victoria 2 Event IDs
+
+
+Find below a searchable list of all events from Victoria II, including those from DLCs (Hearts of Darkness). Use the event ID with the event console command to start an event in the game. Type the name, or ID, of an event to instantly search our database of 920 events.
+
+  Event Name Event ID    Juan Bautista Alberdi 46600  Facundo: or, Civilization and Barbarism 46601  Border Ruffians 16190  Drums of War 2550  Suffrage News 17040  Red Winds 18130  Trusts - No Longer an Issue 1217  Terrorist Cells - No Longer an Issue 1216  Spoil System - No Longer a Problem 1215  Rotten Boroughs - No Longer an Issue 1214  Mafia - No Longer an Issue 1213  Machine Politics - No Longer an Issue 1212  Immoral Businesses - No Longer an Issue 1211  Street Gangs - No Longer an Issue 1210  The Mud March 17050  The $PROVINCENAME$ Patrimony 2560  Fascists Assert Power 18140  Flight from Istanbul 31102  Wildcat Strike 3404  Rerum Novarum 35700  The Sitdown Strike 3403  Unemployment Benefits Exceed Budget 3402  Demanding Unemployed 3401  Listless Unemployed 3400  Troy is Discovered! 31100  Broken promises 90101  Longing for a Free Press 90100  San Francisco Earthquake! 21520  World Anti-Slavery Convention 17020  Longing for Public Meetings 90102  Temporary House Majority 18110  Longing for Trade Unions 90104  The Ems Dispatch 19200  Socialists 1000  $COUNTRY_ADJ$ Lebensraum! 2570  The Slave Power 16170  $PROVINCECULTURE$ Uprising! 15080  Shall we host a Regional Trade Fair? 30002  Friedrich Wilhelm IV 34602  The World's Fair Is Opened 30001  Deutschlandlied 34601  Shall we host a Colonial Exposition? 30004  Diesterweg Publishes His Guidelines for Teachers 34600  The Regional Trade Fair Is Opened 30003  Shall we host a World's Fair 30000  Child Labour Law Passed 34608  Debate on Citizenship and Residency 14170_sub  Illness Funds 34607  Otto Nicolai 34606  The Colonial Exposition Is Opened 30005  Neptune discovered! 34605  Jews Have Duties, Too! 34604  Zoological Garden 34603  Conservative Swing in The Upper House 18120  Ghetto 2100  Officer Insulted 15090  Working Women 17030  Free Staters 16180  The Third Way 1003  Anarcho-Liberals 1002  The Communism Agenda 1001  Macchu Picchu Is Discovered 46800  Meteor Strikes Tunguska! 21500  Wealth From Guano 46801  Suffragette Movements 17000  Underground Printing Press 3200  Diaspora 2110  Work and Progress 18570  Copperheads 16150  First Farmer's Bank of $PROVINCENAME$ 15060  The Geneva Convention 31311  The Red Cross 31310  Krakatoa Explodes! 21510  Women's Parliaments 17010  House Commission on Health & Hygiene 18100  Charter Rallies 4300  Anarchist Exclusion Act 2120  Bread & Peace 18580  The Liberator 16160  Sons of $PROVINCECULTURE$ Labour 15070  The First Official Census 31300  Telegram! 31302  France Demands the Extradition of Louis Napol�on 31301  Voting Fraud! 3204  Man Seen Voting 3203  Redrawing Constituencies 3202  Harassment in Local Election 3201  Socialist conference in Zimmerwald 31308  Sisi Murdered! 31307  Socialist Conference in Kienthal 31309  Referendum on the Status of Jews 31304  Economic policy debated in $COUNTRY$ 14010_sub  Referendum on the Railroads 31303  Radical Liberal Coup in Ticino 31306  Referendum on the Liquor Monopoly 31305  Fugitive Slave 16130  Preacher Man 15040  Freedom isn't Free 18550  Anarchist Exclusion Act: Immigrant Deported 2130  $COUNTRY_ADJ$ Schools 15280  Plans, Economies & Freedoms debated 14100_sub  A Soldier's Stomach 14190  Landed Voting Criticized 4301  Wealth Based Voting 4302  An Argument Over Money 4303  A Household Affair 4304  Celebration of Freedom 4305  Underground Railroad 16140  Equal Opportunities 18560  Underground Newspaper 15050  School Strike 15290  Extended Constitutionalism 60070  Liberals Exploit Cholera Epidemic 10250  The Great Escape 3002  The Costs of Health 3001  The Taiping Rebellion 160001  Squalid Slum 3000  Three Hurrahs For $CULTURE_GROUP_UNION$! 11100  Tensions Dissipate 14610  Edvard Munch 36400  Three Hurrahs For $CULTURE_GROUP_UNION$! 11102  Ivar Aasen 36401  $FROMCOUNTRY_ADJ$ Winds 11101  The Great Four 36402  Parliamentarism 36403  Expedition of The Thousand! 11103  Labour Organisation by Marcus Thrane 36405  The Road to Serfdom 60080  Assets seized! 90950  Agitation Suppressed 10260  Soulique Declares Himself Emperor 45101  Mass Protests! 4100  Concordat with the Vatican 45100  Upper House Dissatisfaction 4101  Federalism Criticized 4102  Trustee System 22000  Militarism Debated in Election Campaign 14180_sub  Dental Care Bill 3006  Fund Sanitarium? 3005  The World's Greatest Tenor 35301  Friends' Almshouse 3004  The Nobel Prize In Literature 23571  Puccini Turns American Plays into Italian Operas 35300  The Workhouse Scandal 3003  Tragedy at the Mine 12200  Civil Violence 14620  State Capitalism debated in $COUNTRY$ 14080_sub  Curse of The Pharaohs! 19045  Egyptian Tomb Discovered! 19044  Father Damien and the Lepers of Molokai 44000  Mummy Found 19047  Tutankhamun's Tomb 19046  Egypt Grants Excavation Permit 19041  Excavation Rights Requested 19040  Mysterious Whale Sinks Ship! 23300  Bribing Officials 19043  Mysterious Whale Sinks Ship! 23301  Egypt Refuses Excavation Permit 19042  Professor Arronax Washes Ashore! 23302  Reactionary Speaker 18190  Religious Policy Debated 14110_sub  Constitutional Contentment 4103  Cholera! 10230  The Great Scandinavian Students' meeting 36622  Cholera Spreads! 10240  Reformation of the Parliament by Louis De Geer 36616  A Reform Commission for Cuba 37705  The Merchant Flag 36617  Les Demoiselles d'Avignon 37706  Madoz's Desamortisation. 37707  La Guardia Civil 37708  Spring of Nations 10000  Wave of Colonial Unrest 14600  Workers' Strike in Sundsvall 36610  An Age of Liberalism 10001  August Strindberg Publishes 'The Red Room' 36611  Desamortisation 37700  The Boden Fortress 36612  General Narciso L�pez 37701  The Reconcentrado Policy 37702  Carl Jonas Love Almqvist Publishes 'Det g�r an' 36614  Offer to Buy Cuba 37703  Agricultural Depression and Mass Emigration 36615  Is Cuba For Sale? 37704  $COUNTRY_ADJ$ Empress 19027  Eaten by Cannibals? 19026  Expedition Returns 19029  Botanical Expedition Returns 19028  Botanical Expedition Stranded 19023  Jose Batlle y Ordonez 46400  $FROMPROVINCE$ Botanical Expedition? 19022  Botanical Expedition Reports Back 19025  House Debate on Botany 19024  $PROVINCENAME$ Botanical Expedition? 19020  Campaign for Married Women's Property Act 17080  Socialist Demagogue 18170  The Wet Year 36605  The Dry Year 36606  The Severe Year 36607  Railroads are Joined! 36608  The Sale of St. Barthelemy 36609  Jacobin Uprising 10210  The Swedish Nightingale 36600  Compulsory Elementary Schooling Introduced 36601  Aftonbladet 36602  Stopping the Contagious Disease 14810  Unrest in Stockholm! 36603  G�ran Fredrik G�ransson Employs the Bessemer Method 36604  The Oriental War Entente? 19034  They Accept! 19033  Proposal for Entente 19035  The Eastern Question 19030  The Nobel Prize In Medicine and Physiology 23531  They Refuse! 19032  Protectorate Denied! 19031  Married Women's Property Act 17090  Address to Parliament 18180  Agitation Dies Down 10220  Tensions in $FROMCOUNTRY$ 19005  First FA Cup Played 5000  World Cup of Football 5001  Stanley Cup 5002  Great Power Contention 19000  Newspaper Extra: The Mud March 17060  Voting Reform 18150  Citizenship Policy Debated in $COUNTRY$ 14030_sub  An international crisis is brewing! 20000  Speech in Parliament 18160  A Place In The Sun 19010  The NUWSS and The NSWRV 17070  Fire! 33300  Liberal Insurrection 10200  Diseased Revolts 14800  Colonial Discontent 14570  Boiler Explodes! 12150  Wind of Westernization 13000  Pierre Joseph Proudhon 37210  A Ship on our Shores 13240  Through the Air! 37211  Paris World's Fair 37212  Democracy in America 37213  Flaubert in Court 37215  The Dreyfus Affair I 37216  Trade Union 17600  The Dreyfus Affair II 37217  Dreyfus is innocent! 37218  Mount Pelee Erupts in Martinique 37219  Holy Site Disturbed 14580  $FROMCOUNTRY$ Free-Trade! 13250  Battle for Grain 17610  Standard $PROVINCENAME$ Cement 12160  Who Produces What, Where is it Produced, How Much Does it Costs and Where Does it Go? 14100  Louis Napoleon in Switzerland 37200  Western Approaches 13010  Arc de Triomphe 37201  Grievous Insults! 13015  July Column unveiled 37202  Coup attempt! 37203  Workers of The World Unite! 60000  Napol�on I returns 37204  Across the Alps! 37205  Play the Sax! 37206  Louis Napol�on Flees! 37207  Charles Louis Napol�on Bonaparte 37208  Foucault's Pendulum 37209  Fiery Sermon 10190  Spreading A Contagious Disease 14790  Cottage Industry 12130  Legation Quarter 13220  Colonial Exposition 14550  Viva El Presidente! 60010  Clipper Boom 12140  Colonial Education Policy 14560  Ambassador Killed 13230  The British Monarchy Splits From the House of Saxe-Coburg-Gotha 35000  Liberty. or else 60020  Liberal Agitation Spreads 10170  Colonial Crisis 14530  In Them Old Cotton Fields 12110  A Protest Against Religion 14770  Voyage of the Sultana 38500  Leopold IV of Anhalt-Dessau is Duke of All Anhalt! 48300  Death of Sultan Said 38501  Our Master's Voice 13200  Shall Zanzibar be Free? 38502  Diplomatic Mission under Siege! 13201  The Zanzibar Question 38503  Extraordinary Powers 60030  Immigration Debate in Local Elections 14150_sub  Anti-Jacobin Tract 10180  Exotic Fauna! 14540  Rescript on Education 13210  Contagious Diseases 14780  Iron and Blood 12120  The Nobel Prize In Chemistry 23491  Form Arabia 111011928  The Middle Kingdom 90900  The Breakup of China 90902  Restoration of The Monarchy 60040  Luddite Mob 10150  Rebelling Workers 14750  Warburg's Tincture 13420  Outbreak of Smallpox 21040  Trading Privileges Questioned 14510  $COUNTRY_ADJ$ Thaw 60050  President Heureaux Assassinated 45006  Dominican Republic Annexed to France? 45005  International Olympic Committee 23400_NEWS_TITLE  Rebelling Slaves 14760  Do We Want to Incorporate the Dominican Republic? 45002  Banquet Campaign 10160  Britain Intercedes 45001  Britain Steps In 45004  Dominican Republic to Join France? 45003  Friendly Society 3902  Union Busting 3903  Residential Policies debated in local elections 14160_sub  A Cure! 12100  Incorporating A New Factory 14520  Dominican Republic to Join the United States? 45000  Unions on the Rise 3900  National Unions 3901  Limited Constitutionalism 60060  Slave Market 16110  $PROVINCECULTURE$ Poet! 15020  Minority Building Restrictions 15260  Fascist Welfare 17680  Liberty Shines 18530  The Sepoy Rebellion 90040  Losing Face 13080  Peace and Quiet 14170  $COUNTRY$ debates Trade Policy 14060_sub  China rejects the Convention 80001  The Convention of Peking 80000  Dryzymala gets a visit 15274  Abolitionist Pamphlets 16120  Discriminatory School System 15030  Liberty Prevails 18540  Beer Hall Putsch 17690  Bickering Neighbour 14180  Dryzymala's Wagon 15270  Microscope Imported 13090  Toward a New Theatre 31506  Empress Sisi 31505  Franz I Dies. 31502  Smoking Ban! 31501  Natshertanye 31504  Speak Hungarian! 31503  Patriotic Society 15240  Military Parade 18510  Use of Opium spreads 13060  Immigration and Jobs 14150  The Blackshirts Massacre 17660  The Governor Sends a Letter 13065  $PROVINCECULTURE$ Boy Shot by Police! 15000  Religious policy debated in $COUNTRY$ 14020_sub  Madero Enlists Supporters 44801  Madero's Manifesto 44800  Jose Posada 44803  Peasant Army Under Zapata Joins the Revolucion 44802  Directive on Trade in The Provinces 15010  Blood and Roses 18520  Minor Immigration Problems 14160  The $PROVINCECULTURE$ Rite 15250  The Free Corps Massacre 17670  American Anti-Slavery Society 16100  Sayings of The Dutch 13070  Chimney Sweepers 3700  Punch Clock 3701  Recreation for Workers 3702  Working Less or Less Work? 3703  The Inheritance of the Duchy of Brunswick 33900  Free Corps 17640  Foreign Trading Post? 13040  Converted Subjects 14130  Aristocrats Angered 13280  The Amistad Decision 16310  $PROVINCECULTURE$ Soldiers 15220  Overproduction at the Refinery 12190  A Holy Place 14140  Literary Association of Friends 15230  Police Parade 18500  Opium Habit 13050  $FROMCOUNTRY$ goes bankrupt! 70002  Use of Opium Spreads 13055  $STATE$ Joins $COUNTRY$! 70001  Religious policy debated in $COUNTRY$ elections 14120_sub  I Am Everywhere 17650  $STATE$ Joins $COUNTRY$ 70000  100 Days of Reform 13290  Dyeworks Accident 12170  $FROMCOUNTRY$ Demands Trade Access! 13260  Blackshirts 17620  Disloyal Regiment 14590  Nationalist Officers 15200  Shipwrecked Sailors 13020  Neglected Religions Umbrage 14110  Regionalism & Interventionism debated 14090_sub  March on $CAPITAL$ 17630  Cistern Explodes! 12180  Foreign Smugglers 13030  The $COUNTRY_ADJ$ Opium War 13270  A Miracle? 37220  Uncle Tom's Cabin 16300  Sarah Bernhardt on World Tour 37221  Religious Umbrage 14120  $PROVINCECULTURE$ Martyr 15210  Over the English Channel 37222  A Meeting Of Three 3750  Tres Grande Vitesse 37223  Strike Breakers! 3503  Local Management Conflict 3502  Worker's Committee 3501  Red John 3500  Les Ballets Russes 37224  �douard Manet 37225  Population decline 37226  Military & Defense Debate in Local Election 14190_sub  The Northwest Rebellion 44302  Rubber From The Congo! 19345  Louis Riel and the 1st M�tis Rebellion 44301  Freeminded Opposition 18010  The Pacific Scandal 44300  Bodyguards 17160  The Congo Free State! 19340  Tariff Policies Debated in $COUNTRY$ 14050_sub  The Great Depression 22510  Fire-Eaters 16070  The Wimbledon Championships 36924  Jack the Ripper and the Plight of the Poor in London 36925  Shakespeare at Sadler's Wells 36926  Peter II is now officially a Grand Duke! 34500  Alice's Adventures in Wonderland 36927  The Thermopylae 36928  Collapse of the Tay Bridge 36929  Public Meeting Held! 3751  Brick St. Gentlemen's Club 3752  The Battle of Pine Street 3753  The Cato Street Conspiracy 3754  Attack on The Workhouse! 3755  The Chartist Movement 36920  Reform Rally 3756  The Taff Vale Decision 36921  The Ashes 36922  Charles Darwin 36923  The $CRISISAREA$ Crisis 20104  The destiny of $CRISISTAKER$ 20103  A war to end all wars 19356  The $CRISISAREA$ Crisis 20102  Tensions in $STATE$ 20101  Tensions in $STATE$ 20100  Great wars 19355  Women's Suffrage: The Vote 17170  Follow The Drinkin' Gourd 16080  The Congo Reform Association 19350  Free Banking 22520  Upper House Debate on Charter Reform 18020  The Nobel Peace Prize 23611  The $CRISISAREA$ Crisis 20105  Rubber found in $PROVINCENAME$ 1107  New Pinacotheque 33402  America's Cup 36913  Richard Wagner 33403  The Great Britain 36914  Diamond Fever - $PROVINCENAME$ 1105  The Walhalla 33400  Victoria's Diamond Jubilee 36915  Lola Montez 33401  Repeal of the Corn Laws 36916  Mountaineers unite! 36917  A True Man's Sport! 36918  Florence Nightingale 36919  Gold Rush - $PROVINCENAME$ 1100  Chamber of Commerce Protests 10300  Realism Comes to the British Stage 36910  Oil Well found in $PROVINCENAME$ 1109  The Rose 36911  Gerard Manley Hopkins 36912  The Empire of the Sun 19320  Hunger Strike 17140  I Wish I Was In Dixie 16050  Package Tours 36902  Queen Victoria marries 36903  Punch! 36904  The YMCA 36905  Ruinous Irish Harvests! 36906  Vanity Fair 36907  Wiring the Continent 36908  A World Fair 36909  The Reform Club 36900  Dickens Publishes 'Oliver Twist' 36901  The Congo Conference 19335  The $CAPITAL$ Conference 19330  Parliamentary Realignment 18000  Cat and Mouse Act 17150  Stock Market Crash! 22500  Yankee Doodle 16060  Post-War Promises! 3307  Post-War Promises? 3306  An Old, Tired Soldier 3305  Benefits Exploited 3304  Gruel and Gruelling Work 3303  Pension Debate 3302  The Familiar Institution 3301  Threshing Accident 3300  The $CB_TARGET_NAME_ADJ$ menace 90000  The tyrany of $CB_TARGET_NAME$ 90002  Mission to $CB_TARGET_NAME$ 90001  A Southern Belle 16030  Protecting the $CB_TARGET_NAME_ADJ$ 90004  The tyrany of $CB_TARGET_NAME$ 90003  Women's Right to Vote 17120  An end to $CB_TARGET_NAME_ADJ$ Imperialism 90006  Liberty Enlightening The World 19300  The $CB_TARGET_NAME_ADJ$ Fiasco 90005  God is Dead 4410  Gold In The Black Hills! 1140  Local or State Economy 14090  Organic Work 15180  Curtailing Military Spending 4408  Semper Opera 34701  Witwatersrand Gold Rush 1139  Pacifist Parliament 4409  Albert Lortzing 34700  The Era of Laissez-Faire 4400  Bread Riots 4401  Guns Cross The Border 4402  Local Business Fails 4403  State Industries Fail 4404  Overreporting of Progress 4405  Yellow Journalism 4406  Recruitment Drive 4407  Lawless Suffragettes 17130  Politburo Discusses War 4420  The Mandate of Heaven 19310  Liberals Protest Harassment 4421  Institutional Community 2000  Southern Manorialism 16040  The $PROVINCENAME$ Slaughter 15190  Russia Declines! 32511  Bread Queues 4419  Russia Accepts! 32510  Secular Strife 4411  Pluralist Peace 4412  Moralist Resurgence 4413  Protectionist Lobby 4414  Free Trade & Repeal Society 4415  Free Trade & Morals 4416  Moralists Support The War Effort 4417  Ban on Public Meetings? 4418  Anti-Manchu feeling 160502  John Brown's Last Raid 16010  Secessionist Sentiments! 16250  Pressure for Reform 4430  NSWRV: Education for Women 17100  Lover Exposed! 3101  Newspaper Publishes Slander 3100  Employment for Immigrants 2010  National Workshops 17580  Monopoly 14070  $PROVINCECULTURE$ Weapons 15160  Pushkin Dies 32500  Committee for Polish Independence 32501  Strike for Peace! 4422  Moscow Art Theatre 32508  The Alaska Purchase? 32509  Overworked Censorship Bureau 4423  Freemarketeering Criticized 4424  The First Russian Railroad! 32506  Newspaper Publishes Blasphemy! 4425  Shimoda Treaty 32507  Mussorgsky's 'Boris Godunov' Performed 32504  The Brothers Karamazov 32505  Petrashevski Circle 32502  The Hermitage 32503  Dred Scott v. Sandford 16020  NUWSS: Education for Women 17110  Professor Criticizes Voting System 4200  Political Reform Club 4201  Parliamentary Agitation 18200  Worker's Revolt 17590  Intermarriage 2020  $PROVINCECULTURE$ Sabotage 15170  The Production Quota 14080  Duke of All Anhalt 48300_NEWS_TITLE  Circulation Doubles! 3102  Its time to act! 90008  Colonial Setback 90007  Misguided fools! 90009  First to the North Pole! 23207  Across Antarctica 23208  Chartist Society 10130  Where is the Source of the Nile? 23200  Expedition Returns Without Success 23201  Expedition Disappears Without A Trace 23202  Change Your Name 2030  The Source of the Nile Discovered 23203  Liberal Caucus Calls for Reform 18090  The First to the Pole 23204  The Games of The Tenth Olympiad 23440  Mozart Festival 34100  Mandate For Reform 4202  Sitting Down with Europeans 13400  Typhoid Fever! 21020  Eliminating the rebels 14730  Secret Society 10140  First to the South Pole! 23211  Comet Sighted 23212  The Mountains of Madness 23213  Owning a Home 2040  Germanization of Schleswig 33004  Baghdad Railroad 33005  Konrad Duden 33002  Alfred Nobel's Bequest To Humanity 23450  Meininger Troupe Opens in Berlin 33000  The Nobel Prize In Physics 23451  Carl Hagenbeck 33001  Bitter Rain 14500  Flu Pandemic 21030  Peace in Colony 14740  A Telescope 13410  Attend The Seventh Olympic Games? 23427  The Games of The Seventh Olympiad 23428  O Jogo bonito, the beautiful game 46301  The American Methodist Episcopal Church 44121  The Sabinada 46302  Outbreak of Tuberculosis! 21000  O Navio Negreiro 46300  The Games of The Fifth Olympiad 23420  The Games of The Fifth Olympiad 23421  Shall we host the Sixth Olympic Games? 23422  Attend The Sixth Olympic Games? 23423  The Games of The Sixth Olympiad 23424  Naturalization 2050  Reactionary Move 18070  Shall we host the Seventh Olympic Games? 23426  Flagship Company Bankrupt 22570  The Watch on $PROVINCENAME$ 10110  War is a Racket 14710  Moral Crusaders 44120  Shall we host the Tenth Olympic Games? 23438  Time to Play Ball! 44115  Attend The Tenth Olympic Games? 23439  Gunfight at the OK Corral 44114  Unitarianism in America 44117  The Second Great Awakening 44116  Abolitionism 4000  Pinkerton's Detective Agency 44111  Support for Foreign Abolitionism 4001  Espionage and Sedition Acts 44110  The Great Chicago Fire 44113  Famine Strikes State! 21010  The National League 44112  Shall we host the Eighth Olympic Games? 23430  Attend The Eighth Olympic Games? 23431  The Games of The Eighth Olympiad 23432  Shall we host the Ninth Olympic Games? 23434  John Joseph Hughes 44119  Attend The Ninth Olympic Games? 23435  Wage Slavery 18080  The Benevolent Empire 44118  The Games of The Ninth Olympiad 23436  Advanced Naturalization 2060  All $COUNTRY$ is saying is 'Give Peace a Chance!' 14210_sub  Railroad Trust Exposed! 22580  Premiere of Nabucco 35400  Colonial Weariness 14720  $PROVINCENAME$ Herald 10120  Massive Naturalizations 2070  Our athletes are victorious! 23405  Horace Mann 44104  Shall we host the Second Olympic Games? 23406  The Resolute Returned 44103  Attend The Second Olympic Games? 23407  The Essays 44106  The Games of The Second Olympiad 23408  Smithsonian Institution 44105  The Adventures of Huckleberry Finn 44100  Cross of Gold 44102  Number 999 Sets a Speed Record 44101  Wildcat Bills 22550  Pressing Concerns 18050  Membership in the International Olympic Committee 23400  Religious policy in $COUNTRY$ 14130_sub  Shall we host the First Olympic Games? 23401  Ulysses S. Grant's Personal Memoirs 44108  The Common Law 44107  Attend The First Olympic Games? 23403  The Games of The First Olympiad 23404  Alfred Thayer Mahan 44109  Chartist Rallies 10330  The Games of The Fourth Olympiad 23416  Denaturalization 2080  Shall we host the Fifth Olympic Games? 23418  Attend The Fifth Olympic Games? 23419  Shall we host the Third Olympic Games? 23410  Attend The Third Olympic Games? 23411  The Games of The Third Olympiad 23412  The Games of The Third Olympiad 23413  Shall we host the Fourth Olympic Games? 23414  Attend The Fourth Olympic Games? 23415  Action and Reaction 18060  Economic Boom 22560  The Blight of $YEAR$ 10100  The Blight Ends! 10105  A Boatload of Bananas 14700  Segregation 2090  Knights of The Golden Circle 16090  Local Railway Shares 22530  A Meeting on Meetings 18030  Adolphe Sax builds the saxophone 36704  Solvay Invents the Ammonia Process 36705  Father Damiaan Departs For Hawaii 36706  The Treaty of Waitangi 36940  The Flagstaff War 36941  The Fencibles 36942  Hendrik Conscience publishes 'De Vlaamse Leeuw' 36700  Formation of the Flemish Movement 36701  The Potato Plague of 1845 36702  Formation of the Association for Free Trade 36703  Stock Exchange 22540  Red Scare 18040  Temperance League 100  The Name of the Royal House 36937  Durgesnandini is published. 36938  Dalhousie's Reforms 36939  A Treatise On Economics 10320  The Great Tea Race 36930  William Morris 36931  The Enigma Variations 36932  First Athletics Championships 36933  Purchase of Army Commissions Abolished 36934  Gurkhas, Askaris & Tirailleurs 14690  Diplomatic Mission 13360  Changing Fashions 12270  Words or Violence 14210  Sokol Movement 15300  Production Shortfalls 12030  The King and I 13120  Beer Hall Opening 110  Debtor's Prison 22070  Moldy Clothing 12280  Factory Stinks! 12040  $FROMCOUNTRY$ Applies For Statehood! 16400  The Flying University of $PROVINCENAME$ 15310  European Military Mission 13130  The Polar Bear Purchase - Denmark Refuses 36232  The Polar Bear Purchase - Denmark Accepts 36231  Economy debated in $COUNTRY$! 14070_sub  The Polar Bear Purchase 36230  De Vlaamse Leeuw' 36700_NEWS_TITLE  Drunken Riots 120  Capital Punishment 22080  Military Spending Debated in $COUNTRY$ 14200_sub  Increasing Federalism 60120  KA-BOOOM! 12250  Anti-foreign revolt 13100  The Heart of Darkness 14670  Mines Commission of $YEAR$ 12010  Coaling Station 13340  Denmark Refuses! 36222  George Brandes' First Speech 36220  Destitution & Poverty 130  Wanted! 22050  $FROMCOUNTRY$ Petitions for Annexation 60130  Fascist Trade Unions 17700  Men for The Colonies! 14680  Elegant Furniture 12260  The Girl from $PROVINCENAME$ 12020  A Western Education? 13110  Hut-two-three-four! 13352  Too Stale for War? 14200  An Elephant for America? 13350  Det danske Hedeselskab 36211  Fyrretyve fort�llinger af f�drelandets historie 36210  Saloon Picketed 140  R�dding H�jskole 36219  Tivoli opens 36218  Life Without Parole 22060  S�ren Kierkegaard 36217  Jacob Christian Ellehammer 36216  United Breweries 36215  Assassination attempt on Estrup. 36214  Ny Carlsberg Glyptoteket 36213  The Christiansborg fire of 1884 36212  Boxer Atrocities! 13356  The Doctrine of Lapse 13357  Torching of The Summer Palace 13355  Constitutional Convention 60140  The Doctrine of Lapse 13358  Liberal Author 10290  Big Game Hunting 14650  The End of The Revolution 10050  Foreign School 13320  Radio $PROVINCENAME$ 12230  $PROVINCENAME$ Electrified! 29901  The Constitution Signed 36200  The First Tractor in $PROVINCENAME$ 29900  Religious Temperance 150  Mechanized Mining 29904  New Store in $PROVINCENAME$ 29903  Exploding $PROVINCENAME$ 29902  Alberti Turns Himself In 36208  General Strike 36207  Von K�ller Starts a 'Germanification' Campaign in Northern Schleswig 36206  The Fortification of Copenhagen 36205  Slave rebellion in the Danish West Indies 36204  A Heated Debate in $COUNTRY$ 14000_sub  Foul Murder! 22030  The Forced Emigration of Louis Pio 36203  The Battle on the Copenhagen Common 36202  The First Socialist Movement 36201  The end of female suffrage 60150  Sale of the Danish Virgin Islands to the US 36209  In The Drunk Tank 12240  Developing Trade 13330  Colliery Disaster! 12000  Heia Safari! 14660  Licensing Act 160  No Good Chain Gang 22040  Liberal Student's Association 10270  Penal Colony Abolished 22011  Temperance & Labour 170  Establishing a Penal Colony 22010  The Old Man and The Sea 12210  Colonial Mismanagement 14630  Ships in the Blue 13300  Foreigners in $PROVINCENAME$ 13305  Classics Rediscovered 10280  Colonial Disturbance 14640  All the Tea in $COUNTRY$ 12220  Gin Runners & Moonshine 180  Penal Reform League 22020  Missionary Station 13310  Coronation of Queen Victoria 36898  Laagers Attacked! 19500  Quantrill's Raiders Strike! 16230  High Tariffs 14050  Equal Opportunities 15140  Witwatersrand Gold Rush 19501  May Day 17560  Viticultural Association 190  A House Divided 16000  Pottawatomie Rifles Strike! 16240  Kulturkampf 15150  War Policy Debated in Local Election 14040_sub  Forward! 17570  The Slavery Debate 16001  Export and Import 14060  Expensive Jobs 3803  Hapag 33802  Living Wage 3800  Unraveling Reform 3801  Hamburg Burns! 33800  Meeting Labour 3802  Sinking of the Austria 33801  Raiding the garrisons 16451  A Heated Debate: Citizenship Policy 14030  The $PROVINCECULTURE$ Congress 15120  Apprehending Geronimo 16450  Sympathy Strike 17540  The $PROVINCENAME$ War 16210  $FROMCOUNTRY$ grants extraterritoriality 13180  Death in the Silk Fields 12090  $STATENAME$ Emigrant Aid Co. 16220  All roads lead to $CAPITAL$ 15130  Love & War in $COUNTRY$ 14040  Strike! 17550  Military Reform 13190  Bread and Roses 17520  Old Canned Food 12070  What shall we do with the drunken sailor? 13160  The Future of the Economy 14010  Aristocrats Incite The Peasantry 15100  End of the Sioux Wars 16430  Border Incident 2500  Religious Policy & State Sponsorship 14140_sub  Bloody Strike 17530  The Apache Wars 16440  A Heated Debate: Religious Policy 14020  $FROMCOUNTRY$ executes sailor! 13170  Bleeding $STATENAME$ 16200  Annals of $PROVINCECULTURE$ History 15110  A. B. 'Banjo' Patterson 43803  Charles Sturt's Fourth Expedition 43800  Bovine Fever 12080  Burke and Wills 43801  A Federal Flag 43802  Labor Spies 3604  Employers versus Workers 3603  Safety Helmets 3602  Belts and Braces 3601  Life and Limb 3600  SS $CAPITAL$ Explodes! 2510  Hale and Hearty 3607  Phossy Jaw 3606  Police Strike 3605  Military Intelligence Spreads 13140  Labor Union 17500  Tea Weighing Station Robbed 12050  Breaking The Anaconda! 16410  Ambassador Insulted 2520  Rise of The KKK 16415  Feed The Hungry Soldiers 12060  Europeans Harassed 13150  Eight-Hour Day 17510  The Sioux Wars 16420  $COUNTRY_ADJ$ Trade Policy 14000  Merchants Harassed 2540  Spoil System 1206  Rotten Boroughs 1205  Mafia 1204  Machine Politics 1203  Immoral Business 1202  Citizen Guards 1201  Anarchic Bomb-throwers 1200  Colonial Incident 2530  Anarchic Bomb-throwers - No Longer an Issue 1209  Trusts 1208  Terrorist Cells 1207   
