@@ -1,0 +1,850 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn
+
+
+
+SPIRTHACK.ME
+
+
+Introducing Spirthack - unique DLC made by russian developers, providing huge functionality and easy setup, with fast and friendly support team.
+
+
+Features
+
+
+Your friends still doesn't have our software? Send them link to Spirthack Cloud Radar so they can see almost all enemy moves in their phone's browser.
+
+
+Add any item to your CS:GO inventory and pick them in game. Other SpirtHack users will also be able to see your skins!
+
+
+Smart aimbot which is easy and quick to set up. It's not necessary to tweak "FOV" and "Smooth" manually if you don't want to, you can just set the "level of legitimacy".
+
+
+Absolutely any option of our software can be turned on or off by keys on keyboard. You can assign single press or long press of any key on your keyboard to toggle any function you need.
+
+
+You can hit the enemy, shooting towards the point where he was 
+
+Change ranks, write red messages and make error spam. You can also open 1000 windows on any player's csgo client in the lobby!
+
+
+CS:GO Console Commands List | Best, Useful and Fun
+
+
+Most players use CS:GO commands to enhance their experience while playing the game. They offer you the power to change the game in ways that could assist you in dominating the enemy team. For some players, they’re the difference between winning and losing, while for others, they’re a key part of a strategy that the entire team uses. They’re not something you’ll come across unless you’re looking to up your game, which is probably why you’re reading this guide. Here we’ll take you through what commands are and provide a list of the best in the game.
+
+
+How do you use Console Commands in CS GO?
+
+
+Before you can use console commands in CS:GO, you’re going to need to enable the Developer Console. This is a simple process that we’ll walk you through below.
+
+
+
+  
+Open CS:GO, then launch the ‘Options‘ menu.
+
+  
+Click the ‘Game Settings‘ option.
+
+  
+Scroll down until you find the ‘Developer Console‘ option. Then change it to ‘Yes.’
+
+  
+Click the ‘Options‘ button again and then navigate to the ‘Keyboard/Mouse‘ settings.
+
+  
+Now search for ‘Toggle Console‘ and bind it to a key that CS:GO doesn’t currently use. By default, the Developer Console is bound to the Tilde (`) key.
+
+  
+Head back to the main screen and use the key that the Developer Console is bound to when you want to open it.
+
+
+
+
+As you can see, once you’ve opened CS:GO, the process here is quite simple. First, you open the ‘Options’ menu, and then the ‘Game Settings’ menu. It’s here that you need to scroll around and find the ‘Developer Console’ option and toggle it to ‘Yes.’ With that done, you can open the Developer Console using the Tilde (`) key, which it is set to by default. However, if you’d like to bind the Developer Console to a specific key, then you can do so by searching for ‘Toggle Console’in the ‘Keyboard/Mouse’ menu within the ‘Options’ menu. Once you’ve chosen the key you want to bind it to, all that’s left to do is quit to the main menu and open the Developer Console.
+
+
+Why can’t I open the console in CS GO?
+
+
+If you’re unable to open the Developer Console using the method above, quit CS:GO and restart it. First, try the key that it’s set to by default, the Tilde (`) key. If that doesn’t work, search for it in the menus we outline above, and assign it to a new key. Now see if the new key you’ve set the Developer Console to will activate it. If not, there one more option you can try.
+
+
+You might be able to activate the console key with a Config file. To do this, search for the following file called “Config.cfg” using the following filepath.
+
+
+“Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg”
+
+
+Once you’ve opened the file, the first thing you’ll see are lots of lines with the word ‘bind’ in. These are key binds. You need to search for ‘toggleconsole‘ within this file. The entry should look like the following.
+
+
+If you can’t see it, copy and paste the above code into the file with the rest of the key binds.
+
+
+Now you need to search for “con_enable” in the Config.cfg file. If it’s set to ‘0’ then set it to ‘1.’ If it’s already set to ‘1’ then leave it. It should look like the following for our purposes.
+
+
+Now start CS:GO up again. When you press the bound key, in this case ‘F9,’ the Developer Console should open.
+
+
+You can also load the console when the game starts automatically using the launch option ”-console”.
+
+
+CS:GO Commands List
+
+
+Now it’s time for the good stuff. This is a list of all the known CS:GO commands that you can use in the Developer Console. We’ve added a brief explanation of what each one does as well. Please note that you will be required to add a number that defines your input for most sections in square brackets, usually between 0 and 10.
+
+
+bot_add
+
+
+bot_add [T / CT] [Difficulty] [Name]
+
+
+This command will add a bot to your current game. By specifying T or CT, you will add the bot to either Terrorists or Counter-Terrorists. It’s also possible to specify a name if you want to give one to a bot, and the difficulty level for it.
+
+
+bot_add_ct
+
+
+bot_add_ct [Difficulty] [Name]
+
+
+This is the same command for adding a bot to the game. However, this version specifically adds it to the Counter-Terrorist team. You can still define a name and difficulty.
+
+
+bot_add_t
+
+
+bot_add_t [Difficulty] [Name]
+
+
+This is the same command for adding a bot to the game. However, this version specifically adds it to the Terrorist team. You can still define a name and difficulty.
+
+
+cl_crosshairgap
+
+
+This command adjusts the size of the middle of your crosshair. The smaller or larger the number, the smaller or larger the gap.
+
+
+cl_crosshairsize
+
+
+This command is used to define the size of the four lines that make up your crosshair. Smaller numbers give you a thinner, shorter crosshair, whereas larger numbers make the lines much thicker and longer.
+
+
+cl_crosshairstyle
+
+
+This command defines the style of your crosshair. Here you can change it to activate upon moving your character or its entire shape.
+
+
+cl_crosshairthickness
+
+
+cl_crosshairthickness [Thickness]
+
+
+Using this command allows you to customize how thick your crosshair is.
+
+
+cl_hud_color
+
+
+With this command, you can change and customize the color of your Heads up Display (HUD). You can use any color you want, defined as numbers between 1 and 10.
+
+
+cl_hud_playercount_showcount
+
+
+cl_hud_playercount_showcount [0 / 1]
+
+
+This command changes the game’s settings to only show the number of team members alive on each team, instead of all of them in the game.
+
+
+cl_hud_radar_scale
+
+
+cl_hud_radar_scale [Radar Scale]
+
+
+This command changes how much room your radar takes up in your HUD between 0.8 and 1.3. You’ll sacrifice more space with a larger number.
+
+
+cl_radar_scale
+
+
+cl_radar_scale [Radar Scale]
+
+
+With this command, you can choose how large or small your radar is between 0.25 and 1. You’ll lose screen space with a larger radar, so don’t set it to be too big. It’s akin to zooming your radar in.
+
+
+cl_righthand
+
+
+This command moves your gun to your left hand. 0 will move it to the left, and 1 will move it to the right.
+
+
+cl_showfps
+
+
+With this command, you can bring up a simple FPS (frames per second) count on the top left-hand side of the screen. This will only show your FPS, which is something that some players desire overcrowded data displays. 0 turns the display off, and 1 turns it on.
+
+
+demo_pause
+
+
+You can pause the demo you’re watching with this command.
+
+
+demo_resume
+
+
+You can resume the demo you’re watching with this command.
+
+
+demo_timescale
+
+
+demo_timescale [Playback speed]
+
+
+This command changes the speed of the demo you’re watching, meaning you can fast-forward it or slow it down. For example, entering the number ‘2’ plays the demo twice as fast.
+
+
+demo_togglepause
+
+
+This is a quick command to play and pause the demo you’re watching. The same command can be used for both, so there’s no need for others.
+
+
+game_mode + game_type
+
+
+These commands can be used together to set the type of game that you’re playing. See below for details.
+
+
+
+Game NameType ModeCasual00Competitive01Scrim Competitive 2v202Scrim Competitive 5v502Arms Race/Gun Game10Demolition 11Deathmatch 12Training20Custom30Cooperative40Skirmish50 
+
+
+
+give
+
+
+This command gives you the weapon associated with the code you type in.
+
+
+hurtme
+
+
+Damages your character. 1 = 1HP
+
+
+mp_ignore_round_win_conditions
+
+
+mp_ignore_round_win_conditions [0 / 1]
+
+
+Enables or disables the win conditions of a round. 0 turns off the conditions, and 1 turns them on. With win conditions off, you can play until you decide that the round should end manually.
+
+
+mp_warmup_end
+
+
+noclip
+
+
+Allows you to float around the map and move through solid objects.
+
+
+say
+
+
+Sends a message in the chat.
+
+
+say_team
+
+
+Sends a message to your own team chat.
+
+
+sensitivity
+
+
+Changes your mouse sensitivity above and below the default of 1.
+
+
+unbind
+
+
+Unbinds the specified key from the action that you’ve assigned to it.
+
+
+viewmodel_fov
+
+
+Changes your Field of View. The default is 60, and it can be changed to a maximum of 68.
+
+
+viewmodel_offset_x
+
+
+viewmodel_offset_x [X Offset]
+
+
+This command sets the offset of your view model along the X-axis of the screen. This is how far from the left and right it is. The maximum value is 2.5, and the minimum is -2.5.
+
+
+viewmodel_offset_y
+
+
+viewmodel_offset_y [Y Offset]
+
+
+This command sets the offset of your view model along the Y-axis of the screen. This is how far from your character it is. The maximum value is 2 and the minimum is -2.
+
+
+viewmodel_offset_z
+
+
+viewmodel_offset_z [Z Offset]
+
+
+This command sets the offset of your view model along the Z-axis of the screen. This is how far up or down the screen it is. The maximum value is 2 and the minimum is -2.
+
+
+voice_enable
+
+
+Turns voice chat on or off. 0 is off, and 1 is on.
+
+
+bind
+
+
+bind [Bind Key] ["Bind Command"]
+
+
+Binds a command to a specific key defined by you. See our guide on how to use key binds for more information.
+
+
+bind_osx
+
+
+bind_osx [Bind Key] ["Bind Command"]
+
+
+The same bind key command, but specifically for Mac OSX.
+
+
+bot_difficulty
+
+
+bot_difficulty [Difficulty]
+
+
+Sets the difficulty of bots added to a private server. 0 is easy, and 3 is the most challenging.
+
+
+bot_quota
+
+
+Sets the maximum number of bots you can have in your server. By default this is 10.
+
+
+cl_crosshair_drawoutline
+
+
+cl_crosshair_drawoutline [0 / 1]
+
+
+Enables or disables the small black lines around your crosshair. 0 removes them, and 1 turns them on.
+
+
+cl_crosshair_outlinethickness
+
+
+cl_crosshair_outlinethickness [Thickness]
+
+
+Defines how thick the outline of your crosshair is between 0.1 and 3.
+
+
+cl_crosshaircolor
+
+
+Changes the color of your crosshair. Values change between 0 and 4. Try them out to find your favorite.
+
+
+cl_draw_only_deathnotices
+
+
+cl_draw_only_deathnotices [0 / 1]
+
+
+Strips back the UI to only show the crosshair and kill feed. Ideal for those making videos.
+
+
+cl_radar_always_centered
+
+
+cl_radar_always_centered [0 / 1]
+
+
+Changes whether the radar is always centered on your character. This can be useful at the edges of a map when half of the radar is normally taken up by blank space.
+
+
+cl_radar_rotate
+
+
+Used to turn on or off the rotation feature of your radar. With it off, the radar won’t rotate when your character does, which some players prefer.
+
+
+joy_inverty
+
+
+This command is used to invert controls for the joystick, should users prefer to do so.
+
+
+joy_movement_stick
+
+
+joy_movement_stick [0 / 1 / 2]
+
+
+This command changes which joystick moves your character. 0 assigns the left joystick, 1 assigns the right joystick, and 2 is legacy controls.
+
+
+key_listboundkeys
+
+
+Lists every key that you have bound to a specific action.
+
+
+sv_infinite_ammo
+
+
+1 offers you infinite ammo without needing to reload, while 2 sets you to have infinite ammo, but you need to reload between clips still. 0 is the standard CS:GO ammo formula.
+
+
+cl_autowepswitch
+
+
+Changes whether you automatically equip weapons after picking them up.
+
+
+cl_color
+
+
+Sets the color you prefer to be when matchmaking for both CS:GO and in Steam.
+
+
+cl_crosshairalpha
+
+
+cl_crosshairalpha [Alpha Value]
+
+
+Sets how transparent your crosshair is. Lower values make the crosshair more transparent.
+
+
+cl_hud_playercount_pos
+
+
+cl_hud_playercount_pos [0 / 1]
+
+
+Moves the playercount menu in your HUD. 1 moves it to the top of the screen, 0 moves it to the bottom.
+
+
+cl_pitchdown
+
+
+Changes how low below eye level you can lower the camera. Turning this all the way up will let you look under your legs, behind you, and even back over your head again.
+
+
+cl_pitchup
+
+
+This command is the same as the above one, but it changes how high above eye level your camera can move.
+
+
+cl_radar_icon_scale_min
+
+
+cl_radar_icon_scale_min [Icon Scale]
+
+
+This command changes how large your character’s dot on the radar is. The default is 0.6, but you can go as low as 0.4, and as high as 1.
+
+
+cl_showpos
+
+
+One of the CS:GO commands to see the value for your exact position on the map. It will be shown on the top-left of the screen alongside your movement speed.
+
+
+clear
+
+
+This command will remove all previous entries from the Developer Console. It will make it easier to see your most recent commands and keep everything organized.
+
+
+inferno_damage
+
+
+inferno_damage [Damage Per Second]
+
+
+This is a fun command that alters the damage that Molotov cocktails and incendiary grenades do. The default is 40, but you can set it as low as 1 for fun, or as high as 2000 if you’re feeling mean.
+
+
+inferno_flame_lifetime
+
+
+inferno_flame_lifetime [Burn Time]
+
+
+This console command changes how long the fires from Molotov cocktails and incendiary grenades burn for. The default is 7 seconds, but you could make it minutes if you wanted.
+
+
+inferno_max_range
+
+
+This command controls the distance that the flames from Molotov cocktails and incendiary grenades can spread too. The default is 150, but you can spread it much further if you wanted to.
+
+
+jpeg
+
+
+This is the command for taking a screenshot. In the brackets, you would add the filename for the image.
+
+
+map
+
+
+Using this code you can change the map you’re playing on in an instant. Just use the correct code for the map you want to change to.
+
+
+mp_afterroundmoney
+
+
+mp_afterroundmoney [Amount]
+
+
+With this command, you can change how much money is awarded to each player at the end of a round, regardless of winning or losing. By default, this is 0, but you can completely change it depending on how generous you’re feeling.
+
+
+mp_autokick
+
+
+One of the CS:GO commands you can turn the autokick feature on and off. This feature automatically kicks players who are idle for too long.
+
+
+mp_autoteambalance
+
+
+With this command, you can enable or disable the team autobalance feature. When enabled, the feature swaps players around at the end of each match to ensure team numbers are even.
+
+
+net_graph
+
+
+With this command you can enable the net graph using 1, and disable it by setting it to 0. 2 will show network data, and 3 will draw payload data too.
+
+
+notarget
+
+
+Using this command you can make bots unaware of your presence. This means you can run around them and they’ll never see you.
+
+
+sv_grenade_trajectory
+
+
+sv_grenade_trajectory [0 / 1]
+
+
+See the trajectory of grenades by turning this command on with 1. By default this is turned off.
+
+
+viewmodel_presetpos
+
+
+viewmodel_presetpos [1 / 2 / 3]
+
+
+One of the CS:GO commands you can set your X/Y/Z viewmodel offsets for three presets. 1 is desktop, 2 is crouch, and 3 is classic.
+
+
+-cl_show_team_equipment
+
+
+This command disables the effect of “+cl_show_team_equipment.” That command causes your equipment and names to be permanently shown above your head.
+
+
++cl_show_team_equipment
+
+
+Causes the name and equipment of you and your teammates to be shown above your heads.
+
+
+mp_drop_knife_enable
+
+
+mp_drop_knife_enable [0 / 1]
+
+
+One of the CS:GO commands that allows players to drop their knife.
+
+
+sv_autobunnyhopping
+
+
+Makes your character automatically bunnyhoop while holding spacebar.
+
+
+snd_mvp_volume
+
+
+Sets the volume for the MVP music when the award is given for each round.
+
+
+sv_ledge_mantle_helper
+
+
+sv_ledge_mantle_helper [0 / 1 / 2]
+
+
+When enabled, this CS:GO command makes it easier to crouch jump. At 1, it’s easier to jump into windows and vents, but on 2, it’s easier to jump onto all ledges.
+
+
+sv_prime_accounts_only
+
+
+sv_prime_accounts_only [0 / 1]
+
+
+If enabled, this command makes it so that only prime accounts may connect to the server. The default usually allows all players to connect.
+
+
+BindToggle
+
+
+BindToggle [Bind Key] ["Bind Command"]
+
+
+Use this command to assign a hotkey that you can use to scroll through the values for future commands. This makes it easier to switch on or off certain commands, and swap through other presets in this list.
+
+
+cl_autobuy
+
+
+Using this command sets up your autobuy purchases. All you need to do is press the key at the start of the round and your purchases will be made automatically.
+
+
+cl_crosshaircolor_b
+
+
+cl_crosshaircolor_b [Blue Value]
+
+
+Adjust the blue color level of your crosshair with this command.
+
+
+cl_crosshaircolor_g
+
+
+cl_crosshaircolor_g [Green Value]
+
+
+Adjust the green color level of your crosshair with this command.
+
+
+cl_crosshaircolor_r
+
+
+cl_crosshaircolor_r [Red Value]
+
+
+Adjust the red color level of your crosshair with this command.
+
+
+cl_crosshairgap_useweaponvalue
+
+
+cl_crosshairgap_useweaponvalue [0 / 1]
+
+
+While activated, your crosshair will dynamically change with the size of your weapon.
+
+
+cl_disablehtmlmotd
+
+
+Use this command to disable the HMTL ‘message of the day’ that shows up in-game. At times these messages play videos at high volume, so disabling them is a welcome ability.
+
+
+cl_forwardspeed
+
+
+Set your forward movement speed with one of the more special CS:GO commands. The default is 450, but you can set it as high as 1000.
+
+
+cl_hideserverip
+
+
+With this command, you can hide the IP of your server. This is best for streamers who want to avoid a DDOS attack.
+
+
+cl_hud_healthammo_style
+
+
+cl_hud_healthammo_style [0 / 1]
+
+
+Use this command to toggle on or off the numbers and bars for your health and armor. 1 only shows a number for each, while 0 shows both the numbers and bars.
+
+
+cl_idealpitchscale
+
+
+cl_idealpitchscale [Pitch Value]
+
+
+With this command you can change the pitch of in-game sound, making bullets sound different.
+
+
+cl_rebuy
+
+
+Use this command to set the priority for your rebuy command. You can prioritize certain items and gear over others, ensuring that you have what you consider to be essential regardless of cash.
+
+
+cl_sidespeed
+
+
+This command sets how fast you can move while running sideways. 450 is the default, but you can push it up to 1001.
+
+
+inferno_friendly_fire_duration
+
+
+inferno_friendly_fire_duration [Duration]
+
+
+Sets the time between damaging a teammate and the server telling you that you’ve damaged them. The default is 6 seconds, but you can make it much faster.
+
+
+inferno_scorch_decals
+
+
+inferno_scorch_decals [0 / 1]
+
+
+This command turns scorch marks from incendiary grenades and Molotov cocktails on and off. It’s easier to see enemies with them off, which is why this command is used.
+
+
+listissues
+
+
+This command will produce a list of the items that you can vote on in your sever. This can include things like kicking players or changing maps.
+
+
+m_rawinput
+
+
+Use this command to enable raw input from your mouse, if set to 1. This removes certain delays that might otherwise affect your gameplay.
+
+
+mm_dedicated_search_maxping
+
+
+mm_dedicated_search_maxping [Max Ping]
+
+
+This command sets your maximum preferred ping when matchmaking on servers. It’s best to use this to avoid being matched with laggy servers.
+
+
+mp_buy_allow_grenades
+
+
+mp_buy_allow_grenades [0 / 1]
+
+
+Use this command to enable or disable the ability to purchase grenades in a match. By default this is set to 1, enabled.
+
+
+mp_buy_anywhere
+
+
+mp_buy_anywhere [0 / 1 / 2 / 3]
+
+
+With this command, you can allow players to purchase items outside of the buyzone. 0 is the default and means you can only purchase items in the buyzone. 1 sets it to buy anywhere for all teams. 2 sets it to buy anywhere for Terrorists only. 3 sets it to buy anywhere for Counter-Terrorists only.
+
+
+mp_buy_during_immunity
+
+
+mp_buy_during_immunity [0 / 1 / 2 / 3]
+
+
+This is one of the CS:GO commands that set the preference for players buying while they are immune. by default, 0, this is disabled. 1 allows both teams to buy when immune, just after the spawn. 2 allows only Terrorists to buy when immune. 3 allows only Counter-Terrorists to buy when immune.
+
+
+mp_buytime
+
+
+Another one of the buying CS:GO commands. This one sets the time in seconds that players have to buy items. This is the additional time after the 15 second round countdown.
+
+
+mp_c4timer
+
+
+A command for setting the seconds after a bomb has been planted before it blows. The default is 40 or 35, but you can change it how you want.
+
+
+mp_competitive_endofmatch_extra_time
+
+
+mp_competitive_endofmatch_extra_time [Seconds]
+
+
+This command relates to the amount of time there is after a competitive match ends to see the scoreboard. By default, this is 15 seconds.
+
+
+mp_ct_default_grenades
+
+
+mp_ct_default_grenades [Grenade Code(s)]
+
+
+Sets the default number of grenades that Counter-Terrorists spawn with. The default is 0, but you can be much more generous.
+
+
+mp_t_default_grenades
+
+
+mp_t_default_grenades [Grenade Code(s)]
+
+
+Sets the default number of grenades that Terrorists spawn with. The default is 0, but you can be much more generous.
+
+
+Conclusion
+
+
+Those are the most-commonly used CS:GO commands that will help you out when you next come to play. There are loads more CS:GO commands out there, and you can use all of them by typing them into your Developer Console.
+
+
+Unfortunately, there’s no command for checking out the best CS:GO skins, but you can easily do that on our website.
